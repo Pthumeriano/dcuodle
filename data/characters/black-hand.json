@@ -1,0 +1,20 @@
+{
+  "id": "black-hand",
+  "name": "Black Hand",
+  "aliases": ["William Hand", "Arauto de Nekron"],
+  "image": "black-hand.webp",
+  "attributes": {
+    "race": "undead",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight", "sorcery"],
+    "antagonists": ["green-lantern", "sinestro"]
+  },
+  "hints": {
+    "habitation": "Ryut",
+    "quote": "Os mortos se levantam, e eu seguro o coração deles na palma da mão.",
+    "palette": ["#0d0d0d", "#1b5e20", "#424242"]
+  }
+}

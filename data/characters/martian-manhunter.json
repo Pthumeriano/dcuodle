@@ -1,0 +1,20 @@
+{
+  "id": "martian-manhunter",
+  "name": "Martian Manhunter",
+  "aliases": ["J'onn J'onzz", "John Jones"],
+  "image": "martian-manhunter.webp",
+  "attributes": {
+    "race": "martian",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["detective"],
+    "powers": ["telepathy", "flight", "super-strength", "invulnerability"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Marte",
+    "quote": "Sou o último filho de Marte, e a Terra é meu novo lar.",
+    "palette": ["#2e7d32", "#b71c1c", "#1565c0"]
+  }
+}

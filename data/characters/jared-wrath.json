@@ -1,0 +1,20 @@
+{
+  "id": "jared-wrath",
+  "name": "Jared",
+  "aliases": ["Son of Trigon", "Wrath"],
+  "image": "jared-wrath.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["rage", "super-strength"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "Gotham Wastelands",
+    "quote": "A Ira herdará o trono do meu pai.",
+    "palette": ["#b71c1c", "#0d0d0d", "#e65100"]
+  }
+}

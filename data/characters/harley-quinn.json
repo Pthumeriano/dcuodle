@@ -4,6 +4,7 @@
   "aliases": ["Harleen Quinzel"],
   "image": "harley-quinn.webp",
   "attributes": {
+    "race": "human",
     "gender": "female",
     "morality": "antihero",
     "groups": ["suicide-squad", "gotham-city-sirens"],

@@ -1,0 +1,20 @@
+{
+  "id": "black-canary",
+  "name": "Black Canary",
+  "aliases": ["Dinah Lance"],
+  "image": "black-canary.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["vigilante"],
+    "powers": ["peak-human"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Star City",
+    "quote": "Meu grito é a última coisa que vilão nenhum quer ouvir.",
+    "palette": ["#212121", "#fdd835", "#1a237e"]
+  }
+}

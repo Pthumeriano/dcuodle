@@ -1,0 +1,20 @@
+{
+  "id": "shazam",
+  "name": "Shazam",
+  "aliases": ["Billy Batson", "Captain Marvel"],
+  "image": "shazam.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": [],
+    "powers": ["super-strength", "flight", "invulnerability", "magic"],
+    "antagonists": ["black-adam"]
+  },
+  "hints": {
+    "habitation": "Fawcett City",
+    "quote": "Uma palavra, um raio, e o garoto vira campeão: SHAZAM!",
+    "palette": ["#c62828", "#fdd835", "#f5f5f5"]
+  }
+}

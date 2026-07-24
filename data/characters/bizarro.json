@@ -1,0 +1,20 @@
+{
+  "id": "bizarro",
+  "name": "Bizarro",
+  "aliases": ["Bizarro-Superman"],
+  "image": "bizarro.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["super-strength", "flight", "invulnerability", "heat-vision"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Htrae (Mundo Bizarro)",
+    "quote": "Eu am Bizarro! Odeio salvar o dia!",
+    "palette": ["#4527a0", "#78909c", "#eceff1"]
+  }
+}

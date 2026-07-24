@@ -1,0 +1,20 @@
+{
+  "id": "t-o-morrow",
+  "name": "T. O. Morrow",
+  "aliases": ["Thomas Oscar Morrow"],
+  "image": "t-o-morrow.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["steel"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "O futuro pertence a quem o constrói no laboratório.",
+    "palette": ["#37474f", "#c62828", "#90a4ae"]
+  }
+}

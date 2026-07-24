@@ -1,0 +1,20 @@
+{
+  "id": "swamp-thing",
+  "name": "Swamp Thing",
+  "aliases": ["Alec Holland"],
+  "image": "swamp-thing.webp",
+  "attributes": {
+    "race": "elemental",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league-dark"],
+    "occupations": ["scientist"],
+    "powers": ["nature", "super-strength"],
+    "antagonists": ["felix-faust"]
+  },
+  "hints": {
+    "habitation": "Pântano da Louisiana",
+    "quote": "O Verde lembra de tudo — e eu sou o Verde.",
+    "palette": ["#1b5e20", "#33691e", "#3e2723"]
+  }
+}

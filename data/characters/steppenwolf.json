@@ -1,0 +1,20 @@
+{
+  "id": "steppenwolf",
+  "name": "Steppenwolf",
+  "aliases": ["Uncle of Darkseid"],
+  "image": "steppenwolf.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "immortality"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Apokolips",
+    "quote": "Pela glória de Darkseid, os mundos cairão.",
+    "palette": ["#455a64", "#37474f", "#7b1fa2"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mantis",
+  "name": "Mantis",
+  "aliases": ["Agente de Darkseid"],
+  "image": "mantis.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Apokolips",
+    "quote": "Absorvo toda energia que ousar me tocar.",
+    "palette": ["#1b5e20", "#0d0d0d", "#7b1fa2"]
+  }
+}

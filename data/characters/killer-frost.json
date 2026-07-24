@@ -1,0 +1,20 @@
+{
+  "id": "killer-frost",
+  "name": "Killer Frost",
+  "aliases": ["Caitlin Snow", "Louise Lincoln"],
+  "image": "killer-frost.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["suicide-squad"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["ice"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Um beijo meu, e você vira estátua de gelo.",
+    "palette": ["#4fc3f7", "#b3e5fc", "#37474f"]
+  }
+}

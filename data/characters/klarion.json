@@ -1,0 +1,20 @@
+{
+  "id": "klarion",
+  "name": "Klarion",
+  "aliases": ["Klarion the Witch Boy"],
+  "image": "klarion.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic"],
+    "antagonists": ["zatanna"]
+  },
+  "hints": {
+    "habitation": "Limbo Town",
+    "quote": "Que travessura deliciosa nós vamos aprontar, Teekl.",
+    "palette": ["#b71c1c", "#212121", "#f5f5f5"]
+  }
+}

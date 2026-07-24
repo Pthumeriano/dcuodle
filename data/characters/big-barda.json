@@ -1,0 +1,20 @@
+{
+  "id": "big-barda",
+  "name": "Big Barda",
+  "aliases": ["Barda Free"],
+  "image": "big-barda.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "New Genesis",
+    "quote": "Fui criada Fúria de Apokolips; hoje luto por amor.",
+    "palette": ["#1565c0", "#f9a825", "#c62828"]
+  }
+}

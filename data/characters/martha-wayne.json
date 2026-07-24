@@ -1,0 +1,20 @@
+{
+  "id": "martha-wayne",
+  "name": "Martha Wayne",
+  "aliases": ["Martha Kane"],
+  "image": "martha-wayne.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["none"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Meu filho será um homem bom — disso eu tenho certeza.",
+    "palette": ["#eceff1", "#b71c1c", "#455a64"]
+  }
+}

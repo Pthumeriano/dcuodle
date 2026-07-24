@@ -1,0 +1,20 @@
+{
+  "id": "future-batman",
+  "name": "Future Batman",
+  "aliases": ["Bruce Wayne (Futuro)"],
+  "image": "future-batman.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["batman-family"],
+    "occupations": ["vigilante", "detective"],
+    "powers": ["peak-human", "genius-intellect"],
+    "antagonists": ["brainiac"]
+  },
+  "hints": {
+    "habitation": "Gotham City (futuro)",
+    "quote": "Vim de um amanhã que o Brainiac destruiu. Não deixarei acontecer de novo.",
+    "palette": ["#0d0d12", "#263238", "#f2c94c"]
+  }
+}

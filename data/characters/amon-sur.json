@@ -1,0 +1,20 @@
+{
+  "id": "amon-sur",
+  "name": "Amon Sur",
+  "aliases": ["Filho de Abin Sur"],
+  "image": "amon-sur.webp",
+  "attributes": {
+    "race": "ungaran",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Ungara",
+    "quote": "O anel devia ser meu por sangue.",
+    "palette": ["#f9a825", "#b71c1c", "#212121"]
+  }
+}

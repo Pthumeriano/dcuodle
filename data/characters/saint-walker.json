@@ -1,0 +1,20 @@
+{
+  "id": "saint-walker",
+  "name": "Saint Walker",
+  "aliases": ["Bro'Dee Walker"],
+  "image": "saint-walker.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Odym",
+    "quote": "Tudo ficará bem — a esperança jamais se apaga.",
+    "palette": ["#1565c0", "#00b0ff", "#eceff1"]
+  }
+}

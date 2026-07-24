@@ -1,0 +1,20 @@
+{
+  "id": "orion",
+  "name": "Orion",
+  "aliases": ["Cão de Guerra de New Genesis"],
+  "image": "orion.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight", "invulnerability"],
+    "antagonists": ["darkseid"]
+  },
+  "hints": {
+    "habitation": "New Genesis",
+    "quote": "A ira do meu pai corre em mim, mas eu escolho a luz.",
+    "palette": ["#c62828", "#f9a825", "#455a64"]
+  }
+}

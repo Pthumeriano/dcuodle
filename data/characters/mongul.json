@@ -1,0 +1,20 @@
+{
+  "id": "mongul",
+  "name": "Mongul",
+  "aliases": [],
+  "image": "mongul.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["royalty", "warrior"],
+    "powers": ["super-strength", "invulnerability", "hard-light"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Mundo de Guerra",
+    "quote": "Ajoelhe-se, ou vire mais um troféu do meu mundo de guerra.",
+    "palette": ["#f9a825", "#6a1b9a", "#212121"]
+  }
+}

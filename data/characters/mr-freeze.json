@@ -1,0 +1,20 @@
+{
+  "id": "mr-freeze",
+  "name": "Mr. Freeze",
+  "aliases": ["Victor Fries"],
+  "image": "mr-freeze.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["ice", "genius-intellect"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Não descansarei até trazer o frio da morte a Gotham.",
+    "palette": ["#00bcd4", "#607d8b", "#e1f5fe"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "brainiac",
+  "name": "Brainiac",
+  "aliases": ["Vril Dox", "The Collector of Worlds"],
+  "image": "brainiac.webp",
+  "attributes": {
+    "race": "coluan",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "A Nave-Garrafa",
+    "quote": "Conhecimento é poder. Eu tomarei os dois.",
+    "palette": ["#1b5e20", "#00e5ff", "#212121"]
+  }
+}

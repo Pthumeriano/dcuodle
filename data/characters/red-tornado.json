@@ -1,0 +1,20 @@
+{
+  "id": "red-tornado",
+  "name": "Red Tornado",
+  "aliases": ["John Smith"],
+  "image": "red-tornado.webp",
+  "attributes": {
+    "race": "machine",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": [],
+    "powers": ["flight", "super-strength"],
+    "antagonists": ["t-o-morrow"]
+  },
+  "hints": {
+    "habitation": "Happy Harbor",
+    "quote": "Sou uma máquina que aprendeu a sentir o vento — e a escolher o certo.",
+    "palette": ["#b71c1c", "#455a64", "#eceff1"]
+  }
+}

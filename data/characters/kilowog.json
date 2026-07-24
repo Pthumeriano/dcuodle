@@ -1,0 +1,20 @@
+{
+  "id": "kilowog",
+  "name": "Kilowog",
+  "aliases": ["Sargento Kilowog"],
+  "image": "kilowog.webp",
+  "attributes": {
+    "race": "bolovaxian",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight", "super-strength"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Oa",
+    "quote": "Escuta aqui, poozer! Ainda vou fazer de você um Lanterna.",
+    "palette": ["#2e7d32", "#ad1457", "#212121"]
+  }
+}

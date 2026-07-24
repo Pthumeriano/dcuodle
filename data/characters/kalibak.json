@@ -1,0 +1,20 @@
+{
+  "id": "kalibak",
+  "name": "Kalibak",
+  "aliases": ["Son of Darkseid"],
+  "image": "kalibak.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Apokolips",
+    "quote": "O favor do meu pai eu conquisto com os punhos.",
+    "palette": ["#5d4037", "#455a64", "#b71c1c"]
+  }
+}

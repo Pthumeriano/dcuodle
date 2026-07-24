@@ -1,0 +1,20 @@
+{
+  "id": "james-greed",
+  "name": "James",
+  "aliases": ["Son of Trigon", "Greed"],
+  "image": "james-greed.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "Gotham Wastelands",
+    "quote": "O mundo inteiro, e ainda quero a sua parte.",
+    "palette": ["#f9a825", "#0d0d0d", "#5d4037"]
+  }
+}

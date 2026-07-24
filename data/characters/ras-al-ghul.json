@@ -1,0 +1,20 @@
+{
+  "id": "ras-al-ghul",
+  "name": "Ra's al Ghul",
+  "aliases": ["The Demon's Head"],
+  "image": "ras-al-ghul.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["immortality", "peak-human"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Nanda Parbat",
+    "quote": "A Terra precisa ser purgada, e eu vivo o bastante para fazê-lo.",
+    "palette": ["#1b5e20", "#004d40", "#212121"]
+  }
+}

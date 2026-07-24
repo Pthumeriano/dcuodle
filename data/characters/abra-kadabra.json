@@ -1,0 +1,20 @@
+{
+  "id": "abra-kadabra",
+  "name": "Abra Kadabra",
+  "aliases": ["Citizen Abra"],
+  "image": "abra-kadabra.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["magician", "criminal"],
+    "powers": ["magic"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Central City",
+    "quote": "Não é mágica — é ciência do século 64. Mas o truque engana igual.",
+    "palette": ["#6a1b9a", "#c6ff00", "#212121"]
+  }
+}

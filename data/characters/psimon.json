@@ -1,0 +1,20 @@
+{
+  "id": "psimon",
+  "name": "Psimon",
+  "aliases": ["Simon Jones"],
+  "image": "psimon.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["telepathy"],
+    "antagonists": ["starfire"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Psimon pensa, e a realidade obedece.",
+    "palette": ["#6a1b9a", "#e1bee7", "#212121"]
+  }
+}

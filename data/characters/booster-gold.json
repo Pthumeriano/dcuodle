@@ -1,0 +1,20 @@
+{
+  "id": "booster-gold",
+  "name": "Booster Gold",
+  "aliases": ["Michael Carter"],
+  "image": "booster-gold.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["vigilante"],
+    "powers": ["flight", "super-strength"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Metropolis (do século 25)",
+    "quote": "O maior herói de que você nunca ouviu falar... ainda.",
+    "palette": ["#f9a825", "#1565c0", "#eeeeee"]
+  }
+}

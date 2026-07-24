@@ -1,0 +1,20 @@
+{
+  "id": "felix-faust",
+  "name": "Felix Faust",
+  "aliases": ["Faust"],
+  "image": "felix-faust.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["magician"],
+    "powers": ["magic", "immortality"],
+    "antagonists": ["zatanna"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Vendi a alma por poder, e faria de novo sem pestanejar.",
+    "palette": ["#4a148c", "#5d4037", "#212121"]
+  }
+}

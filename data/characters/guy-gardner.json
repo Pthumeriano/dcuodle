@@ -1,0 +1,20 @@
+{
+  "id": "guy-gardner",
+  "name": "Guy Gardner",
+  "aliases": ["Warrior"],
+  "image": "guy-gardner.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["sinestro"]
+  },
+  "hints": {
+    "habitation": "Baltimore",
+    "quote": "Eu sou o melhor Lanterna que já existiu, e não tô nem aí.",
+    "palette": ["#2e7d32", "#b71c1c", "#5d4037"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "toyman",
+  "name": "Toyman",
+  "aliases": ["Winslow Schott"],
+  "image": "toyman.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Meus brinquedos brincam de verdade.",
+    "palette": ["#d81b60", "#fdd835", "#1565c0"]
+  }
+}

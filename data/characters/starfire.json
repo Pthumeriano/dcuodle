@@ -1,0 +1,20 @@
+{
+  "id": "starfire",
+  "name": "Starfire",
+  "aliases": ["Koriand'r", "Kory Anders"],
+  "image": "starfire.webp",
+  "attributes": {
+    "race": "tamaranean",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["royalty", "vigilante"],
+    "powers": ["flight", "super-strength"],
+    "antagonists": ["brother-blood"]
+  },
+  "hints": {
+    "habitation": "Tamaran",
+    "quote": "Sinto tudo com fogo — inclusive a amizade.",
+    "palette": ["#e65100", "#6a1b9a", "#66bb6a"]
+  }
+}

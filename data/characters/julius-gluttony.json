@@ -1,0 +1,20 @@
+{
+  "id": "julius-gluttony",
+  "name": "Julius",
+  "aliases": ["Son of Trigon", "Gluttony"],
+  "image": "julius-gluttony.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["super-strength"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "Gotham Wastelands",
+    "quote": "Nunca é o bastante. Nunca será.",
+    "palette": ["#e65100", "#0d0d0d", "#8d6e63"]
+  }
+}

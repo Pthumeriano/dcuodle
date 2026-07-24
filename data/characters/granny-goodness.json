@@ -1,0 +1,20 @@
+{
+  "id": "granny-goodness",
+  "name": "Granny Goodness",
+  "aliases": ["Fúrias Femininas"],
+  "image": "granny-goodness.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Apokolips",
+    "quote": "As órfãs de Granny aprendem obediência na dor.",
+    "palette": ["#5d4037", "#7b1fa2", "#eceff1"]
+  }
+}

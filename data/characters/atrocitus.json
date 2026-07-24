@@ -1,0 +1,20 @@
+{
+  "id": "atrocitus",
+  "name": "Atrocitus",
+  "aliases": ["Atros"],
+  "image": "atrocitus.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight", "super-strength"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Ysmault",
+    "quote": "A raiva é o sangue que ferve, e o meu jamais esfria.",
+    "palette": ["#b71c1c", "#0d0d0d", "#212121"]
+  }
+}

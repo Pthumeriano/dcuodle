@@ -1,0 +1,20 @@
+{
+  "id": "lyssa-drak",
+  "name": "Lyssa Drak",
+  "aliases": ["Guardiã do Livro de Parallax"],
+  "image": "lyssa-drak.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Qward",
+    "quote": "Todo medo tem uma página, e eu as escrevo todas.",
+    "palette": ["#f9a825", "#212121", "#4a148c"]
+  }
+}

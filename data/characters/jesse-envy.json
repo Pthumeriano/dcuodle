@@ -1,0 +1,20 @@
+{
+  "id": "jesse-envy",
+  "name": "Jesse",
+  "aliases": ["Son of Trigon", "Envy"],
+  "image": "jesse-envy.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "Gotham Wastelands",
+    "quote": "Tudo o que é seu deveria ser meu.",
+    "palette": ["#1b5e20", "#0d0d0d", "#7b1fa2"]
+  }
+}

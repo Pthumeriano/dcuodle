@@ -1,0 +1,20 @@
+{
+  "id": "stompa",
+  "name": "Stompa",
+  "aliases": ["Fúria Feminina"],
+  "image": "stompa.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": ["big-barda"]
+  },
+  "hints": {
+    "habitation": "Apokolips",
+    "quote": "Um pisão meu e o chão — e você — racha.",
+    "palette": ["#5d4037", "#37474f", "#c62828"]
+  }
+}

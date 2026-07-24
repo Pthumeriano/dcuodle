@@ -1,0 +1,20 @@
+{
+  "id": "hawkman",
+  "name": "Hawkman",
+  "aliases": ["Carter Hall", "Katar Hol"],
+  "image": "hawkman.webp",
+  "attributes": {
+    "race": "thanagarian",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["warrior"],
+    "powers": ["flight", "super-strength"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Thanagar",
+    "quote": "Minhas asas conhecem mil vidas de batalha.",
+    "palette": ["#c62828", "#f9a825", "#5d4037"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "non",
+  "name": "Non",
+  "aliases": [],
+  "image": "non.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight", "invulnerability"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Zona Fantasma",
+    "quote": "(Non jamais fala — só os punhos.)",
+    "palette": ["#37474f", "#263238", "#8d6e63"]
+  }
+}

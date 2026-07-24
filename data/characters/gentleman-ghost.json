@@ -1,0 +1,20 @@
+{
+  "id": "gentleman-ghost",
+  "name": "Gentleman Ghost",
+  "aliases": ["James Craddock"],
+  "image": "gentleman-ghost.webp",
+  "attributes": {
+    "race": "spirit",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic", "flight"],
+    "antagonists": ["hawkman"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Um cavalheiro morto ainda sabe fazer uma entrada elegante.",
+    "palette": ["#eceff1", "#b0bec5", "#212121"]
+  }
+}

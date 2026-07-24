@@ -1,0 +1,20 @@
+{
+  "id": "giganta",
+  "name": "Giganta",
+  "aliases": ["Doris Zeul"],
+  "image": "giganta.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["legion-of-doom"],
+    "occupations": ["scientist"],
+    "powers": ["super-strength"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Quanto maior eu fico, menor você parece.",
+    "palette": ["#e65100", "#5d4037", "#ffb300"]
+  }
+}

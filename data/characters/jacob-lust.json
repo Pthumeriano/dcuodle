@@ -1,0 +1,20 @@
+{
+  "id": "jacob-lust",
+  "name": "Jacob",
+  "aliases": ["Son of Trigon", "Lust"],
+  "image": "jacob-lust.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "Gotham Wastelands",
+    "quote": "Todo desejo tem um preço, e eu cobro caro.",
+    "palette": ["#ad1457", "#0d0d0d", "#f06292"]
+  }
+}

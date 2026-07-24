@@ -1,0 +1,20 @@
+{
+  "id": "the-huntress",
+  "name": "Huntress",
+  "aliases": ["Helena Bertinelli"],
+  "image": "the-huntress.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["vigilante"],
+    "powers": ["peak-human", "marksmanship"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Justiça e vingança são a mesma flecha na minha besta.",
+    "palette": ["#4a148c", "#212121", "#eceff1"]
+  }
+}

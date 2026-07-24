@@ -1,0 +1,20 @@
+{
+  "id": "nightwing",
+  "name": "Nightwing",
+  "aliases": ["Dick Grayson"],
+  "image": "nightwing.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["batman-family", "teen-titans", "noctem"],
+    "occupations": ["vigilante", "detective"],
+    "powers": ["peak-human"],
+    "antagonists": ["deathstroke", "joker"]
+  },
+  "hints": {
+    "habitation": "Blüdhaven",
+    "quote": "I'm not Batman. And that's exactly the point.",
+    "palette": ["#101418", "#1565c0", "#0d0d0d"]
+  }
+}

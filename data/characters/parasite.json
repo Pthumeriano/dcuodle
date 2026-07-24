@@ -1,0 +1,20 @@
+{
+  "id": "parasite",
+  "name": "Parasite",
+  "aliases": ["Rudy Jones"],
+  "image": "parasite.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["super-strength"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Cada gota de poder que você tem, eu dreno.",
+    "palette": ["#6a1b9a", "#4a148c", "#aeea00"]
+  }
+}

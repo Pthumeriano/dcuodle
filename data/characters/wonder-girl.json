@@ -1,0 +1,20 @@
+{
+  "id": "wonder-girl",
+  "name": "Wonder Girl",
+  "aliases": ["Cassie Sandsmark"],
+  "image": "wonder-girl.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["vigilante"],
+    "powers": ["super-strength", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Filha de Zeus, e ainda assim escolho lutar ao lado dos meus.",
+    "palette": ["#b71c1c", "#fdd835", "#212121"]
+  }
+}

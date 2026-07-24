@@ -1,0 +1,20 @@
+{
+  "id": "ursa",
+  "name": "Ursa",
+  "aliases": ["Faora"],
+  "image": "ursa.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight", "invulnerability"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Zona Fantasma",
+    "quote": "Lealdade a Zod, morte a todo o resto.",
+    "palette": ["#263238", "#37474f", "#b71c1c"]
+  }
+}

@@ -4,6 +4,7 @@
   "aliases": ["Alexander Luthor"],
   "image": "lex-luthor.webp",
   "attributes": {
+    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["legion-of-doom"],

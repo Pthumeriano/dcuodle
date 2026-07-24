@@ -8,7 +8,7 @@ Orientações para o Claude Code trabalhar neste repositório.
 
 ## 1. Visão geral
 
-Dcdle é um jogo no estilo Wordle/Loldle com personagens da **DC Comics**. O modo principal
+DCUOdle é um jogo no estilo Wordle/Loldle com personagens da **DC Comics**. O modo principal
 é o **Classic**: o jogador tem que acertar o personagem do dia.
 
 Rails monolítico fullstack. **A lógica do jogo roda no front-end.** O backend existe para
@@ -50,6 +50,7 @@ dia:
 | Atributo      | Cardinalidade | Feedback                                     |
 | ------------- | ------------- | -------------------------------------------- |
 | `gender`      | único         | ✅ acerto / ❌ erro                           |
+| `race`        | único         | ✅ / ❌                                       |
 | `morality`    | único         | ✅ / ❌                                       |
 | `groups`      | lista         | ✅ igual / 🟡 interseção não vazia / ❌ nenhuma |
 | `occupations` | lista         | ✅ igual / 🟡 interseção não vazia / ❌ nenhuma |

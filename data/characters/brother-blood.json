@@ -1,0 +1,20 @@
+{
+  "id": "brother-blood",
+  "name": "Brother Blood",
+  "aliases": ["Sebastian Blood"],
+  "image": "brother-blood.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["magic"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Meu culto banha-se no sangue dos fiéis.",
+    "palette": ["#b71c1c", "#212121", "#8d6e63"]
+  }
+}

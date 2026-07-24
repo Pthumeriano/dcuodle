@@ -1,0 +1,20 @@
+{
+  "id": "teekl",
+  "name": "Teekl",
+  "aliases": ["Familiar de Klarion"],
+  "image": "teekl.webp",
+  "attributes": {
+    "race": "animal",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Limbo Town",
+    "quote": "Um ronronar antes da maldição.",
+    "palette": ["#e65100", "#fff3e0", "#5d4037"]
+  }
+}

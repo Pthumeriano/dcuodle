@@ -1,0 +1,20 @@
+{
+  "id": "larfleeze",
+  "name": "Larfleeze",
+  "aliases": ["Agent Orange"],
+  "image": "larfleeze.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Okaara",
+    "quote": "Meu! Tudo é meu — a luz laranja não divide nada.",
+    "palette": ["#e65100", "#ff6f00", "#212121"]
+  }
+}

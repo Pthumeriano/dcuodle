@@ -1,0 +1,20 @@
+{
+  "id": "emotional-entity",
+  "name": "Emotional Entity",
+  "aliases": ["Ion", "Ophidian", "Adara", "Proselyte", "Butcher"],
+  "image": "emotional-entity.webp",
+  "attributes": {
+    "race": "elemental",
+    "gender": "non-binary",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Espectro Emocional",
+    "quote": "Somos as emoções vivas que movem todo o universo.",
+    "palette": ["#00e676", "#f9a825", "#8e24aa"]
+  }
+}

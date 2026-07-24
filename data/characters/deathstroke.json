@@ -1,0 +1,20 @@
+{
+  "id": "deathstroke",
+  "name": "Deathstroke",
+  "aliases": ["Slade Wilson", "The Terminator"],
+  "image": "deathstroke.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["warrior", "criminal"],
+    "powers": ["super-strength", "marksmanship"],
+    "antagonists": ["nightwing"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Sou o melhor no que faço, e o que faço não é nada agradável.",
+    "palette": ["#e65100", "#212121", "#1565c0"]
+  }
+}

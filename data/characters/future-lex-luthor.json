@@ -1,0 +1,20 @@
+{
+  "id": "future-lex-luthor",
+  "name": "Future Lex Luthor",
+  "aliases": ["Lex Luthor (Futuro)"],
+  "image": "future-lex-luthor.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["ceo", "scientist"],
+    "powers": ["genius-intellect", "super-strength"],
+    "antagonists": ["brainiac"]
+  },
+  "hints": {
+    "habitation": "Metropolis (futuro)",
+    "quote": "Eu matei o Superman. Foi o maior erro que já cometi.",
+    "palette": ["#2e7d32", "#4a148c", "#90a4ae"]
+  }
+}

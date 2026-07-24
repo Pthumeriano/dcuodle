@@ -1,0 +1,20 @@
+{
+  "id": "hush",
+  "name": "Hush",
+  "aliases": ["Thomas Elliot"],
+  "image": "hush.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Silêncio. O bisturi já vai começar.",
+    "palette": ["#eceff1", "#90a4ae", "#b71c1c"]
+  }
+}

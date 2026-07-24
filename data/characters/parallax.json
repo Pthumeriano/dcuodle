@@ -1,0 +1,20 @@
+{
+  "id": "parallax",
+  "name": "Parallax",
+  "aliases": ["Entidade do Medo"],
+  "image": "parallax.webp",
+  "attributes": {
+    "race": "elemental",
+    "gender": "non-binary",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Setor 2814",
+    "quote": "Eu sou o medo que vive em cada coração.",
+    "palette": ["#f9a825", "#4a148c", "#212121"]
+  }
+}

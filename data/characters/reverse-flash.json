@@ -1,0 +1,20 @@
+{
+  "id": "reverse-flash",
+  "name": "Reverse-Flash",
+  "aliases": ["Eobard Thawne"],
+  "image": "reverse-flash.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["super-speed"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Central City (do século 25)",
+    "quote": "Eu sou o oposto de tudo o que você ama, Barry.",
+    "palette": ["#f9d71c", "#b71c1c", "#212121"]
+  }
+}

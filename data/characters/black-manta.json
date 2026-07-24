@@ -1,0 +1,20 @@
+{
+  "id": "black-manta",
+  "name": "Black Manta",
+  "aliases": ["David Hyde"],
+  "image": "black-manta.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["peak-human"],
+    "antagonists": ["aquaman"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "O oceano será meu túmulo para o Aquaman.",
+    "palette": ["#212121", "#c62828", "#455a64"]
+  }
+}

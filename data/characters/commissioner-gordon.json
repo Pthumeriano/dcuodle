@@ -1,0 +1,20 @@
+{
+  "id": "commissioner-gordon",
+  "name": "Commissioner Gordon",
+  "aliases": ["James Gordon"],
+  "image": "commissioner-gordon.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["batman-family"],
+    "occupations": ["detective"],
+    "powers": ["none"],
+    "antagonists": ["joker"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Acenda o Sinal do Morcego. Gotham precisa dele esta noite.",
+    "palette": ["#263238", "#455a64", "#fdd835"]
+  }
+}

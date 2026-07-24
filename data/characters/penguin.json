@@ -1,0 +1,20 @@
+{
+  "id": "penguin",
+  "name": "Penguin",
+  "aliases": ["Oswald Cobblepot"],
+  "image": "penguin.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal", "ceo"],
+    "powers": ["none"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Um cavalheiro sempre tem um truque na cartola.",
+    "palette": ["#0d0d0d", "#4a148c", "#eceff1"]
+  }
+}

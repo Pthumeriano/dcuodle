@@ -1,0 +1,20 @@
+{
+  "id": "alfred",
+  "name": "Alfred",
+  "aliases": ["Alfred Pennyworth"],
+  "image": "alfred.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["batman-family"],
+    "occupations": [],
+    "powers": ["none"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Nunca subestime a importância de um bom mordomo, Patrão Bruce.",
+    "palette": ["#37474f", "#eceff1", "#8d6e63"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "indigo-1",
+  "name": "Indigo-1",
+  "aliases": ["Iroque"],
+  "image": "indigo-1.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Nok",
+    "quote": "Nok. A compaixão é a luz que redime até os piores.",
+    "palette": ["#4a148c", "#283593", "#e8eaf6"]
+  }
+}

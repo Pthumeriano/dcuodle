@@ -1,0 +1,20 @@
+{
+  "id": "the-trickster",
+  "name": "Trickster",
+  "aliases": ["James Jesse"],
+  "image": "the-trickster.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["gadgets"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Central City",
+    "quote": "Minhas pegadinhas explodem — e a piada é sempre por sua conta.",
+    "palette": ["#c2185b", "#fdd835", "#2e7d32"]
+  }
+}

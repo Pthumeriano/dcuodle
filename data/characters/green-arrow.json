@@ -4,6 +4,7 @@
   "aliases": ["Oliver Queen"],
   "image": "green-arrow.webp",
   "attributes": {
+    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

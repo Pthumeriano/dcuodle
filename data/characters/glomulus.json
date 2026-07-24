@@ -1,0 +1,20 @@
+{
+  "id": "glomulus",
+  "name": "Glomulus",
+  "aliases": ["Construto de Larfleeze"],
+  "image": "glomulus.webp",
+  "attributes": {
+    "race": "elemental",
+    "gender": "non-binary",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Okaara",
+    "quote": "Glomulus quer! Glomulus pega!",
+    "palette": ["#ff6f00", "#ffab00", "#212121"]
+  }
+}

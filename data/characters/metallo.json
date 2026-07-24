@@ -1,0 +1,20 @@
+{
+  "id": "metallo",
+  "name": "Metallo",
+  "aliases": ["John Corben"],
+  "image": "metallo.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["suicide-squad"],
+    "occupations": ["criminal"],
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Meu coração é feito de kryptonita — e é só para você, Superman.",
+    "palette": ["#2e7d32", "#616161", "#b0bec5"]
+  }
+}

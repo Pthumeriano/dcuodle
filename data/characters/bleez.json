@@ -1,0 +1,20 @@
+{
+  "id": "bleez",
+  "name": "Bleez",
+  "aliases": [],
+  "image": "bleez.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Ysmault",
+    "quote": "Cada asa quebrada virou uma lâmina de ódio.",
+    "palette": ["#b71c1c", "#880e4f", "#212121"]
+  }
+}

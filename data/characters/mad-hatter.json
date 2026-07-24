@@ -1,0 +1,20 @@
+{
+  "id": "mad-hatter",
+  "name": "Mad Hatter",
+  "aliases": ["Jervis Tetch"],
+  "image": "mad-hatter.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Estamos todos loucos aqui — eu só tenho o chapéu certo.",
+    "palette": ["#2e7d32", "#6a1b9a", "#fdd835"]
+  }
+}

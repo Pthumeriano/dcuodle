@@ -1,0 +1,20 @@
+{
+  "id": "cyborg",
+  "name": "Cyborg",
+  "aliases": ["Victor Stone"],
+  "image": "cyborg.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["teen-titans", "justice-league", "noctem"],
+    "occupations": ["vigilante"],
+    "powers": ["super-strength", "genius-intellect", "flight"],
+    "antagonists": ["brainiac", "deathstroke"]
+  },
+  "hints": {
+    "habitation": "Detroit",
+    "quote": "Booyah!",
+    "palette": ["#212121", "#c62828", "#90a4ae"]
+  }
+}

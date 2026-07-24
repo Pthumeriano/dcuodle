@@ -1,0 +1,20 @@
+{
+  "id": "highfather",
+  "name": "Highfather",
+  "aliases": ["Izaya"],
+  "image": "highfather.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["royalty"],
+    "powers": ["immortality", "genius-intellect"],
+    "antagonists": ["darkseid"]
+  },
+  "hints": {
+    "habitation": "New Genesis",
+    "quote": "Enquanto Darkseid busca dominar, nós buscamos proteger.",
+    "palette": ["#eceff1", "#f9a825", "#1565c0"]
+  }
+}

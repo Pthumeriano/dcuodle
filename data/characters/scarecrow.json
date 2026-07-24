@@ -1,0 +1,20 @@
+{
+  "id": "scarecrow",
+  "name": "Scarecrow",
+  "aliases": ["Jonathan Crane"],
+  "image": "scarecrow.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["psychiatrist", "criminal"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "O medo é a única cura para a esperança.",
+    "palette": ["#5d4037", "#212121", "#cddc39"]
+  }
+}

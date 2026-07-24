@@ -1,0 +1,20 @@
+{
+  "id": "sinestro",
+  "name": "Sinestro",
+  "aliases": ["Thaal Sinestro"],
+  "image": "sinestro.webp",
+  "attributes": {
+    "race": "korugaran",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Korugar",
+    "quote": "O medo é a mais pura arma da vontade.",
+    "palette": ["#f9a825", "#4a148c", "#212121"]
+  }
+}

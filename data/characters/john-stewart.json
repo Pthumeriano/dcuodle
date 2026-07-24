@@ -1,0 +1,20 @@
+{
+  "id": "john-stewart",
+  "name": "John Stewart",
+  "aliases": ["Green Lantern"],
+  "image": "john-stewart.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["sinestro"]
+  },
+  "hints": {
+    "habitation": "Detroit",
+    "quote": "Um fuzileiro não erra o alvo, e minha vontade também não.",
+    "palette": ["#2e7d32", "#0d0d0d", "#eceff1"]
+  }
+}

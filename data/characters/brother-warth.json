@@ -1,0 +1,20 @@
+{
+  "id": "brother-warth",
+  "name": "Brother Warth",
+  "aliases": ["Blue Lantern"],
+  "image": "brother-warth.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Odym",
+    "quote": "Onde há esperança, o medo não tem morada.",
+    "palette": ["#1565c0", "#00b0ff", "#e3f2fd"]
+  }
+}

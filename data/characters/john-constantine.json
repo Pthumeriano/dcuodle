@@ -1,0 +1,20 @@
+{
+  "id": "john-constantine",
+  "name": "John Constantine",
+  "aliases": ["Hellblazer"],
+  "image": "john-constantine.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["justice-league-dark"],
+    "occupations": ["magician", "detective"],
+    "powers": ["magic"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Londres",
+    "quote": "Eu trapaceio, minto e fumo — mas salvo o mundo mesmo assim.",
+    "palette": ["#c9a227", "#5d4037", "#212121"]
+  }
+}

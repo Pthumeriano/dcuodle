@@ -1,0 +1,20 @@
+{
+  "id": "krona",
+  "name": "Krona",
+  "aliases": ["O Guardião Renegado"],
+  "image": "krona.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["genius-intellect", "immortality"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Maltus",
+    "quote": "Eu vi o começo do universo — e pagaria qualquer preço para ver mais.",
+    "palette": ["#1a237e", "#5d4037", "#eceff1"]
+  }
+}

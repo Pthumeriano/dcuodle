@@ -1,0 +1,20 @@
+{
+  "id": "donna-troy",
+  "name": "Donna Troy",
+  "aliases": ["Troia"],
+  "image": "donna-troy.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Themyscira",
+    "quote": "Nasci do barro e das estrelas, e luto por ambos.",
+    "palette": ["#b71c1c", "#1a237e", "#fdd835"]
+  }
+}

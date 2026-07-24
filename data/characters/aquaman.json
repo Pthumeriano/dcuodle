@@ -4,6 +4,7 @@
   "aliases": ["Arthur Curry", "Orin"],
   "image": "aquaman.webp",
   "attributes": {
+    "race": "atlantean",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

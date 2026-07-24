@@ -1,0 +1,20 @@
+{
+  "id": "arisia",
+  "name": "Arisia",
+  "aliases": ["Arisia Rrab"],
+  "image": "arisia.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["sinestro"]
+  },
+  "hints": {
+    "habitation": "Graxos IV",
+    "quote": "Jovem para os padrões do Corpo, veterana para o inimigo.",
+    "palette": ["#2e7d32", "#f9a825", "#212121"]
+  }
+}

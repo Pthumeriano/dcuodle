@@ -1,0 +1,20 @@
+{
+  "id": "mammoth",
+  "name": "Mammoth",
+  "aliases": ["Baran Flinders"],
+  "image": "mammoth.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": ["starfire"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Grande, forte, e cansado das suas palavras.",
+    "palette": ["#5d4037", "#e65100", "#3e2723"]
+  }
+}

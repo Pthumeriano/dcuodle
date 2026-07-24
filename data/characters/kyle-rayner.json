@@ -1,0 +1,20 @@
+{
+  "id": "kyle-rayner",
+  "name": "Kyle Rayner",
+  "aliases": ["The Torchbearer"],
+  "image": "kyle-rayner.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["vigilante"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["sinestro"]
+  },
+  "hints": {
+    "habitation": "Oa",
+    "quote": "Sem medo e sem limite — meu anel obedece à imaginação.",
+    "palette": ["#2e7d32", "#00e676", "#212121"]
+  }
+}

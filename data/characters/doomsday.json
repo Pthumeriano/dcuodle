@@ -1,0 +1,20 @@
+{
+  "id": "doomsday",
+  "name": "Doomsday",
+  "aliases": ["The Ultimate"],
+  "image": "doomsday.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Krypton (soterrado)",
+    "quote": "Nada pode me deter. Nada pode me matar duas vezes.",
+    "palette": ["#455a64", "#cfd8dc", "#3e2723"]
+  }
+}

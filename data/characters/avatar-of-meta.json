@@ -1,0 +1,20 @@
+{
+  "id": "avatar-of-meta",
+  "name": "Avatar of Meta",
+  "aliases": ["Prime Avatar"],
+  "image": "avatar-of-meta.webp",
+  "attributes": {
+    "race": "machine",
+    "gender": "non-binary",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["super-strength", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Prime Battleground",
+    "quote": "A carne metahumana é só mais um dado a coletar.",
+    "palette": ["#e65100", "#00e5ff", "#212121"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "clayface",
+  "name": "Clayface",
+  "aliases": ["Basil Karlo"],
+  "image": "clayface.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["super-strength"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Posso ser qualquer um. Posso ser você.",
+    "palette": ["#5d4037", "#795548", "#3e2723"]
+  }
+}

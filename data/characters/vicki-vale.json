@@ -1,0 +1,20 @@
+{
+  "id": "vicki-vale",
+  "name": "Vicki Vale",
+  "aliases": ["Vicki Vale"],
+  "image": "vicki-vale.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["journalist"],
+    "powers": ["none"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "A verdade sobre o Morcego vale qualquer manchete.",
+    "palette": ["#c2185b", "#eceff1", "#5d4037"]
+  }
+}

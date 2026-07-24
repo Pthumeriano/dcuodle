@@ -1,0 +1,20 @@
+{
+  "id": "power-girl",
+  "name": "Power Girl",
+  "aliases": ["Kara Zor-L", "Karen Starr"],
+  "image": "power-girl.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["ceo"],
+    "powers": ["flight", "super-strength", "heat-vision", "invulnerability"],
+    "antagonists": ["brainiac"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Sou a Kara da minha Terra, e não preciso da sombra de ninguém.",
+    "palette": ["#1565c0", "#f5f5f5", "#f9a825"]
+  }
+}

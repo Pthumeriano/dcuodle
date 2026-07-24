@@ -1,0 +1,20 @@
+{
+  "id": "lashina",
+  "name": "Lashina",
+  "aliases": ["Fúria Feminina"],
+  "image": "lashina.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength"],
+    "antagonists": ["big-barda"]
+  },
+  "hints": {
+    "habitation": "Apokolips",
+    "quote": "Minhas correias de aço enrolam e não soltam mais.",
+    "palette": ["#b71c1c", "#212121", "#90a4ae"]
+  }
+}

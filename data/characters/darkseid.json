@@ -1,0 +1,20 @@
+{
+  "id": "darkseid",
+  "name": "Darkseid",
+  "aliases": ["Uxas", "Senhor de Apokolips"],
+  "image": "darkseid.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["royalty", "warrior"],
+    "powers": ["super-strength", "invulnerability", "heat-vision", "immortality"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Apokolips",
+    "quote": "Eu sou Darkseid. Ajoelhem-se.",
+    "palette": ["#455a64", "#37474f", "#c62828"]
+  }
+}

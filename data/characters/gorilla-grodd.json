@@ -1,0 +1,20 @@
+{
+  "id": "gorilla-grodd",
+  "name": "Gorilla Grodd",
+  "aliases": [],
+  "image": "gorilla-grodd.webp",
+  "attributes": {
+    "race": "animal",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["legion-of-doom"],
+    "occupations": ["scientist"],
+    "powers": ["telepathy", "super-strength", "genius-intellect"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Gorilla City",
+    "quote": "A mente do macaco supera a de qualquer homem. Ajoelhem-se.",
+    "palette": ["#5d4037", "#3e2723", "#c62828"]
+  }
+}

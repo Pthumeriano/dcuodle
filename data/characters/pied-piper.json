@@ -1,0 +1,20 @@
+{
+  "id": "pied-piper",
+  "name": "Pied Piper",
+  "aliases": ["Hartley Rathaway"],
+  "image": "pied-piper.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["gadgets"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Central City",
+    "quote": "Toda flauta tem uma nota que ninguém resiste.",
+    "palette": ["#2e7d32", "#f9a825", "#212121"]
+  }
+}

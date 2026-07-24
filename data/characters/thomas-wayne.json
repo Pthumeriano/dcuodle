@@ -1,0 +1,20 @@
+{
+  "id": "thomas-wayne",
+  "name": "Thomas Wayne",
+  "aliases": ["Dr. Wayne"],
+  "image": "thomas-wayne.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["ceo"],
+    "powers": ["none"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Por que caímos, Bruce? Para aprender a nos levantar.",
+    "palette": ["#1a1a22", "#eceff1", "#8d6e63"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "livewire",
+  "name": "Livewire",
+  "aliases": ["Leslie Willis"],
+  "image": "livewire.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["electricity"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Eu sou a corrente que ninguém desliga.",
+    "palette": ["#0288d1", "#e1f5fe", "#212121"]
+  }
+}

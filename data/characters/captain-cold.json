@@ -1,0 +1,20 @@
+{
+  "id": "captain-cold",
+  "name": "Captain Cold",
+  "aliases": ["Leonard Snart"],
+  "image": "captain-cold.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["ice"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Central City",
+    "quote": "Regras do jogo: sem matar quem não atrapalha. O resto congela.",
+    "palette": ["#0288d1", "#b3e5fc", "#37474f"]
+  }
+}

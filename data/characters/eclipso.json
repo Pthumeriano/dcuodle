@@ -1,0 +1,20 @@
+{
+  "id": "eclipso",
+  "name": "Eclipso",
+  "aliases": ["Bruce Gordon"],
+  "image": "eclipso.webp",
+  "attributes": {
+    "race": "spirit",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic", "super-strength"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Coração das Trevas",
+    "quote": "Toda alma tem uma sombra, e eu vivo nela.",
+    "palette": ["#0d0d0d", "#4a148c", "#1565c0"]
+  }
+}

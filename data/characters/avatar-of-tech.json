@@ -1,0 +1,20 @@
+{
+  "id": "avatar-of-tech",
+  "name": "Avatar of Tech",
+  "aliases": ["Prime Avatar"],
+  "image": "avatar-of-tech.webp",
+  "attributes": {
+    "race": "machine",
+    "gender": "non-binary",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["gadgets", "genius-intellect"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Prime Battleground",
+    "quote": "Toda tecnologia converge para a vontade do Coletor.",
+    "palette": ["#1565c0", "#00e5ff", "#212121"]
+  }
+}

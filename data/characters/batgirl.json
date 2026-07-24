@@ -1,0 +1,20 @@
+{
+  "id": "batgirl",
+  "name": "Batgirl",
+  "aliases": ["Barbara Gordon", "Oracle"],
+  "image": "batgirl.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["batman-family"],
+    "occupations": ["vigilante", "detective"],
+    "powers": ["peak-human", "genius-intellect"],
+    "antagonists": ["joker"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Uma cadeira nunca me impediu de lutar por Gotham.",
+    "palette": ["#4a148c", "#212121", "#fdd835"]
+  }
+}

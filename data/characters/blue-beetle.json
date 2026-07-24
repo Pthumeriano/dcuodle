@@ -1,0 +1,20 @@
+{
+  "id": "blue-beetle",
+  "name": "Blue Beetle",
+  "aliases": ["Jaime Reyes"],
+  "image": "blue-beetle.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["vigilante"],
+    "powers": ["flight", "hard-light"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "El Paso",
+    "quote": "O escaravelho escolheu a mim, e eu escolhi o caminho certo.",
+    "palette": ["#0d47a1", "#00acc1", "#212121"]
+  }
+}

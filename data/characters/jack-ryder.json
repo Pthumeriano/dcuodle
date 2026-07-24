@@ -1,0 +1,20 @@
+{
+  "id": "jack-ryder",
+  "name": "Jack Ryder",
+  "aliases": ["The Creeper"],
+  "image": "jack-ryder.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["journalist", "vigilante"],
+    "powers": ["peak-human"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "As notícias de hoje: eu enlouqueci, e adorei!",
+    "palette": ["#fdd835", "#b71c1c", "#2e7d32"]
+  }
+}

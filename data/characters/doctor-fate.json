@@ -1,0 +1,20 @@
+{
+  "id": "doctor-fate",
+  "name": "Doctor Fate",
+  "aliases": ["Kent Nelson", "Nabu"],
+  "image": "doctor-fate.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league-dark"],
+    "occupations": ["magician"],
+    "powers": ["magic", "flight", "immortality"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Torre do Destino",
+    "quote": "O destino já foi escrito; eu apenas o cumpro.",
+    "palette": ["#f9a825", "#1565c0", "#212121"]
+  }
+}

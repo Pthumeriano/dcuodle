@@ -1,0 +1,20 @@
+{
+  "id": "star-sapphire",
+  "name": "Star Sapphire",
+  "aliases": ["Carol Ferris"],
+  "image": "star-sapphire.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["ceo"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Coast City",
+    "quote": "O amor é a força mais violenta do universo.",
+    "palette": ["#ad1457", "#e91e63", "#f8bbd0"]
+  }
+}

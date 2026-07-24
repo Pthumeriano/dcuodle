@@ -1,0 +1,20 @@
+{
+  "id": "captain-boomerang",
+  "name": "Captain Boomerang",
+  "aliases": ["Digger Harkness"],
+  "image": "captain-boomerang.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["suicide-squad"],
+    "occupations": ["criminal"],
+    "powers": ["gadgets", "marksmanship"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Central City",
+    "quote": "Sempre volta pra você. O bumerangue e a encrenca.",
+    "palette": ["#5d4037", "#1565c0", "#fdd835"]
+  }
+}

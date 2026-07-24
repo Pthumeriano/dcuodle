@@ -1,0 +1,20 @@
+{
+  "id": "bane",
+  "name": "Bane",
+  "aliases": ["Antonio Diego"],
+  "image": "bane.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["suicide-squad"],
+    "occupations": ["criminal"],
+    "powers": ["super-strength"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Santa Prisca",
+    "quote": "Eu sou quem vai quebrar o Morcego.",
+    "palette": ["#1b5e20", "#212121", "#8d6e63"]
+  }
+}

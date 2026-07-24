@@ -1,0 +1,20 @@
+{
+  "id": "luzia",
+  "name": "Luzia",
+  "aliases": ["Luzia Cavalera", "The Reckoning"],
+  "image": "luzia.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["noctem"],
+    "occupations": ["criminal"],
+    "powers": ["hard-light"],
+    "antagonists": ["voivode"]
+  },
+  "hints": {
+    "habitation": "Brasil",
+    "quote": "Compaixão pela dor que causei.",
+    "palette": ["#3d2b8c", "#6b6f76", "#e8e6f0"]
+  }
+}

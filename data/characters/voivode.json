@@ -1,0 +1,20 @@
+{
+  "id": "voivode",
+  "name": "Voivode",
+  "aliases": ["Dejana Petrović"],
+  "image": "voivode.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["noctem"],
+    "occupations": ["vigilante", "journalist"],
+    "powers": ["super-strength"],
+    "antagonists": ["luzia", "felix-faust"]
+  },
+  "hints": {
+    "habitation": "Kaznia City",
+    "quote": "Do meu diário do crime: Kaznia não dorme, e nem eu.",
+    "palette": ["#14141a", "#8e0e2b", "#9aa3ab"]
+  }
+}

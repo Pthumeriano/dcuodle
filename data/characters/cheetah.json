@@ -1,0 +1,20 @@
+{
+  "id": "cheetah",
+  "name": "Cheetah",
+  "aliases": ["Barbara Ann Minerva"],
+  "image": "cheetah.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["legion-of-doom"],
+    "occupations": ["scientist"],
+    "powers": ["super-strength", "super-speed"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "A caçada é a única prece que conheço.",
+    "palette": ["#f9a825", "#5d4037", "#212121"]
+  }
+}

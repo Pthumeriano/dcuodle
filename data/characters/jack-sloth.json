@@ -1,0 +1,20 @@
+{
+  "id": "jack-sloth",
+  "name": "Jack",
+  "aliases": ["Son of Trigon", "Sloth"],
+  "image": "jack-sloth.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "Gotham Wastelands",
+    "quote": "Por que lutar, se o mundo já apodrece sozinho?",
+    "palette": ["#455a64", "#0d0d0d", "#607d8b"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "gizmo",
+  "name": "Gizmo",
+  "aliases": ["Mikron O'Jeneus"],
+  "image": "gizmo.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["gadgets", "genius-intellect"],
+    "antagonists": ["starfire"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Baixinho? Sim. Mais esperto que você? Também.",
+    "palette": ["#2e7d32", "#455a64", "#fdd835"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "robin",
+  "name": "Robin",
+  "aliases": ["Tim Drake", "Damian Wayne"],
+  "image": "robin.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["batman-family", "teen-titans"],
+    "occupations": ["vigilante", "detective"],
+    "powers": ["peak-human", "marksmanship"],
+    "antagonists": ["joker"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Todo Morcego precisa de um Robin.",
+    "palette": ["#b71c1c", "#2e7d32", "#fdd835"]
+  }
+}

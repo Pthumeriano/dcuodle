@@ -1,0 +1,20 @@
+{
+  "id": "talia-al-ghul",
+  "name": "Talia al Ghul",
+  "aliases": ["Talia"],
+  "image": "talia-al-ghul.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["peak-human"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Meu coração é do Morcego; minha lealdade, ao meu pai.",
+    "palette": ["#00695c", "#212121", "#c62828"]
+  }
+}

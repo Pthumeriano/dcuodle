@@ -1,0 +1,20 @@
+{
+  "id": "doctor-light",
+  "name": "Doctor Light",
+  "aliases": ["Arthur Light"],
+  "image": "doctor-light.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["hard-light"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "—",
+    "quote": "Eu curvo a luz — e nenhuma sombra guarda segredo de mim.",
+    "palette": ["#fdd835", "#212121", "#c62828"]
+  }
+}

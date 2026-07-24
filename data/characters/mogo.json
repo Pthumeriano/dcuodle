@@ -1,0 +1,20 @@
+{
+  "id": "mogo",
+  "name": "Mogo",
+  "aliases": ["O Lanterna Vivo"],
+  "image": "mogo.webp",
+  "attributes": {
+    "race": "planet",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Setor 2261",
+    "quote": "Mogo não socializa — Mogo protege.",
+    "palette": ["#1b5e20", "#2e7d32", "#0d47a1"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "arkillo",
+  "name": "Arkillo",
+  "aliases": [],
+  "image": "arkillo.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight", "super-strength"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Qward",
+    "quote": "O medo forja os melhores soldados, e eu os treino.",
+    "palette": ["#f9a825", "#4a148c", "#3e2723"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wildcat",
+  "name": "Wildcat",
+  "aliases": ["Ted Grant"],
+  "image": "wildcat.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["vigilante"],
+    "powers": ["peak-human"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Já apanhei de coisas piores que você e voltei pro ringue.",
+    "palette": ["#212121", "#fdd835", "#455a64"]
+  }
+}

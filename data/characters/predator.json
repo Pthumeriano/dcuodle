@@ -1,0 +1,20 @@
+{
+  "id": "predator",
+  "name": "Predator",
+  "aliases": ["Entidade do Amor"],
+  "image": "predator.webp",
+  "attributes": {
+    "race": "elemental",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Zamaron",
+    "quote": "O amor consome tudo — e eu sou o amor.",
+    "palette": ["#8e24aa", "#e1bee7", "#4a148c"]
+  }
+}

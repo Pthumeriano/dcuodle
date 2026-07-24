@@ -1,0 +1,20 @@
+{
+  "id": "paradox-destroyer",
+  "name": "Paradox Destroyer",
+  "aliases": ["Paradox Reaper"],
+  "image": "paradox-destroyer.webp",
+  "attributes": {
+    "race": "elemental",
+    "gender": "non-binary",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["quantum"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Nexo da Realidade",
+    "quote": "Cada linha do tempo que você conserta, eu desfaço.",
+    "palette": ["#4a148c", "#00e5ff", "#212121"]
+  }
+}

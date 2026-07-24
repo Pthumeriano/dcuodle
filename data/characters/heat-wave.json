@@ -1,0 +1,20 @@
+{
+  "id": "heat-wave",
+  "name": "Heat Wave",
+  "aliases": ["Mick Rory"],
+  "image": "heat-wave.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["fire"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Central City",
+    "quote": "Tudo queima. Só é questão de quão perto você chega.",
+    "palette": ["#c62828", "#e65100", "#212121"]
+  }
+}

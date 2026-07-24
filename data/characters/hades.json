@@ -1,0 +1,20 @@
+{
+  "id": "hades",
+  "name": "Hades",
+  "aliases": ["Deus do Submundo"],
+  "image": "hades.webp",
+  "attributes": {
+    "race": "olympian",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["royalty"],
+    "powers": ["magic", "immortality"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "Submundo",
+    "quote": "Todos os caminhos, cedo ou tarde, descem até mim.",
+    "palette": ["#0d0d0d", "#4a148c", "#00695c"]
+  }
+}

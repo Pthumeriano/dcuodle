@@ -1,0 +1,20 @@
+{
+  "id": "green-lantern",
+  "name": "Green Lantern",
+  "aliases": ["Hal Jordan"],
+  "image": "green-lantern.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league", "noctem"],
+    "occupations": ["pilot"],
+    "powers": ["flight", "hard-light"],
+    "antagonists": ["sinestro"]
+  },
+  "hints": {
+    "habitation": "Coast City",
+    "quote": "In brightest day, in blackest night, no evil shall escape my sight.",
+    "palette": ["#0d3b16", "#2e7d32", "#000000"]
+  }
+}

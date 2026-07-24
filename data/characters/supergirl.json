@@ -1,0 +1,20 @@
+{
+  "id": "supergirl",
+  "name": "Supergirl",
+  "aliases": ["Kara Zor-El", "Kara Danvers"],
+  "image": "supergirl.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["vigilante"],
+    "powers": ["flight", "super-strength", "heat-vision", "invulnerability"],
+    "antagonists": ["brainiac"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Sou mais que a prima do Superman. Sou uma heroína por direito.",
+    "palette": ["#1565c0", "#c62828", "#fdd835"]
+  }
+}

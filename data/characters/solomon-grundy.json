@@ -1,0 +1,20 @@
+{
+  "id": "solomon-grundy",
+  "name": "Solomon Grundy",
+  "aliases": ["Cyrus Gold"],
+  "image": "solomon-grundy.webp",
+  "attributes": {
+    "race": "undead",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["super-strength", "immortality"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Pântano do Matadouro",
+    "quote": "Solomon Grundy, nascido numa segunda-feira.",
+    "palette": ["#455a64", "#212121", "#795548"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "black-lantern",
+  "name": "Black Lantern",
+  "aliases": ["The Black", "Black Lantern Corps"],
+  "image": "black-lantern.webp",
+  "attributes": {
+    "race": "undead",
+    "gender": "non-binary",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Espaço profundo",
+    "quote": "A morte se levanta e reclama todos os corações.",
+    "palette": ["#0d0d0d", "#212121", "#455a64"]
+  }
+}

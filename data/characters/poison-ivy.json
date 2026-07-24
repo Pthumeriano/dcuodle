@@ -1,0 +1,20 @@
+{
+  "id": "poison-ivy",
+  "name": "Poison Ivy",
+  "aliases": ["Pamela Isley"],
+  "image": "poison-ivy.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["gotham-city-sirens", "suicide-squad", "noctem"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["toxin-immunity", "nature"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Nature always wins.",
+    "palette": ["#1b5e20", "#b71c4a", "#66bb6a"]
+  }
+}

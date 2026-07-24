@@ -1,0 +1,20 @@
+{
+  "id": "weather-wizard",
+  "name": "Weather Wizard",
+  "aliases": ["Mark Mardon"],
+  "image": "weather-wizard.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["gadgets"],
+    "antagonists": ["the-flash"]
+  },
+  "hints": {
+    "habitation": "Central City",
+    "quote": "O tempo vira quando eu quiser: um raio pra cada um de vocês.",
+    "palette": ["#455a64", "#fdd835", "#1565c0"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "belial",
+  "name": "Belial",
+  "aliases": ["Pai de Trigon"],
+  "image": "belial.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic", "immortality"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Inferno",
+    "quote": "De mim nasceu Trigon; imagine o que sou eu.",
+    "palette": ["#b71c1c", "#0d0d0d", "#6a1b9a"]
+  }
+}

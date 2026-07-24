@@ -1,0 +1,20 @@
+{
+  "id": "general-zod",
+  "name": "General Zod",
+  "aliases": ["Dru-Zod"],
+  "image": "general-zod.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight", "heat-vision", "invulnerability"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Zona Fantasma",
+    "quote": "Ajoelhe-se diante de Zod.",
+    "palette": ["#212121", "#455a64", "#b71c1c"]
+  }
+}

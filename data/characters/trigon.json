@@ -1,0 +1,20 @@
+{
+  "id": "trigon",
+  "name": "Trigon",
+  "aliases": ["The Terror"],
+  "image": "trigon.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["magic", "super-strength", "immortality"],
+    "antagonists": ["raven"]
+  },
+  "hints": {
+    "habitation": "Azarath",
+    "quote": "Sou o fim de mil mundos, e a minha filha é a porta.",
+    "palette": ["#b71c1c", "#212121", "#6a1b9a"]
+  }
+}

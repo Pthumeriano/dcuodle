@@ -1,0 +1,20 @@
+{
+  "id": "queen-agapo",
+  "name": "Queen Aga'po",
+  "aliases": ["Rainha das Zamaronianas"],
+  "image": "queen-agapo.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["royalty"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Zamaron",
+    "quote": "O amor é a maior de todas as forças, e nós a empunhamos.",
+    "palette": ["#8e24aa", "#e1bee7", "#4a148c"]
+  }
+}

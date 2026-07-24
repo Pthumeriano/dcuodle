@@ -1,0 +1,20 @@
+{
+  "id": "steel",
+  "name": "Steel",
+  "aliases": ["John Henry Irons"],
+  "image": "steel.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["scientist", "vigilante"],
+    "powers": ["genius-intellect", "super-strength", "flight"],
+    "antagonists": ["metallo"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Quando não há mais um Superman, alguém precisa erguer o martelo.",
+    "palette": ["#455a64", "#1565c0", "#b0bec5"]
+  }
+}

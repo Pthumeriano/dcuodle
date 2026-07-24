@@ -1,0 +1,20 @@
+{
+  "id": "tomar-re",
+  "name": "Tomar-Re",
+  "aliases": [],
+  "image": "tomar-re.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Xudar",
+    "quote": "Servi ao Corpo por toda a vida, e serviria mil vezes mais.",
+    "palette": ["#2e7d32", "#f9a825", "#5d4037"]
+  }
+}

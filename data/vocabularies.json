@@ -1,4 +1,5 @@
 {
+  "race": ["human", "kryptonian", "amazon", "atlantean", "czarnian", "cambion", "coluan", "martian", "undead", "thanagarian", "korugaran", "olympian", "new-god", "spirit", "animal", "ungaran", "bolovaxian", "tamaranean", "machine", "alien", "demon", "elemental", "planet"],
   "gender": ["male", "female", "non-binary"],
   "morality": ["hero", "antihero", "villain"],
   "groups": [
@@ -9,7 +10,8 @@
     "teen-titans",
     "suicide-squad",
     "legion-of-doom",
-    "gotham-city-sirens"
+    "gotham-city-sirens",
+    "noctem"
   ],
   "occupations": [
     "vigilante",
@@ -22,7 +24,9 @@
     "warrior",
     "royalty",
     "criminal",
-    "archer"
+    "archer",
+    "pilot",
+    "thief"
   ],
   "powers": [
     "none",
@@ -38,10 +42,26 @@
     "aquatic-adaptation",
     "immortality",
     "toxin-immunity",
-    "marksmanship"
+    "marksmanship",
+    "atomic",
+    "celestial",
+    "earth",
+    "electricity",
+    "fire",
+    "gadgets",
+    "hard-light",
+    "ice",
+    "mental",
+    "munitions",
+    "nature",
+    "quantum",
+    "rage",
+    "sorcery",
+    "water"
   ],
   "antagonists": [
     "batman",
+    "evil-mepps",
     "superman",
     "joker",
     "lex-luthor",
@@ -56,6 +76,26 @@
     "brainiac",
     "deathstroke",
     "brother-blood",
-    "merlyn"
+    "merlyn",
+    "sinestro",
+    "voivode",
+    "luzia",
+    "wonder-woman",
+    "nightwing",
+    "metallo",
+    "green-lantern",
+    "aquaman",
+    "zatanna",
+    "raven",
+    "shazam",
+    "black-adam",
+    "the-flash",
+    "felix-faust",
+    "steel",
+    "t-o-morrow",
+    "hawkman",
+    "starfire",
+    "darkseid",
+    "big-barda"
   ]
 }

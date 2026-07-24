@@ -1,0 +1,20 @@
+{
+  "id": "ocean-master",
+  "name": "Ocean Master",
+  "aliases": ["Orm Marius"],
+  "image": "ocean-master.webp",
+  "attributes": {
+    "race": "atlantean",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["royalty", "warrior"],
+    "powers": ["aquatic-adaptation", "super-strength"],
+    "antagonists": ["aquaman"]
+  },
+  "hints": {
+    "habitation": "Atlantis",
+    "quote": "O trono do mar me pertence por direito.",
+    "palette": ["#00695c", "#1a237e", "#b0bec5"]
+  }
+}

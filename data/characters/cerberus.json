@@ -1,0 +1,20 @@
+{
+  "id": "cerberus",
+  "name": "Cerberus",
+  "aliases": ["Cão de Tártaro"],
+  "image": "cerberus.webp",
+  "attributes": {
+    "race": "animal",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["super-strength"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Portões de Tártaro",
+    "quote": "Três cabeças, um só rosnado: ninguém passa.",
+    "palette": ["#3e2723", "#b71c1c", "#212121"]
+  }
+}

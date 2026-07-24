@@ -1,0 +1,20 @@
+{
+  "id": "nekron",
+  "name": "Nekron",
+  "aliases": ["Senhor dos Mortos-Vivos", "A Encarnação da Morte"],
+  "image": "nekron.webp",
+  "attributes": {
+    "race": "spirit",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": [],
+    "powers": ["sorcery", "immortality", "invulnerability"],
+    "antagonists": ["green-lantern", "sinestro"]
+  },
+  "hints": {
+    "habitation": "Ryut",
+    "quote": "A vida foi um breve acidente. A morte é a única eternidade.",
+    "palette": ["#0a0a0a", "#004d40", "#eceff1"]
+  }
+}

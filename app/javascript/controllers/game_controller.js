@@ -1,7 +1,7 @@
 import { Controller } from "@hotwired/stimulus"
 import { compare } from "game/compare"
 
-const ATTRS = ["gender", "morality", "groups", "occupations", "powers", "antagonists"]
+const ATTRS = ["gender", "race", "morality", "groups", "occupations", "powers", "antagonists"]
 const HINTS = [[3, "habitation", "Habitação"], [5, "quote", "Frase"], [7, "palette", "Paleta"]]
 
 export default class extends Controller {

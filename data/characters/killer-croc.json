@@ -1,0 +1,20 @@
+{
+  "id": "killer-croc",
+  "name": "Killer Croc",
+  "aliases": ["Waylon Jones"],
+  "image": "killer-croc.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["suicide-squad"],
+    "occupations": ["criminal"],
+    "powers": ["super-strength"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Esgotos de Gotham",
+    "quote": "Você tem cheiro de medo.",
+    "palette": ["#33691e", "#827717", "#3e2723"]
+  }
+}

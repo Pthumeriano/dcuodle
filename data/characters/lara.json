@@ -1,0 +1,20 @@
+{
+  "id": "lara",
+  "name": "Lara",
+  "aliases": ["Lara Lor-Van"],
+  "image": "lara.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["genius-intellect"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Krypton",
+    "quote": "Vá, meu filho. Viva por nós dois.",
+    "palette": ["#1565c0", "#eceff1", "#c62828"]
+  }
+}
