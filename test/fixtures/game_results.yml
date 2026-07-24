@@ -1,0 +1,23 @@
+member_win:
+  user: member
+  mode: classic
+  played_on: 2026-07-20
+  character_id: batman
+  attempts: 3
+  won: true
+
+member_loss:
+  user: member
+  mode: classic
+  played_on: 2026-07-19
+  character_id: joker
+  attempts: 9
+  won: false
+
+admin_win:
+  user: admin
+  mode: classic
+  played_on: 2026-07-20
+  character_id: batman
+  attempts: 5
+  won: true

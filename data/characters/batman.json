@@ -1,0 +1,19 @@
+{
+  "id": "batman",
+  "name": "Batman",
+  "aliases": ["Bruce Wayne", "The Dark Knight"],
+  "image": "batman.webp",
+  "attributes": {
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league", "batman-family"],
+    "occupations": ["vigilante", "detective", "ceo"],
+    "powers": ["peak-human", "genius-intellect"],
+    "antagonists": ["joker", "penguin", "ras-al-ghul"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "I am vengeance. I am the night. I am Batman.",
+    "palette": ["#1c1c22", "#3a3f5c", "#f2c94c"]
+  }
+}

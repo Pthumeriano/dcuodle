@@ -1,0 +1,19 @@
+{
+  "id": "zatanna",
+  "name": "Zatanna",
+  "aliases": ["Zatanna Zatara"],
+  "image": "zatanna.webp",
+  "attributes": {
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["justice-league", "justice-league-dark"],
+    "occupations": ["magician"],
+    "powers": ["magic"],
+    "antagonists": ["brother-blood"]
+  },
+  "hints": {
+    "habitation": "Shadowcrest, Gotham City",
+    "quote": "Kcab ffo!",
+    "palette": ["#1a237e", "#f5f5f5", "#212121"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "joker",
+  "name": "Joker",
+  "aliases": ["The Clown Prince of Crime"],
+  "image": "joker.webp",
+  "attributes": {
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["none"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Why so serious?",
+    "palette": ["#4a148c", "#2e7d32", "#f5f5f5"]
+  }
+}

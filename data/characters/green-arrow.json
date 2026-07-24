@@ -1,0 +1,19 @@
+{
+  "id": "green-arrow",
+  "name": "Green Arrow",
+  "aliases": ["Oliver Queen"],
+  "image": "green-arrow.webp",
+  "attributes": {
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["vigilante", "archer", "ceo"],
+    "powers": ["peak-human", "marksmanship"],
+    "antagonists": ["merlyn", "deathstroke"]
+  },
+  "hints": {
+    "habitation": "Star City",
+    "quote": "You have failed this city.",
+    "palette": ["#2e7d32", "#1b5e20", "#8d6e63"]
+  }
+}

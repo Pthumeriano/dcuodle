@@ -1,0 +1,23 @@
+<% content_for :title, "Pedir um personagem" %>
+
+<main>
+  <h1>Pedir um personagem</h1>
+  <p class="tagline">
+    Aprovado, alguém abre um PR com o arquivo em <code>data/characters/</code>.
+    Se quiser adiantar, mande o PR direto.
+  </p>
+
+  <%= form_with model: @character_request do |form| %>
+    <% if @character_request.errors.any? %>
+      <ul class="flash alert">
+        <% @character_request.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    <% end %>
+
+    <p><%= form.label :name, "Nome do personagem" %><br><%= form.text_field :name, required: true %></p>
+    <p><%= form.label :notes, "Observações (fontes, atributos, dicas)" %><br><%= form.text_area :notes, rows: 6 %></p>
+    <p><%= form.submit "Enviar pedido" %></p>
+  <% end %>
+</main>

@@ -1,0 +1,19 @@
+{
+  "id": "superman",
+  "name": "Superman",
+  "aliases": ["Clark Kent", "Kal-El", "Man of Steel"],
+  "image": "superman.webp",
+  "attributes": {
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["journalist"],
+    "powers": ["super-strength", "flight", "invulnerability", "heat-vision"],
+    "antagonists": ["lex-luthor", "brainiac"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "There is a right and a wrong in this universe, and that distinction is not hard to make.",
+    "palette": ["#0d47a1", "#c62828", "#fdd835"]
+  }
+}

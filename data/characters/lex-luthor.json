@@ -1,0 +1,19 @@
+{
+  "id": "lex-luthor",
+  "name": "Lex Luthor",
+  "aliases": ["Alexander Luthor"],
+  "image": "lex-luthor.webp",
+  "attributes": {
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["legion-of-doom"],
+    "occupations": ["ceo", "scientist", "criminal"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "The greatest weakness of most humans is their hesitancy to tell others how much they love them.",
+    "palette": ["#2e7d32", "#5d4037", "#9e9e9e"]
+  }
+}

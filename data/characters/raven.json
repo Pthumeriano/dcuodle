@@ -1,0 +1,19 @@
+{
+  "id": "raven",
+  "name": "Raven",
+  "aliases": ["Rachel Roth"],
+  "image": "raven.webp",
+  "attributes": {
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["teen-titans", "justice-league-dark"],
+    "occupations": ["magician"],
+    "powers": ["magic", "telepathy", "flight"],
+    "antagonists": ["brother-blood", "deathstroke"]
+  },
+  "hints": {
+    "habitation": "Jump City",
+    "quote": "Azarath Metrion Zinthos.",
+    "palette": ["#4527a0", "#212121", "#7e57c2"]
+  }
+}

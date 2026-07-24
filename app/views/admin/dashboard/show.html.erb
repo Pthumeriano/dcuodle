@@ -1,0 +1,45 @@
+<% content_for :title, "Admin — visão geral" %>
+
+<main>
+  <h1>Visão geral</h1>
+  <nav class="subnav">
+    <%= link_to "Usuários", admin_users_path %>
+    <%= link_to "Pedidos (#{@pending_requests} pendentes)", admin_character_requests_path %>
+  </nav>
+
+  <ul class="tiles">
+    <li><b><%= @users_count %></b> usuários</li>
+    <li><b><%= @stats[:played] %></b> partidas</li>
+    <li><b><%= @stats[:win_rate] %>%</b> de acerto</li>
+    <li><b><%= @stats[:average_attempts] || "—" %></b> tentativas em média</li>
+  </ul>
+
+  <h2>Distribuição de tentativas</h2>
+  <%= render "shared/distribution", distribution: @stats[:distribution] %>
+
+  <h2>Partidas por dia</h2>
+  <table class="listing">
+    <thead><tr><th>Dia</th><th>Partidas</th></tr></thead>
+    <tbody>
+      <% @by_day.each do |day, total| %>
+        <tr><td><%= l day %></td><td><%= total %></td></tr>
+      <% end %>
+    </tbody>
+  </table>
+
+  <h2>Por personagem</h2>
+  <table class="listing">
+    <thead><tr><th>Personagem</th><th>Partidas</th><th>Vitórias</th><th>Acerto</th></tr></thead>
+    <tbody>
+      <% @played_by_character.sort_by { |_, total| -total }.each do |character_id, played| %>
+        <% won = @won_by_character[character_id].to_i %>
+        <tr>
+          <td><%= character_id %></td>
+          <td><%= played %></td>
+          <td><%= won %></td>
+          <td><%= (won * 100.0 / played).round(1) %>%</td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</main>

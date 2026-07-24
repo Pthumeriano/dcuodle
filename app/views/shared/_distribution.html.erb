@@ -1,0 +1,13 @@
+<% max = distribution.values.max || 0 %>
+<ul class="distribution">
+  <% if distribution.empty? %>
+    <li class="empty">Nenhuma vitória ainda.</li>
+  <% else %>
+    <% distribution.each do |attempts, total| %>
+      <li>
+        <span class="label"><%= attempts %></span>
+        <span class="bar" style="width: <%= (total * 100.0 / max).round %>%"><%= total %></span>
+      </li>
+    <% end %>
+  <% end %>
+</ul>

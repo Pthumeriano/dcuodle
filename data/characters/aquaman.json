@@ -1,0 +1,19 @@
+{
+  "id": "aquaman",
+  "name": "Aquaman",
+  "aliases": ["Arthur Curry", "Orin"],
+  "image": "aquaman.webp",
+  "attributes": {
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["royalty", "warrior"],
+    "powers": ["super-strength", "aquatic-adaptation", "telepathy"],
+    "antagonists": ["black-manta", "ocean-master"]
+  },
+  "hints": {
+    "habitation": "Atlantis",
+    "quote": "The sea does not forgive.",
+    "palette": ["#00695c", "#f9a825", "#0d47a1"]
+  }
+}

@@ -1,0 +1,30 @@
+<% content_for :title, "Admin — pedidos de personagem" %>
+
+<main>
+  <h1>Pedidos de personagem</h1>
+  <nav class="subnav"><%= link_to "← Visão geral", admin_root_path %></nav>
+
+  <table class="listing">
+    <thead><tr><th>Personagem</th><th>Pedido por</th><th>Observações</th><th>Status</th><th></th></tr></thead>
+    <tbody>
+      <% @character_requests.each do |request| %>
+        <tr>
+          <td><%= request.name %></td>
+          <td><%= request.user.email %></td>
+          <td><%= request.notes %></td>
+          <td><%= request.status %></td>
+          <td class="actions">
+            <% unless request.approved? %>
+              <%= button_to "Aprovar", admin_character_request_path(request), method: :patch,
+                    params: { character_request: { status: :approved } } %>
+            <% end %>
+            <% unless request.rejected? %>
+              <%= button_to "Rejeitar", admin_character_request_path(request), method: :patch,
+                    params: { character_request: { status: :rejected } } %>
+            <% end %>
+          </td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</main>

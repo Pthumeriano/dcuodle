@@ -1,0 +1,20 @@
+<% content_for :title, "Admin — usuários" %>
+
+<main>
+  <h1>Usuários</h1>
+  <nav class="subnav"><%= link_to "← Visão geral", admin_root_path %></nav>
+
+  <table class="listing">
+    <thead><tr><th>E-mail</th><th>Papel</th><th>Partidas</th><th>Desde</th></tr></thead>
+    <tbody>
+      <% @users.each do |user| %>
+        <tr>
+          <td><%= link_to user.email, admin_user_path(user) %></td>
+          <td><%= user.role %></td>
+          <td><%= user.played_count %></td>
+          <td><%= l user.created_at.to_date %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</main>

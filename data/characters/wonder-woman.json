@@ -1,0 +1,19 @@
+{
+  "id": "wonder-woman",
+  "name": "Wonder Woman",
+  "aliases": ["Diana Prince", "Diana of Themyscira"],
+  "image": "wonder-woman.webp",
+  "attributes": {
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["warrior", "royalty"],
+    "powers": ["super-strength", "flight", "immortality"],
+    "antagonists": ["ares", "cheetah"]
+  },
+  "hints": {
+    "habitation": "Themyscira",
+    "quote": "It is our sacred duty to defend the world.",
+    "palette": ["#b71c1c", "#1565c0", "#ffd54f"]
+  }
+}

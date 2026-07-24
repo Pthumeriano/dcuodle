@@ -1,0 +1,20 @@
+<% content_for :title, "Meus pedidos de personagem" %>
+
+<main>
+  <h1>Pedidos de personagem</h1>
+  <p><%= link_to "Pedir um personagem novo", new_character_request_path %></p>
+
+  <table class="listing">
+    <thead><tr><th>Personagem</th><th>Observações</th><th>Status</th><th>Enviado</th></tr></thead>
+    <tbody>
+      <% @character_requests.each do |request| %>
+        <tr>
+          <td><%= request.name %></td>
+          <td><%= request.notes %></td>
+          <td><%= request.status %></td>
+          <td><%= l request.created_at.to_date %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</main>

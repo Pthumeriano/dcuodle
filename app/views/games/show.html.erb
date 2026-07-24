@@ -1,0 +1,33 @@
+<% content_for :title, "Dcdle — adivinhe o personagem da DC" %>
+
+<main data-controller="game">
+  <h1>Dcdle</h1>
+  <p class="tagline">Adivinhe o personagem da DC do dia.</p>
+
+  <form class="guess-form" data-action="submit->game#guess">
+    <input type="text" list="character-options" placeholder="Digite um personagem"
+           autocomplete="off" required
+           data-game-target="input">
+    <datalist id="character-options" data-game-target="options"></datalist>
+    <button type="submit">Chutar</button>
+  </form>
+
+  <p class="status" role="status" data-game-target="status"></p>
+
+  <ul class="hints" data-game-target="hints"></ul>
+
+  <table class="guesses">
+    <thead>
+      <tr>
+        <th>Personagem</th>
+        <th>Gênero</th>
+        <th>Moralidade</th>
+        <th>Grupos</th>
+        <th>Ocupações</th>
+        <th>Poderes</th>
+        <th>Antagonistas</th>
+      </tr>
+    </thead>
+    <tbody data-game-target="rows"></tbody>
+  </table>
+</main>

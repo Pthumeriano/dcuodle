@@ -1,0 +1,32 @@
+<% content_for :title, "Admin — #{@user.email}" %>
+
+<main>
+  <h1><%= @user.email %></h1>
+  <nav class="subnav"><%= link_to "← Usuários", admin_users_path %></nav>
+
+  <ul class="tiles">
+    <li><b><%= @stats[:played] %></b> partidas</li>
+    <li><b><%= @stats[:won] %></b> vitórias</li>
+    <li><b><%= @stats[:win_rate] %>%</b> de acerto</li>
+    <li><b><%= @stats[:average_attempts] || "—" %></b> tentativas em média</li>
+    <li><b><%= @streak %></b> de sequência</li>
+  </ul>
+
+  <h2>Distribuição de tentativas</h2>
+  <%= render "shared/distribution", distribution: @stats[:distribution] %>
+
+  <h2>Últimas partidas</h2>
+  <table class="listing">
+    <thead><tr><th>Dia</th><th>Personagem</th><th>Tentativas</th><th>Resultado</th></tr></thead>
+    <tbody>
+      <% @results.each do |result| %>
+        <tr>
+          <td><%= l result.played_on %></td>
+          <td><%= result.character_id %></td>
+          <td><%= result.attempts %></td>
+          <td><%= result.won? ? "vitória" : "derrota" %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</main>

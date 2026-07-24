@@ -1,0 +1,61 @@
+{
+  "gender": ["male", "female", "non-binary"],
+  "morality": ["hero", "antihero", "villain"],
+  "groups": [
+    "independent",
+    "justice-league",
+    "justice-league-dark",
+    "batman-family",
+    "teen-titans",
+    "suicide-squad",
+    "legion-of-doom",
+    "gotham-city-sirens"
+  ],
+  "occupations": [
+    "vigilante",
+    "detective",
+    "ceo",
+    "journalist",
+    "scientist",
+    "psychiatrist",
+    "magician",
+    "warrior",
+    "royalty",
+    "criminal",
+    "archer"
+  ],
+  "powers": [
+    "none",
+    "peak-human",
+    "genius-intellect",
+    "super-strength",
+    "super-speed",
+    "flight",
+    "invulnerability",
+    "heat-vision",
+    "magic",
+    "telepathy",
+    "aquatic-adaptation",
+    "immortality",
+    "toxin-immunity",
+    "marksmanship"
+  ],
+  "antagonists": [
+    "batman",
+    "superman",
+    "joker",
+    "lex-luthor",
+    "penguin",
+    "ras-al-ghul",
+    "cheetah",
+    "ares",
+    "black-manta",
+    "ocean-master",
+    "reverse-flash",
+    "captain-cold",
+    "brainiac",
+    "deathstroke",
+    "brother-blood",
+    "merlyn"
+  ]
+}
