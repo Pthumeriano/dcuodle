@@ -1,0 +1,20 @@
+{
+  "id": "zeus",
+  "name": "Zeus",
+  "aliases": ["Rei do Olimpo"],
+  "image": "zeus.webp",
+  "attributes": {
+    "race": "olympian",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["royalty"],
+    "powers": ["electricity", "immortality"],
+    "antagonists": ["ares"]
+  },
+  "hints": {
+    "habitation": "Monte Olimpo",
+    "quote": "Sou o rei dos deuses, e o trovão obedece à minha mão.",
+    "palette": ["#eceff1", "#c9a227", "#4dd0e1"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wonder-woman-comrade",
+  "name": "Wonder Woman (Comrade)",
+  "aliases": ["Comrade Diana"],
+  "image": "wonder-woman-comrade.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["elseworld"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight", "immortality"],
+    "antagonists": ["ares"]
+  },
+  "hints": {
+    "habitation": "Moscou",
+    "quote": "Pela revolução e pelas Amazonas — a camarada Diana luta.",
+    "palette": ["#c62828", "#c9a227", "#eceff1"]
+  }
+}

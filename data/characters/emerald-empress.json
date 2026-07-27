@@ -1,0 +1,20 @@
+{
+  "id": "emerald-empress",
+  "name": "Emerald Empress",
+  "aliases": ["Sarya", "Imperatriz Esmeralda"],
+  "image": "emerald-empress.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Venegar",
+    "quote": "O Olho Esmeralda vê tudo — e destrói o que eu ordenar.",
+    "palette": ["#1b5e20", "#00c853", "#1a1a1a"]
+  }
+}

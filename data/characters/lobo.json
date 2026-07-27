@@ -1,0 +1,20 @@
+{
+  "id": "lobo",
+  "name": "Lobo",
+  "aliases": ["O Cara Principal"],
+  "image": "lobo.webp",
+  "attributes": {
+    "race": "czarnian",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "invulnerability", "immortality"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Czarnia",
+    "quote": "Ninguém escapa do Cara Principal. Bo!",
+    "palette": ["#eceff1", "#1a1a1a", "#c62828"]
+  }
+}

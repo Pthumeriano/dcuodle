@@ -1,0 +1,20 @@
+{
+  "id": "athena",
+  "name": "Athena",
+  "aliases": ["Deusa da Sabedoria"],
+  "image": "athena.webp",
+  "attributes": {
+    "race": "olympian",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["genius-intellect", "magic", "immortality"],
+    "antagonists": ["ares"]
+  },
+  "hints": {
+    "habitation": "Monte Olimpo",
+    "quote": "A sabedoria vence a força — e eu domino as duas.",
+    "palette": ["#607d8b", "#c9a227", "#eceff1"]
+  }
+}

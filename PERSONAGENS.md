@@ -26,7 +26,7 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 
 `[ ]` pendente · `[~] ` em progresso · `[x]` completo
 
-## Já no catálogo (231)
+## Já no catálogo (249)
 
 - **16 originais curados** (seed inicial, feitos à mão): batman, superman, wonder-woman,
   aquaman, the-flash, green-lantern, cyborg, green-arrow, zatanna, raven, nightwing,
@@ -374,14 +374,41 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
 - [ ] dawnbreaker
 - [ ] barbatos
 
+### Ep. 37 — Birds of Prey
+
+- [ ] brimstone
+- [ ] amazo
+- [ ] lobo
+
+### Ep. 38 — Wonderverse
+
+- [ ] nubia
+- [ ] grail
+- [ ] zeus
+- [ ] hera
+- [ ] athena
+- [ ] poseidon
+- [ ] wonder-woman-comrade
+- [ ] wonder-woman-queen
+
+### Ep. 39 — Long Live the Legion
+
+- [ ] brainiac-5
+- [ ] cosmic-boy
+- [ ] lightning-lad
+- [ ] saturn-girl
+- [ ] static
+- [ ] emerald-empress
+
 ### Ep. 49 — Day of Reckoning
 
 - [ ] voivode
 - [ ] luzia
 
-### Adendos (chefes de alerta esquecidos)
+### Adendos
 
 - [ ] major-force
+- [ ] question
 
 ---
 
@@ -397,8 +424,8 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
     star-sapphire, cheetah, ares, black-manta, ocean-master, steppenwolf, kalibak.
   - Nomes ainda mais secundários (Vandal Savage, Gorilla Grodd, Captain Cold, Reverse-Flash,
     Firestorm, Zatara…) entram junto com os episódios em que aparecem.
-  - **Adendos** (chefes de alerta esquecidos, adicionados depois): major-force (alerta
-    Bludhaven; +captain-atom no vocabulário de antagonists).
+  - **Adendos** (personagens do jogo base esquecidos, adicionados depois): major-force
+    (alerta Bludhaven; +captain-atom no vocabulário de antagonists), question (Vic Sage).
 
 ## Episódios
 
@@ -544,9 +571,23 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
   Trevas + Barbatos, o deus-morcego que os forjou (também no grupo dark-knights). Batman
   Who Laughs/Red Death/Merciless creditados ao ep35. Hawkgirl, Martian Manhunter, Batman,
   Wonder Woman já no catálogo; Lady Blackhawk (Thanagar) é reskin, e os suppliers são NPCs)*.
-- [ ] 37. Birds of Prey (2020)
-- [ ] 38. Wonderverse (2020)
-- [ ] 39. Long Live the Legion (2020)
+- [x] 37. Birds of Prey (2020) — brimstone, amazo, lobo *(Black Canary, Harley Quinn, Poison
+  Ivy, Catwoman, Huntress, Superman, Supergirl, Steve Trevor, Lex Luthor, Lois Lane, Jimmy
+  Olsen já no catálogo. Oracle = Barbara Gordon = a `batgirl` do catálogo (mesma pessoa, não
+  duplica). HIVE Master e os bots são NPCs)*.
+- [x] 38. Wonderverse (2020) — nubia, grail, zeus, hera, athena, poseidon, +variantes Diana:
+  wonder-woman-comrade, wonder-woman-queen *(o panteão grego e as Amazonas. Wonder Woman,
+  Steve Trevor, Ares, Hades, Darkseid, Kalibak, Murk, Orion, Steppenwolf já no catálogo.
+  Bombshell Diana = a `wonder-woman-bombshell` já existente; Comrade/Queen Diana entram como
+  variantes `elseworld` (soviética/monárquica). Ferdinand o Kythotaur e os supply bots são
+  NPCs)*.
+- [x] 39. Long Live the Legion (2020) — brainiac-5, cosmic-boy, lightning-lad, saturn-girl,
+  static, emerald-empress *(a Legião dos Super-Heróis do século 31, no grupo novo `legion`
+  (Static fica em teen-titans, sua afiliação real). Supergirl, Raven, Cyborg, Starfire, Beast
+  Boy, Mordru já no catálogo. Emerald Empress lidera os Cinco Fatais (independent). Computo
+  (IA menor) e Validus (bruto sem mente) ficaram de fora; Controlled/Evil Cosmic Boy são
+  estados, bots são NPCs. +grupo legion, +power magnetism, +antagonist emerald-empress no
+  vocabulário)*.
 - [ ] 40. World of Flashpoint (2021)
 - [ ] 41. House of Legends (2021)
 - [ ] 42. Legion of Doom (2021)

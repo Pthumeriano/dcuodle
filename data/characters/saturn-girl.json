@@ -1,0 +1,20 @@
+{
+  "id": "saturn-girl",
+  "name": "Saturn Girl",
+  "aliases": ["Imra Ardeen"],
+  "image": "saturn-girl.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["legion"],
+    "occupations": ["vigilante"],
+    "powers": ["telepathy", "mental"],
+    "antagonists": ["emerald-empress"]
+  },
+  "hints": {
+    "habitation": "Titã",
+    "quote": "Leio mentes através do tempo — nada se esconde de Saturn Girl.",
+    "palette": ["#c2185b", "#eceff1", "#f9a825"]
+  }
+}

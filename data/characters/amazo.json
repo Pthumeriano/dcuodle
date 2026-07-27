@@ -1,0 +1,20 @@
+{
+  "id": "amazo",
+  "name": "Amazo",
+  "aliases": ["Androide de Ivo"],
+  "image": "amazo.webp",
+  "attributes": {
+    "race": "machine",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight", "heat-vision", "super-speed"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Sem morada fixa",
+    "quote": "Copio o poder de toda a Liga — e supero cada um deles.",
+    "palette": ["#1b5e20", "#e67e22", "#9e9e9e"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "grail",
+  "name": "Grail",
+  "aliases": ["Filha de Darkseid"],
+  "image": "grail.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "celestial"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "Apokolips",
+    "quote": "Filha de Darkseid, forjada para destronar Diana.",
+    "palette": ["#4a148c", "#c9a227", "#1a1a1a"]
+  }
+}

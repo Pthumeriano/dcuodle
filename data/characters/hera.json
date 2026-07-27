@@ -1,0 +1,20 @@
+{
+  "id": "hera",
+  "name": "Hera",
+  "aliases": ["Rainha do Olimpo"],
+  "image": "hera.webp",
+  "attributes": {
+    "race": "olympian",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["royalty"],
+    "powers": ["magic", "immortality"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "Monte Olimpo",
+    "quote": "Rainha do Olimpo, e nada escapa ao meu olhar.",
+    "palette": ["#4a148c", "#c9a227", "#00897b"]
+  }
+}

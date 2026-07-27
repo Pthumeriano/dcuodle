@@ -1,0 +1,20 @@
+{
+  "id": "nubia",
+  "name": "Nubia",
+  "aliases": ["Núbia"],
+  "image": "nubia.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["warrior", "royalty"],
+    "powers": ["super-strength", "immortality"],
+    "antagonists": ["ares"]
+  },
+  "hints": {
+    "habitation": "Themyscira",
+    "quote": "Irmã de Diana, campeã das Amazonas — Nubia não recua.",
+    "palette": ["#b71c1c", "#c9a227", "#1a1a1a"]
+  }
+}

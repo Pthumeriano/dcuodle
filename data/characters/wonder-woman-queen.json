@@ -1,0 +1,20 @@
+{
+  "id": "wonder-woman-queen",
+  "name": "Wonder Woman (Queen)",
+  "aliases": ["Queen Diana"],
+  "image": "wonder-woman-queen.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["elseworld"],
+    "occupations": ["royalty", "warrior"],
+    "powers": ["super-strength", "flight", "immortality"],
+    "antagonists": ["ares"]
+  },
+  "hints": {
+    "habitation": "Themyscira",
+    "quote": "Neste mundo, Diana não é princesa — é rainha.",
+    "palette": ["#c9a227", "#4a148c", "#b71c1c"]
+  }
+}

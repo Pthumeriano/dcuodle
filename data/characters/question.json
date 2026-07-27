@@ -1,0 +1,20 @@
+{
+  "id": "question",
+  "name": "The Question",
+  "aliases": ["Vic Sage"],
+  "image": "question.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["journalist", "detective", "vigilante"],
+    "powers": ["peak-human"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Hub City",
+    "quote": "Toda resposta esconde outra pergunta.",
+    "palette": ["#1565c0", "#8d6e63", "#eceff1"]
+  }
+}

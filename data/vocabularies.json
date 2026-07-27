@@ -16,7 +16,8 @@
     "jsa",
     "elseworld",
     "crime-syndicate",
-    "dark-knights"
+    "dark-knights",
+    "legion"
   ],
   "occupations": [
     "vigilante",
@@ -62,7 +63,8 @@
     "quantum",
     "rage",
     "sorcery",
-    "water"
+    "water",
+    "magnetism"
   ],
   "antagonists": [
     "batman",
@@ -108,6 +110,7 @@
     "ultraman",
     "solomon-grundy",
     "klarion",
-    "doctor-fate"
+    "doctor-fate",
+    "emerald-empress"
   ]
 }
