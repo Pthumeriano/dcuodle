@@ -1,0 +1,20 @@
+{
+  "id": "etrigan",
+  "name": "Etrigan",
+  "aliases": ["O Demônio", "Jason Blood"],
+  "image": "etrigan.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["justice-league-dark"],
+    "occupations": ["warrior"],
+    "powers": ["fire", "super-strength", "magic"],
+    "antagonists": ["klarion"]
+  },
+  "hints": {
+    "habitation": "Inferno",
+    "quote": "Rima e fogo é o meu dom — do submundo veio Etrigan.",
+    "palette": ["#f9a825", "#c62828", "#1b5e20"]
+  }
+}

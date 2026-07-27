@@ -1,0 +1,20 @@
+{
+  "id": "adeline-wilson",
+  "name": "Adeline Wilson",
+  "aliases": ["Adeline Kane"],
+  "image": "adeline-wilson.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["marksmanship"],
+    "antagonists": ["deathstroke"]
+  },
+  "hints": {
+    "habitation": "Nova York",
+    "quote": "Treinei o exterminador — e sei como derrubá-lo.",
+    "palette": ["#33691e", "#607d8b", "#c62828"]
+  }
+}

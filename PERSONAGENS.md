@@ -26,7 +26,7 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 
 `[ ]` pendente · `[~] ` em progresso · `[x]` completo
 
-## Já no catálogo (211)
+## Já no catálogo (231)
 
 - **16 originais curados** (seed inicial, feitos à mão): batman, superman, wonder-woman,
   aquaman, the-flash, green-lantern, cyborg, green-arrow, zatanna, raven, nightwing,
@@ -338,6 +338,42 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
 - [ ] jimmy-olsen
 - [ ] xa-du
 
+### Ep. 32 — Teen Titans: The Judas Contract
+
+- [ ] terra
+- [ ] red-robin
+- [ ] beast-boy
+- [ ] jericho
+- [ ] adeline-wilson
+- [ ] robin *(revisão: alias corrigido pra só Damian Wayne)*
+
+### Ep. 33 — Atlantis
+
+- [ ] aqualad
+- [ ] king-shark
+- [ ] murk
+
+### Ep. 34 — Justice League Dark
+
+- [ ] phantom-stranger
+- [ ] deadman
+- [ ] steve-trevor
+- [ ] tala
+- [ ] etrigan
+- [ ] mordru
+
+### Ep. 35 — Metal Part 1
+
+- [ ] the-batman-who-laughs
+- [ ] the-red-death
+- [ ] the-merciless
+
+### Ep. 36 — Metal Part 2
+
+- [ ] the-drowned
+- [ ] dawnbreaker
+- [ ] barbatos
+
 ### Ep. 49 — Day of Reckoning
 
 - [ ] voivode
@@ -484,11 +520,30 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
   Gardner já no catálogo; entram Hank Henshaw (Cyborg Superman), Fire (Beatriz da Costa),
   Jimmy Olsen e o Rei Fantasma Xa-Du. +antagonist solomon-grundy no vocabulário, nemesis do
   Alan Scott)*.
-- [ ] 32. Teen Titans: The Judas Contract (2018)
-- [ ] 33. Atlantis (2018)
-- [ ] 34. Justice League Dark (2019)
-- [ ] 35. Metal Part 1 (2019)
-- [ ] 36. Metal Part 2 (2019)
+- [x] 32. Teen Titans: The Judas Contract (2018) — terra, red-robin, beast-boy, jericho,
+  adeline-wilson *(Cyborg, Starfire, Nightwing, Raven, Donna Troy, Psimon, Gizmo, Jinx,
+  Mammoth, Deathstroke já no catálogo. Terra é a traidora do contrato; Beast Boy (Mutano)
+  faltava. Os dois Robins: "Robin (Damian Wayne)" = o `robin` do catálogo (alias corrigido
+  pra só Damian) e Red Robin = Tim Drake, entra novo. Wonder Dog e H.I.V.E. Master são
+  pet/NPC genérico)*.
+- [x] 33. Atlantis (2018) — aqualad, king-shark, murk *(Aquaman, Ocean Master, Mera, Corum
+  Rath, Black Manta já no catálogo; entram Aqualad (Kaldur'ahm), King Shark e o comandante
+  atlante Murk. The Faceless One, Golems, Brine e Sea Beast são vilão obscuro/monstros
+  genéricos, fora de escopo)*.
+- [x] 34. Justice League Dark (2019) — phantom-stranger, deadman, steve-trevor, tala,
+  etrigan, mordru *(Zatanna, John Constantine, Doctor Fate, Shazam, Batwoman, Felix Faust,
+  Klarion, Teekl já no catálogo; entram Phantom Stranger, Deadman, Steve Trevor, a feiticeira
+  Tala, Etrigan e Mordru. ARGUS e Bound Daemon são NPCs. +antagonists klarion, doctor-fate no
+  vocabulário, nemeses de Etrigan e Mordru)*.
+- [x] 35. Metal Part 1 (2019) — the-batman-who-laughs, the-red-death, the-merciless *(Dark
+  Nights: Metal. Os Cavaleiros das Trevas (Batmen malignos do Multiverso Sombrio) no grupo novo
+  `dark-knights`. Nightwing, Hal Jordan (=green-lantern), Robin, Deathstroke, Killer Croc,
+  Commissioner Gordon, Wonder Woman, Ares, Hades, Bane, Mr. Freeze, Poison Ivy, Sinestro já no
+  catálogo; Dark Robin e os vendors são mobs/NPCs)*.
+- [x] 36. Metal Part 2 (2019) — the-drowned, dawnbreaker, barbatos *(mais Cavaleiros das
+  Trevas + Barbatos, o deus-morcego que os forjou (também no grupo dark-knights). Batman
+  Who Laughs/Red Death/Merciless creditados ao ep35. Hawkgirl, Martian Manhunter, Batman,
+  Wonder Woman já no catálogo; Lady Blackhawk (Thanagar) é reskin, e os suppliers são NPCs)*.
 - [ ] 37. Birds of Prey (2020)
 - [ ] 38. Wonderverse (2020)
 - [ ] 39. Long Live the Legion (2020)

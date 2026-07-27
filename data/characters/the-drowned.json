@@ -1,0 +1,20 @@
+{
+  "id": "the-drowned",
+  "name": "The Drowned",
+  "aliases": ["Bryce Wayne (Terra-11)"],
+  "image": "the-drowned.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["dark-knights"],
+    "occupations": ["criminal"],
+    "powers": ["water", "aquatic-adaptation"],
+    "antagonists": ["aquaman"]
+  },
+  "hints": {
+    "habitation": "Multiverso Sombrio",
+    "quote": "Afoguei meu mundo — e agora venho pelo seu.",
+    "palette": ["#004d40", "#1a1a1a", "#4dd0e1"]
+  }
+}

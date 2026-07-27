@@ -1,0 +1,20 @@
+{
+  "id": "the-batman-who-laughs",
+  "name": "The Batman Who Laughs",
+  "aliases": ["Bruce Wayne (Terra-22)"],
+  "image": "the-batman-who-laughs.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["dark-knights"],
+    "occupations": ["detective", "criminal"],
+    "powers": ["peak-human", "genius-intellect"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Multiverso Sombrio",
+    "quote": "Rio por último — porque já vi como tudo termina.",
+    "palette": ["#1a1a1a", "#2e7d32", "#c62828"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mordru",
+  "name": "Mordru",
+  "aliases": ["Senhor do Caos"],
+  "image": "mordru.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["magician"],
+    "powers": ["sorcery", "immortality"],
+    "antagonists": ["doctor-fate"]
+  },
+  "hints": {
+    "habitation": "Reino do Caos",
+    "quote": "Sou o caos que a magia teme.",
+    "palette": ["#4a148c", "#c9a227", "#1a1a1a"]
+  }
+}

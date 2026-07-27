@@ -1,0 +1,20 @@
+{
+  "id": "king-shark",
+  "name": "King Shark",
+  "aliases": ["Nanaue"],
+  "image": "king-shark.webp",
+  "attributes": {
+    "race": "animal",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["suicide-squad"],
+    "occupations": ["criminal"],
+    "powers": ["super-strength", "aquatic-adaptation"],
+    "antagonists": ["aquaman"]
+  },
+  "hints": {
+    "habitation": "Havaí",
+    "quote": "Sou o Rei Tubarão. Nom nom nom.",
+    "palette": ["#607d8b", "#eceff1", "#0d47a1"]
+  }
+}

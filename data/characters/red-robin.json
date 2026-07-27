@@ -1,20 +1,20 @@
 {
-  "id": "robin",
-  "name": "Robin",
-  "aliases": ["Damian Wayne"],
-  "image": "robin.webp",
+  "id": "red-robin",
+  "name": "Red Robin",
+  "aliases": ["Tim Drake"],
+  "image": "red-robin.webp",
   "attributes": {
     "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["batman-family", "teen-titans"],
     "occupations": ["vigilante", "detective"],
-    "powers": ["peak-human", "marksmanship"],
+    "powers": ["peak-human", "genius-intellect"],
     "antagonists": ["joker"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Todo Morcego precisa de um Robin.",
-    "palette": ["#b71c1c", "#2e7d32", "#fdd835"]
+    "quote": "O manto mudou, mas o detetive continua o mesmo.",
+    "palette": ["#b3122b", "#1c1c22", "#37474f"]
   }
 }

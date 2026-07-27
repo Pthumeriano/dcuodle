@@ -1,0 +1,20 @@
+{
+  "id": "steve-trevor",
+  "name": "Steve Trevor",
+  "aliases": ["Coronel Trevor"],
+  "image": "steve-trevor.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["pilot", "warrior"],
+    "powers": ["none"],
+    "antagonists": ["ares"]
+  },
+  "hints": {
+    "habitation": "Washington, D.C.",
+    "quote": "Sou só um humano — mas nunca abandono a linha de frente.",
+    "palette": ["#5d4037", "#0d47a1", "#bcaaa4"]
+  }
+}

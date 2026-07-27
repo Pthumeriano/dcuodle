@@ -1,0 +1,20 @@
+{
+  "id": "the-merciless",
+  "name": "The Merciless",
+  "aliases": ["Bruce Wayne (Terra-12)"],
+  "image": "the-merciless.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["dark-knights"],
+    "occupations": ["warrior", "criminal"],
+    "powers": ["super-strength", "magic"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "Multiverso Sombrio",
+    "quote": "A guerra não tem misericórdia — e eu sou a guerra.",
+    "palette": ["#7b241c", "#5d4037", "#1a1a1a"]
+  }
+}

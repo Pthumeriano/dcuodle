@@ -1,0 +1,20 @@
+{
+  "id": "terra",
+  "name": "Terra",
+  "aliases": ["Tara Markov"],
+  "image": "terra.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["teen-titans"],
+    "occupations": ["criminal"],
+    "powers": ["earth"],
+    "antagonists": ["nightwing"]
+  },
+  "hints": {
+    "habitation": "Markóvia",
+    "quote": "Traí os Titãs — e faria tudo de novo.",
+    "palette": ["#f9a825", "#1a1a1a", "#8d6e63"]
+  }
+}

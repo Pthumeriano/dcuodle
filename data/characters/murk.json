@@ -1,0 +1,20 @@
+{
+  "id": "murk",
+  "name": "Murk",
+  "aliases": ["Comandante Murk"],
+  "image": "murk.webp",
+  "attributes": {
+    "race": "atlantean",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["aquatic-adaptation", "super-strength"],
+    "antagonists": ["ocean-master"]
+  },
+  "hints": {
+    "habitation": "Atlântida",
+    "quote": "Ninguém ameaça Atlântida enquanto eu comandar a guarda.",
+    "palette": ["#004d40", "#37474f", "#4dd0e1"]
+  }
+}

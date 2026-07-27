@@ -1,0 +1,20 @@
+{
+  "id": "tala",
+  "name": "Tala",
+  "aliases": ["Rainha das Trevas"],
+  "image": "tala.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["magician"],
+    "powers": ["sorcery"],
+    "antagonists": ["zatanna"]
+  },
+  "hints": {
+    "habitation": "Reino das Trevas",
+    "quote": "Sou a rainha das trevas, e toda alma me pertence.",
+    "palette": ["#4a148c", "#1a1a1a", "#c62828"]
+  }
+}

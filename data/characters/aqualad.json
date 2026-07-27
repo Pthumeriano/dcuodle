@@ -1,0 +1,20 @@
+{
+  "id": "aqualad",
+  "name": "Aqualad",
+  "aliases": ["Kaldur'ahm"],
+  "image": "aqualad.webp",
+  "attributes": {
+    "race": "atlantean",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["vigilante"],
+    "powers": ["water", "aquatic-adaptation", "electricity"],
+    "antagonists": ["black-manta"]
+  },
+  "hints": {
+    "habitation": "Atlântida",
+    "quote": "As águas correm em mim, e eu luto por Atlântida.",
+    "palette": ["#0d47a1", "#1a1a1a", "#4dd0e1"]
+  }
+}

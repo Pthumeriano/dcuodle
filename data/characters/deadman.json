@@ -1,0 +1,20 @@
+{
+  "id": "deadman",
+  "name": "Deadman",
+  "aliases": ["Boston Brand"],
+  "image": "deadman.webp",
+  "attributes": {
+    "race": "spirit",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league-dark"],
+    "occupations": ["vigilante"],
+    "powers": ["mental", "flight"],
+    "antagonists": ["ras-al-ghul"]
+  },
+  "hints": {
+    "habitation": "Nanda Parbat",
+    "quote": "Morto por fora, mas ainda luto pelos vivos.",
+    "palette": ["#c62828", "#eceff1", "#1a1a1a"]
+  }
+}

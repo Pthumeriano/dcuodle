@@ -1,0 +1,20 @@
+{
+  "id": "barbatos",
+  "name": "Barbatos",
+  "aliases": ["Deus-Morcego"],
+  "image": "barbatos.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["dark-knights"],
+    "occupations": ["royalty"],
+    "powers": ["magic", "immortality"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Multiverso Sombrio",
+    "quote": "Das trevas abaixo de tudo, o deus-morcego se ergue.",
+    "palette": ["#1a1a1a", "#7b241c", "#b0a99f"]
+  }
+}

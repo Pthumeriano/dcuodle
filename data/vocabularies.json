@@ -15,7 +15,8 @@
     "bombshell",
     "jsa",
     "elseworld",
-    "crime-syndicate"
+    "crime-syndicate",
+    "dark-knights"
   ],
   "occupations": [
     "vigilante",
@@ -105,6 +106,8 @@
     "captain-atom",
     "vandal-savage",
     "ultraman",
-    "solomon-grundy"
+    "solomon-grundy",
+    "klarion",
+    "doctor-fate"
   ]
 }

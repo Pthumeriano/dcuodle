@@ -1,0 +1,20 @@
+{
+  "id": "jericho",
+  "name": "Jericho",
+  "aliases": ["Joseph Wilson"],
+  "image": "jericho.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["vigilante"],
+    "powers": ["mental"],
+    "antagonists": ["deathstroke"]
+  },
+  "hints": {
+    "habitation": "Ilha dos Titãs",
+    "quote": "Sem dizer uma palavra, tomo o controle.",
+    "palette": ["#1b5e20", "#c9a227", "#eeeeee"]
+  }
+}

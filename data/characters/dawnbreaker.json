@@ -1,0 +1,20 @@
+{
+  "id": "dawnbreaker",
+  "name": "Dawnbreaker",
+  "aliases": ["Bruce Wayne (Terra-32)"],
+  "image": "dawnbreaker.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["dark-knights"],
+    "occupations": ["criminal"],
+    "powers": ["hard-light"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Multiverso Sombrio",
+    "quote": "A luz nasce da vontade — e a minha vontade é a escuridão.",
+    "palette": ["#1a1a1a", "#1b5e20", "#00c853"]
+  }
+}

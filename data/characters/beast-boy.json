@@ -1,0 +1,20 @@
+{
+  "id": "beast-boy",
+  "name": "Beast Boy",
+  "aliases": ["Garfield Logan", "Mutano"],
+  "image": "beast-boy.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["vigilante"],
+    "powers": ["nature", "super-strength"],
+    "antagonists": ["deathstroke"]
+  },
+  "hints": {
+    "habitation": "Ilha dos Titãs",
+    "quote": "Qualquer bicho que você imaginar, eu viro.",
+    "palette": ["#00c853", "#4a148c", "#1a1a1a"]
+  }
+}
