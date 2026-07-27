@@ -1,0 +1,20 @@
+{
+  "id": "corum-rath",
+  "name": "Corum Rath",
+  "aliases": ["Rei Rath"],
+  "image": "corum-rath.webp",
+  "attributes": {
+    "race": "atlantean",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["royalty", "magician"],
+    "powers": ["sorcery", "aquatic-adaptation"],
+    "antagonists": ["aquaman"]
+  },
+  "hints": {
+    "habitation": "Atlântida",
+    "quote": "Atlântida se fecha ao mundo da superfície — sob meu reinado.",
+    "palette": ["#0d1b2a", "#1b5e20", "#37474f"]
+  }
+}

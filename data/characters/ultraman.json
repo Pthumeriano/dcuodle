@@ -1,0 +1,20 @@
+{
+  "id": "ultraman",
+  "name": "Ultraman",
+  "aliases": ["Kal-Il"],
+  "image": "ultraman.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["crime-syndicate"],
+    "occupations": ["criminal"],
+    "powers": ["flight", "super-strength", "heat-vision", "invulnerability"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Metrópolis (Terra-3)",
+    "quote": "Poder é a única lei que respeito.",
+    "palette": ["#1a1a1a", "#7b241c", "#4a148c"]
+  }
+}

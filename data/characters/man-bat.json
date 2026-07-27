@@ -1,0 +1,20 @@
+{
+  "id": "man-bat",
+  "name": "Man-Bat",
+  "aliases": ["Kirk Langstrom"],
+  "image": "man-bat.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["flight", "super-strength"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "O soro me deu asas e tirou minha humanidade.",
+    "palette": ["#4e342e", "#a1887f", "#1c1c1c"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "owlman",
+  "name": "Owlman",
+  "aliases": ["Thomas Wayne Jr."],
+  "image": "owlman.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["crime-syndicate"],
+    "occupations": ["detective", "criminal"],
+    "powers": ["peak-human", "genius-intellect"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham (Terra-3)",
+    "quote": "Só importa que eu esteja certo — e eu sempre estou.",
+    "palette": ["#2c2c2c", "#455a64", "#1c1c22"]
+  }
+}

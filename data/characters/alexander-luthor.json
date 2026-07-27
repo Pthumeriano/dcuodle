@@ -1,0 +1,20 @@
+{
+  "id": "alexander-luthor",
+  "name": "Alexander Luthor",
+  "aliases": ["Alex"],
+  "image": "alexander-luthor.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["scientist", "ceo"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["ultraman"]
+  },
+  "hints": {
+    "habitation": "Terra-3",
+    "quote": "Num mundo de vilões, eu sou o único herói.",
+    "palette": ["#1565c0", "#c9a227", "#eeeeee"]
+  }
+}

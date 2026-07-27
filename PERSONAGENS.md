@@ -26,7 +26,7 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 
 `[ ]` pendente · `[~] ` em progresso · `[x]` completo
 
-## Já no catálogo (194)
+## Já no catálogo (211)
 
 - **16 originais curados** (seed inicial, feitos à mão): batman, superman, wonder-woman,
   aquaman, the-flash, green-lantern, cyborg, green-arrow, zatanna, raven, nightwing,
@@ -309,6 +309,35 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
 - [ ] lady-blackhawk
 - [ ] wonder-woman-jsa
 
+### Ep. 29 — Riddled with Crime
+
+- [ ] man-bat
+- [ ] query
+- [ ] echo
+
+### Ep. 30 — Earth 3
+
+- [ ] ultraman
+- [ ] owlman
+- [ ] superwoman
+- [ ] johnny-quick
+- [ ] alexander-luthor
+
+### Ep. 31 — Deluge
+
+- [ ] mera
+- [ ] corum-rath
+- [ ] alan-scott
+- [ ] black-lightning
+- [ ] kid-flash
+
+### Ep. 31b — Death of Superman
+
+- [ ] hank-henshaw
+- [ ] fire
+- [ ] jimmy-olsen
+- [ ] xa-du
+
 ### Ep. 49 — Day of Reckoning
 
 - [ ] voivode
@@ -432,10 +461,29 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
   Ghul já no catálogo; o próprio Ultimate Soldier e os Savage Temporal Commanders são
   NPCs/originais. JSA Wonder Woman virou variante wonder-woman-jsa; Bombshell Wonder Woman
   creditada ao ep15, primeira aparição)*.
-- [ ] 29. Riddled with Crime (2017)
-- [ ] 30. Earth 3 (2017)
-- [ ] 31. Deluge (2018)
-- [ ] 31b. Death of Superman (2018)
+- [x] 29. Riddled with Crime (2017) — man-bat, query, echo *(disputa de território em
+  Gotham. Turf War (Joker/Riddler): Clayface, Deathstroke, Killer Croc, Poison Ivy, Scarecrow,
+  Bane, Harley Quinn, Hush, Mr. Freeze, Solomon Grundy já no catálogo; Query e Echo (capangas
+  do Charada) entram. Rise of the Bat / Gotham City Zoo: Batwoman, Talia al Ghul, Nightwing já
+  no catálogo, +Man-Bat; os Batman-Bat/Joker-Bat/Riddler-Bat e Man-Bat Commandos são mobs do
+  soro)*.
+- [x] 30. Earth 3 (2017) — ultraman, owlman, superwoman, johnny-quick, alexander-luthor
+  *(o Sindicato do Crime da Terra-3: Ultraman/Owlman/Superwoman/Johnny Quick no grupo novo
+  `crime-syndicate`; Alexander Luthor é o único herói da Terra-3 (independent, antag ultraman).
+  Superman, Batman, Wonder Woman, The Flash, Cyborg, Lex Luthor já no catálogo. Power
+  Ring/Grid/Deathstorm/Atomica não aparecem neste episódio; Mayor Gordon, drones e mechs são
+  NPCs. +grupo crime-syndicate e +antagonist ultraman no vocabulário)*.
+- [x] 31. Deluge (2018) — mera, corum-rath, alan-scott, black-lightning, kid-flash
+  *(invasão do Starro Conquistador controlando heróis em Atlântida — Starro já entrou no
+  ep25. Aquaman, Ocean Master, Black Manta, Mirror Master, Captain Cold, Trickster, Weather
+  Wizard e todos os "Controlled X" já no catálogo; entram Mera, o líder atlante Corum Rath e
+  os heróis ainda ausentes que aparecem controlados: Alan Scott (Lanterna Verde da JSA),
+  Black Lightning, Kid Flash)*.
+- [x] 31b. Death of Superman (2018) — hank-henshaw, fire, jimmy-olsen, xa-du *(Superman,
+  Doomsday, Bizarro, Superboy, Steel, Lois Lane, Booster Gold, Power Girl, Supergirl, Guy
+  Gardner já no catálogo; entram Hank Henshaw (Cyborg Superman), Fire (Beatriz da Costa),
+  Jimmy Olsen e o Rei Fantasma Xa-Du. +antagonist solomon-grundy no vocabulário, nemesis do
+  Alan Scott)*.
 - [ ] 32. Teen Titans: The Judas Contract (2018)
 - [ ] 33. Atlantis (2018)
 - [ ] 34. Justice League Dark (2019)

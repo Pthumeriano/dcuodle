@@ -1,0 +1,20 @@
+{
+  "id": "fire",
+  "name": "Fire",
+  "aliases": ["Beatriz da Costa"],
+  "image": "fire.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["vigilante"],
+    "powers": ["fire", "flight"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Rio de Janeiro",
+    "quote": "Do Rio para a Liga — pego fogo por justiça.",
+    "palette": ["#00c853", "#1b5e20", "#fdd835"]
+  }
+}

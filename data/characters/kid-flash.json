@@ -1,0 +1,20 @@
+{
+  "id": "kid-flash",
+  "name": "Kid Flash",
+  "aliases": ["Wally West"],
+  "image": "kid-flash.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["vigilante"],
+    "powers": ["super-speed"],
+    "antagonists": ["reverse-flash"]
+  },
+  "hints": {
+    "habitation": "Central City",
+    "quote": "Sou o próximo raio a cruzar Central City.",
+    "palette": ["#f9a825", "#c62828", "#eeeeee"]
+  }
+}

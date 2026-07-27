@@ -14,7 +14,8 @@
     "noctem",
     "bombshell",
     "jsa",
-    "elseworld"
+    "elseworld",
+    "crime-syndicate"
   ],
   "occupations": [
     "vigilante",
@@ -102,6 +103,8 @@
     "big-barda",
     "chronos",
     "captain-atom",
-    "vandal-savage"
+    "vandal-savage",
+    "ultraman",
+    "solomon-grundy"
   ]
 }

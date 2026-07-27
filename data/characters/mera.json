@@ -1,0 +1,20 @@
+{
+  "id": "mera",
+  "name": "Mera",
+  "aliases": ["Rainha Mera"],
+  "image": "mera.webp",
+  "attributes": {
+    "race": "atlantean",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["royalty", "warrior"],
+    "powers": ["water", "aquatic-adaptation"],
+    "antagonists": ["ocean-master", "black-manta"]
+  },
+  "hints": {
+    "habitation": "Atlântida",
+    "quote": "As marés obedecem à rainha de Atlântida.",
+    "palette": ["#1b5e20", "#c62828", "#4dd0e1"]
+  }
+}

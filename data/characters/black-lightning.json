@@ -1,0 +1,20 @@
+{
+  "id": "black-lightning",
+  "name": "Black Lightning",
+  "aliases": ["Jefferson Pierce"],
+  "image": "black-lightning.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["vigilante"],
+    "powers": ["electricity"],
+    "antagonists": ["deathstroke"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Ensino de dia, e de noite ilumino as ruas com raios.",
+    "palette": ["#0d47a1", "#1a1a1a", "#fdd835"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "jimmy-olsen",
+  "name": "Jimmy Olsen",
+  "aliases": ["James Olsen"],
+  "image": "jimmy-olsen.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["journalist"],
+    "powers": ["none"],
+    "antagonists": ["lex-luthor"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Se tem foto da ação, fui eu que tirei.",
+    "palette": ["#c62828", "#1b5e20", "#f2f2f2"]
+  }
+}

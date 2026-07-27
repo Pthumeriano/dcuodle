@@ -1,0 +1,20 @@
+{
+  "id": "xa-du",
+  "name": "Xa-Du",
+  "aliases": ["Rei Fantasma"],
+  "image": "xa-du.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior", "criminal"],
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Zona Fantasma",
+    "quote": "Da Zona Fantasma, o Rei retorna para reclamar o que é seu.",
+    "palette": ["#4a148c", "#1a1a1a", "#b0bec5"]
+  }
+}

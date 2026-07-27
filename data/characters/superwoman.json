@@ -1,0 +1,20 @@
+{
+  "id": "superwoman",
+  "name": "Superwoman",
+  "aliases": ["Lois Lane (Terra-3)"],
+  "image": "superwoman.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["crime-syndicate"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "flight"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "Themyscira (Terra-3)",
+    "quote": "Amo o poder — e destruo quem o subestima.",
+    "palette": ["#1a1a1a", "#7b241c", "#9e9e9e"]
+  }
+}

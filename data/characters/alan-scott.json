@@ -1,0 +1,20 @@
+{
+  "id": "alan-scott",
+  "name": "Alan Scott",
+  "aliases": ["Sentinel"],
+  "image": "alan-scott.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["jsa"],
+    "occupations": ["ceo"],
+    "powers": ["hard-light", "magic"],
+    "antagonists": ["solomon-grundy"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "As trevas não resistem à luz da Lanterna Verde.",
+    "palette": ["#1b5e20", "#c62828", "#6a1b9a"]
+  }
+}
