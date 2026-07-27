@@ -17,7 +17,8 @@
     "elseworld",
     "crime-syndicate",
     "dark-knights",
-    "legion"
+    "legion",
+    "flashpoint"
   ],
   "occupations": [
     "vigilante",
@@ -64,7 +65,8 @@
     "rage",
     "sorcery",
     "water",
-    "magnetism"
+    "magnetism",
+    "shadow"
   ],
   "antagonists": [
     "batman",
@@ -111,6 +113,11 @@
     "solomon-grundy",
     "klarion",
     "doctor-fate",
-    "emerald-empress"
+    "emerald-empress",
+    "major-force",
+    "monitor",
+    "anti-monitor",
+    "static",
+    "ebon"
   ]
 }

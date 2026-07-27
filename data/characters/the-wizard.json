@@ -1,0 +1,20 @@
+{
+  "id": "the-wizard",
+  "name": "The Wizard",
+  "aliases": ["Mamaragan", "Mago Shazam"],
+  "image": "the-wizard.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["magician"],
+    "powers": ["magic", "sorcery", "immortality"],
+    "antagonists": ["black-adam"]
+  },
+  "hints": {
+    "habitation": "Rochedo da Eternidade",
+    "quote": "Diga meu nome e receba o poder dos deuses: SHAZAM!",
+    "palette": ["#eceff1", "#9e9e9e", "#c9a227"]
+  }
+}

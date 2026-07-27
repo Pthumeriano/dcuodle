@@ -1,0 +1,20 @@
+{
+  "id": "krypto",
+  "name": "Krypto",
+  "aliases": ["Superdog", "Cão de Aço"],
+  "image": "krypto.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["vigilante"],
+    "powers": ["flight", "super-strength", "heat-vision", "invulnerability"],
+    "antagonists": ["lex-luthor"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Au! O melhor amigo do Homem de Aço tem capa também.",
+    "palette": ["#eceff1", "#c62828", "#f9a825"]
+  }
+}

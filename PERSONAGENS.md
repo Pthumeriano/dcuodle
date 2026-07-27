@@ -26,7 +26,7 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 
 `[ ]` pendente · `[~] ` em progresso · `[x]` completo
 
-## Já no catálogo (249)
+## Já no catálogo (280)
 
 - **16 originais curados** (seed inicial, feitos à mão): batman, superman, wonder-woman,
   aquaman, the-flash, green-lantern, cyborg, green-arrow, zatanna, raven, nightwing,
@@ -34,7 +34,7 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 - **45 do Base Game** (2 lotes bulk — ver *Revisão de atributos* abaixo).
 - **29 avulsos** (da memória do usuário — bulk, ver *Revisão* abaixo).
 - **Ep. 1-3** (Lanternas, Rogues do Flash, invasão do Brainiac — bulk, ver *Revisão*).
-- **Ep. 49 Day of Reckoning:** voivode, luzia *(parcial — falta o resto do elenco)*.
+- **Ep. 49 Day of Reckoning:** voivode, luzia, esperanza-cavalera.
 - **Original do usuário (fora do cânon DCUO):** 409-conflict *(liga Noctem)*.
 
 Lista completa dos ids: `ls data/characters/`.
@@ -400,10 +400,73 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
 - [ ] static
 - [ ] emerald-empress
 
+### Ep. 40 — World of Flashpoint
+
+- [ ] batman-flashpoint
+- [ ] aquaman-flashpoint
+- [ ] wonder-woman-flashpoint
+- [ ] cyborg-flashpoint
+
+### Ep. 41 — House of Legends
+
+- [ ] monitor
+- [ ] harbinger
+- [ ] captain-atom
+- [ ] metamorpho
+
+### Ep. 42 — Legion of Doom
+
+- [ ] miss-martian
+- [ ] anti-monitor
+- [ ] mister-mxyzptlk
+- [ ] murder-machine
+- [ ] world-forger
+- [ ] perpetua
+- [ ] monitor *(revisão: antagonists → anti-monitor)*
+
+### Ep. 43 — Dark Knights
+
+- [ ] darkfather
+- [ ] devastator
+
+### Ep. 44 — The Sins of Black Adam
+
+- [ ] isis
+- [ ] the-wizard
+- [ ] mary-marvel
+- [ ] neron
+- [ ] black-alice
+
+### Ep. 45 — Shock to the System
+
+- [ ] rocket
+- [ ] icon
+- [ ] desaad
+- [ ] ebon
+- [ ] static *(revisão: antagonists → ebon)*
+
+### Ep. 46 — Justice League Dark Cursed
+
+- [ ] hecate
+
+### Ep. 48 — Harley Quinn vs. Apokolips
+
+- [ ] red-tool
+
 ### Ep. 49 — Day of Reckoning
 
 - [ ] voivode
 - [ ] luzia
+- [ ] esperanza-cavalera
+
+### Ep. 52 — Hope Burns Bright
+
+- [ ] vice
+
+### Ep. 53 — Shadows Over Argo
+
+- [ ] krypto
+- [ ] kryb
 
 ### Adendos
 
@@ -588,20 +651,64 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
   (IA menor) e Validus (bruto sem mente) ficaram de fora; Controlled/Evil Cosmic Boy são
   estados, bots são NPCs. +grupo legion, +power magnetism, +antagonist emerald-empress no
   vocabulário)*.
-- [ ] 40. World of Flashpoint (2021)
-- [ ] 41. House of Legends (2021)
-- [ ] 42. Legion of Doom (2021)
-- [ ] 43. Dark Knights (2022)
-- [ ] 44. The Sins of Black Adam (2022)
-- [ ] 45. Shock to the System (2023)
-- [ ] 46. Justice League Dark Cursed (2023)
-- [ ] 47. Brainiac Returns (2024)
-- [ ] 48. Harley Quinn vs. Apokolips (2024)
-- [~] 49. Day of Reckoning (2025) — feitos: voivode, luzia · falta o resto do elenco
-- [ ] 50. Fearful Day (2025)
-- [ ] 51. Raging Night (2025)
-- [ ] 52. Hope Burns Bright (2026)
-- [ ] 53. Shadows Over Argo (2026)
+- [x] 40. World of Flashpoint (2021) — batman-flashpoint (Thomas Wayne), aquaman-flashpoint
+  (Imperador), wonder-woman-flashpoint (Rainha guerreira), cyborg-flashpoint *(a linha temporal
+  Flashpoint no grupo novo `flashpoint`. The Flash, Kid Flash, Professor Zoom (=reverse-flash),
+  Amazo, Gorilla Grodd, Brainiac, Circe, Ares, Hera já no catálogo; Oracle=batgirl. Penguin,
+  Heat Wave, Chief Gordon e Subject Doomsday Flashpoint são reskins menores; Skeets e bots são
+  NPCs. +grupo flashpoint no vocabulário)*.
+- [x] 41. House of Legends (2021) — monitor, harbinger, captain-atom, metamorpho *(hub
+  cósmico. Steve Trevor, Rip Hunter, Cyborg já no catálogo. Captain Atom já era referenciado
+  como antagonista do major-force mas faltava o personagem — agora recíproco (+major-force no
+  vocabulário de antagonists). Tempus Fuginaut é vendor)*.
+- [x] 42. Legion of Doom (2021) — miss-martian, anti-monitor, mister-mxyzptlk, murder-machine,
+  world-forger, perpetua *(temas Crise/Death Metal. Martian Manhunter, Cyborg, John Stewart,
+  Lois Lane, Phantom Stranger, Sinestro, Black Manta, Cheetah, Gorilla Grodd, Monitor, Batman
+  Who Laughs já no catálogo. Murder Machine é mais um Cavaleiro das Trevas (grupo dark-knights).
+  Rivalidade Monitor↔Anti-Monitor virou recíproca (+monitor, +anti-monitor no vocabulário de
+  antagonists). Reskins do Sixth Dimension (Superman/Warden Lois), Alpha Lex, Source Giganta e
+  Lady Blackhawk Thanagar ficaram de fora)*.
+- [x] 43. Dark Knights (2022) — darkfather, devastator *(finale de Death Metal. Fecha o time
+  dos Cavaleiros das Trevas: Darkfather (Batman+Darkseid) e Devastator (Batman+Doomsday), grupo
+  dark-knights. Todo o resto (Red Death, Merciless, Drowned, Dawnbreaker, Murder Machine,
+  Barbatos, o Sindicato, Perpetua, Grail, Brimstone, etc.) já no catálogo; Batman/WW/Superman
+  Death Metal, One Who Laughs e Batmage são reskins/formas)*.
+- [x] 44. The Sins of Black Adam (2022) — isis, the-wizard, mary-marvel, neron, black-alice
+  *(Black Adam, Shazam, Hawkgirl, Doctor Fate, Metamorpho, Felix Faust já no catálogo; Billy
+  Batson = shazam. The Wizard é o mago que concede o poder (distinto do herói). Os Sete Pecados
+  Capitais e as Monstrosities ficaram de fora — demônios abstratos/mobs)*.
+- [x] 45. Shock to the System (2023) — rocket, icon, desaad, ebon *(universo Milestone/Static.
+  Static, Steel, Cyborg, Doctor Light, Fearsome Five, Major Force, Parasite, Grail já no
+  catálogo. Ebon é o arqui-inimigo do Static — rivalidade recíproca (+static, +ebon no vocab de
+  antagonists; +power shadow). Doctor Sarah Charles, Turtledove e DaBoom são NPC/Bang Babies
+  menores)*.
+- [x] 46. Justice League Dark Cursed (2023) — hecate *(Zatanna, Constantine, Wonder Woman,
+  Circe, Wonder Girl, Batman, Isis, Phantom Stranger, Deadman, Etrigan, Gentleman Ghost já no
+  catálogo; Hecate é a deusa-vilã. Os "Cursed X" são estados amaldiçoados)*.
+- [x] 47. Brainiac Returns (2024) — **0 novos**: Superman, Lex Luthor, Martian Manhunter,
+  Hawkgirl, Bane, John Stewart, Sinestro, Red Tornado, Gorilla Grodd, Superboy, Brainiac,
+  Bizarro, General Zod, Metallo, Parasite, Ursa — todos já no catálogo.
+- [x] 48. Harley Quinn vs. Apokolips (2024) — red-tool *(Harley, Big Barda, Black Canary,
+  Commissioner Gordon, Mister Miracle, Nightwing, Huntress, Poison Ivy, Darkseid, Granny
+  Goodness, Brimstone, as Fúrias, Kalibak já no catálogo. Red Tool é o aliado mercenário da
+  Harley; Hammer Harleen é reskin)*.
+- [x] 49. Day of Reckoning (2025) — voivode, luzia (já feitos), esperanza-cavalera *(John
+  Constantine, Zatanna, Etrigan, Felix Faust, Neron, Solomon Grundy já no catálogo. "The
+  Reckoning" = alias da luzia. Esperanza Cavalera é irmã da Luzia e Lanterna Azul (poder
+  Esperança), que caça a irmã assassina — antagonista luzia; grupo a definir)*.
+- [x] 50. Fearful Day (2025) — **0 novos**: elenco de Tropa (Mogo, Kilowog, Star Sapphire,
+  Saint Walker, Amon Sur, Arkillo, Lyssa Drak, Sinestro, John Stewart, Hal Jordan) + Luzia,
+  Esperanza, Voivode, Hank Henshaw — todos já no catálogo.
+- [x] 51. Raging Night (2025) — **0 novos**: Kyle Rayner, Star Sapphire, Saint Walker,
+  Indigo-1, Sinestro, Atrocitus, Larfleeze, Nekron, Lyssa Drak, Voivode, Black Hand, Glomulus
+  — todos já no catálogo.
+- [x] 52. Hope Burns Bright (2026) — vice *(Guy Gardner, Luzia, Star Sapphire, Saint Walker,
+  Brother Warth, John Stewart, Atrocitus, Bleez já no catálogo. Vice = Lanterna Vermelho.
+  Darvik, Randolph the Gray e The Matron pulados — sem página na wiki, novos demais/obscuros
+  pra modelar; Manifestation of Luzia's Sorrow é forma)*.
+- [x] 53. Shadows Over Argo (2026) — krypto, kryb *(Supergirl, Aquaman, Mera, Aqualad, Murk,
+  Atrocitus, Dex-Starr, Ocean Master já no catálogo. Krypto (cão do Superman) e Kryb (Sinestro
+  Corps) entram; Sea Beast, Brine Hulk e Trench Warrior são monstros)*.
 
 ---
 

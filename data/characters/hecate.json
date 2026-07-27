@@ -1,0 +1,20 @@
+{
+  "id": "hecate",
+  "name": "Hecate",
+  "aliases": ["Deusa da Feitiçaria"],
+  "image": "hecate.webp",
+  "attributes": {
+    "race": "olympian",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["magician"],
+    "powers": ["sorcery", "immortality"],
+    "antagonists": ["zatanna"]
+  },
+  "hints": {
+    "habitation": "Encruzilhada",
+    "quote": "Sou a bruxa primordial — toda magia flui de mim.",
+    "palette": ["#4a148c", "#1b5e20", "#1a1a1a"]
+  }
+}

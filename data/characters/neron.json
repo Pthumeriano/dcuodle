@@ -1,0 +1,20 @@
+{
+  "id": "neron",
+  "name": "Neron",
+  "aliases": ["Senhor do Inferno"],
+  "image": "neron.webp",
+  "attributes": {
+    "race": "demon",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["royalty", "magician"],
+    "powers": ["sorcery", "immortality"],
+    "antagonists": ["zatanna"]
+  },
+  "hints": {
+    "habitation": "Inferno",
+    "quote": "Sua alma tem um preço — e eu sempre cobro.",
+    "palette": ["#b71c1c", "#1a1a1a", "#1b5e20"]
+  }
+}

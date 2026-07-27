@@ -1,0 +1,20 @@
+{
+  "id": "isis",
+  "name": "Isis",
+  "aliases": ["Adrianna Tomaz"],
+  "image": "isis.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["royalty", "magician"],
+    "powers": ["magic", "nature"],
+    "antagonists": ["felix-faust"]
+  },
+  "hints": {
+    "habitation": "Kahndaq",
+    "quote": "Pelo poder de Ísis, a natureza responde ao meu chamado.",
+    "palette": ["#eceff1", "#c9a227", "#1b5e20"]
+  }
+}

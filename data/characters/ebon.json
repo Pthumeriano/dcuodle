@@ -1,0 +1,20 @@
+{
+  "id": "ebon",
+  "name": "Ebon",
+  "aliases": ["Ivan Evans"],
+  "image": "ebon.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["shadow"],
+    "antagonists": ["static"]
+  },
+  "hints": {
+    "habitation": "Dakota",
+    "quote": "Das sombras eu venho, e nas sombras você desaparece.",
+    "palette": ["#1a1a1a", "#4a148c", "#607d8b"]
+  }
+}

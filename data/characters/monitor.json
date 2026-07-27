@@ -1,0 +1,20 @@
+{
+  "id": "monitor",
+  "name": "Monitor",
+  "aliases": ["Mar Novu"],
+  "image": "monitor.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["celestial", "immortality"],
+    "antagonists": ["anti-monitor"]
+  },
+  "hints": {
+    "habitation": "Orla do Multiverso",
+    "quote": "Observo cada realidade — e vejo a crise que se aproxima.",
+    "palette": ["#c9a227", "#eceff1", "#1a237e"]
+  }
+}

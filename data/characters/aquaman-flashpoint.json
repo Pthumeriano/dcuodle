@@ -1,0 +1,20 @@
+{
+  "id": "aquaman-flashpoint",
+  "name": "Aquaman (Flashpoint)",
+  "aliases": ["Imperador Aquaman"],
+  "image": "aquaman-flashpoint.webp",
+  "attributes": {
+    "race": "atlantean",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["flashpoint"],
+    "occupations": ["royalty", "warrior"],
+    "powers": ["water", "aquatic-adaptation", "super-strength"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "Atlântida",
+    "quote": "Afundei um continente. As Amazonas serão as próximas.",
+    "palette": ["#1b5e20", "#c9a227", "#004d40"]
+  }
+}

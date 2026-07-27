@@ -1,0 +1,20 @@
+{
+  "id": "black-alice",
+  "name": "Black Alice",
+  "aliases": ["Lori Zechlin"],
+  "image": "black-alice.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["magician"],
+    "powers": ["magic", "sorcery"],
+    "antagonists": ["zatanna"]
+  },
+  "hints": {
+    "habitation": "Dayton",
+    "quote": "Roubo a magia de quem quiser — e uso melhor que eles.",
+    "palette": ["#1a1a1a", "#4a148c", "#c62828"]
+  }
+}

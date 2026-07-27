@@ -1,0 +1,20 @@
+{
+  "id": "perpetua",
+  "name": "Perpetua",
+  "aliases": ["Mãe da Criação"],
+  "image": "perpetua.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["royalty"],
+    "powers": ["celestial", "immortality"],
+    "antagonists": ["monitor"]
+  },
+  "hints": {
+    "habitation": "Muralha da Fonte",
+    "quote": "Sou a mãe de toda a criação — e posso desfazê-la.",
+    "palette": ["#c9a227", "#4a148c", "#1a1a1a"]
+  }
+}

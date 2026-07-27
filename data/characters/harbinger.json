@@ -1,0 +1,20 @@
+{
+  "id": "harbinger",
+  "name": "Harbinger",
+  "aliases": ["Lyla Michaels"],
+  "image": "harbinger.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["vigilante"],
+    "powers": ["flight", "celestial"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Orla do Multiverso",
+    "quote": "Sou os olhos e a voz do Monitor em mil mundos.",
+    "palette": ["#1a237e", "#4dd0e1", "#eceff1"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mary-marvel",
+  "name": "Mary Marvel",
+  "aliases": ["Mary Batson"],
+  "image": "mary-marvel.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["vigilante"],
+    "powers": ["super-strength", "flight", "magic"],
+    "antagonists": ["black-adam"]
+  },
+  "hints": {
+    "habitation": "Fawcett City",
+    "quote": "Shazam! O raio também é meu — sou Mary Marvel.",
+    "palette": ["#c62828", "#eceff1", "#c9a227"]
+  }
+}

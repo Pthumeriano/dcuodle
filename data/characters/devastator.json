@@ -1,0 +1,20 @@
+{
+  "id": "devastator",
+  "name": "The Devastator",
+  "aliases": ["Bruce Wayne (Terra-1)"],
+  "image": "devastator.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["dark-knights"],
+    "occupations": ["criminal"],
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Multiverso Sombrio",
+    "quote": "Injetei o vírus Apocalypse — sou a arma que mata um Superman.",
+    "palette": ["#1a1a1a", "#607d8b", "#b0a99f"]
+  }
+}

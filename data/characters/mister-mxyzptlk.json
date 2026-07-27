@@ -1,0 +1,20 @@
+{
+  "id": "mister-mxyzptlk",
+  "name": "Mister Mxyzptlk",
+  "aliases": ["Mxy"],
+  "image": "mister-mxyzptlk.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["magician"],
+    "powers": ["magic"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Quinta Dimensão",
+    "quote": "Diga meu nome ao contrário, se conseguir — Kltpzyxm!",
+    "palette": ["#4a148c", "#e67e22", "#f9a825"]
+  }
+}

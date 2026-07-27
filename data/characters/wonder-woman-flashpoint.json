@@ -1,0 +1,20 @@
+{
+  "id": "wonder-woman-flashpoint",
+  "name": "Wonder Woman (Flashpoint)",
+  "aliases": ["Queen Diana"],
+  "image": "wonder-woman-flashpoint.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["flashpoint"],
+    "occupations": ["royalty", "warrior"],
+    "powers": ["super-strength", "flight", "immortality"],
+    "antagonists": ["aquaman"]
+  },
+  "hints": {
+    "habitation": "Nova Themyscira",
+    "quote": "Tomei Londres para as Amazonas. Aquaman pagará pela guerra.",
+    "palette": ["#7b241c", "#c9a227", "#607d8b"]
+  }
+}

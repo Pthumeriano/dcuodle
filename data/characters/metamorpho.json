@@ -1,0 +1,20 @@
+{
+  "id": "metamorpho",
+  "name": "Metamorpho",
+  "aliases": ["Rex Mason", "Homem-Elemento"],
+  "image": "metamorpho.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["vigilante"],
+    "powers": ["earth", "fire", "water"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Sem morada fixa",
+    "quote": "Todos os elementos da tabela periódica correm em mim.",
+    "palette": ["#e67e22", "#4a148c", "#9e9e9e"]
+  }
+}

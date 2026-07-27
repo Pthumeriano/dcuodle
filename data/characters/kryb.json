@@ -1,0 +1,20 @@
+{
+  "id": "kryb",
+  "name": "Kryb",
+  "aliases": ["Ladra de Berços"],
+  "image": "kryb.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "female",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["criminal"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Qward",
+    "quote": "Roubo os filhos das Lanternas — e crio meu ninho do medo.",
+    "palette": ["#f9a825", "#1b5e20", "#1a1a1a"]
+  }
+}

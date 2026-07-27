@@ -1,0 +1,20 @@
+{
+  "id": "captain-atom",
+  "name": "Captain Atom",
+  "aliases": ["Nathaniel Adam"],
+  "image": "captain-atom.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["warrior"],
+    "powers": ["quantum", "atomic", "flight"],
+    "antagonists": ["major-force"]
+  },
+  "hints": {
+    "habitation": "Washington, D.C.",
+    "quote": "Sou energia quântica em forma humana — imparável.",
+    "palette": ["#b0bec5", "#c62828", "#1565c0"]
+  }
+}

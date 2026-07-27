@@ -1,0 +1,20 @@
+{
+  "id": "red-tool",
+  "name": "Red Tool",
+  "aliases": ["Wade"],
+  "image": "red-tool.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["munitions"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Ferramenta certa pra cada trabalho — e eu faço tudo pela Harley.",
+    "palette": ["#c62828", "#455a64", "#1a1a1a"]
+  }
+}

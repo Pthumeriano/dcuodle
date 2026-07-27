@@ -1,0 +1,20 @@
+{
+  "id": "batman-flashpoint",
+  "name": "Batman (Flashpoint)",
+  "aliases": ["Thomas Wayne"],
+  "image": "batman-flashpoint.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["flashpoint"],
+    "occupations": ["vigilante", "ceo"],
+    "powers": ["peak-human", "gadgets"],
+    "antagonists": ["joker"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Meu filho morreu naquele beco. Eu virei o morcego em seu lugar.",
+    "palette": ["#1a1a1a", "#7b241c", "#37474f"]
+  }
+}

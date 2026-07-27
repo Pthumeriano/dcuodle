@@ -1,0 +1,20 @@
+{
+  "id": "esperanza-cavalera",
+  "name": "Esperanza Cavalera",
+  "aliases": ["Lanterna Azul"],
+  "image": "esperanza-cavalera.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["vigilante"],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["luzia"]
+  },
+  "hints": {
+    "habitation": "Kaznia City",
+    "quote": "A esperança é a luz que trará minha irmã de volta.",
+    "palette": ["#1565c0", "#4dd0e1", "#eceff1"]
+  }
+}

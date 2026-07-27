@@ -1,0 +1,20 @@
+{
+  "id": "world-forger",
+  "name": "World Forger",
+  "aliases": ["Alpheus"],
+  "image": "world-forger.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "antihero",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["celestial", "immortality"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Forja do Multiverso",
+    "quote": "Nas minhas forjas nascem e morrem os mundos.",
+    "palette": ["#1a1a1a", "#e64a19", "#c9a227"]
+  }
+}

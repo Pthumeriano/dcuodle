@@ -1,0 +1,20 @@
+{
+  "id": "miss-martian",
+  "name": "Miss Martian",
+  "aliases": ["M'gann M'orzz", "Megan Morse"],
+  "image": "miss-martian.webp",
+  "attributes": {
+    "race": "martian",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["teen-titans"],
+    "occupations": ["vigilante"],
+    "powers": ["telepathy", "flight", "super-strength"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Marte",
+    "quote": "Última filha verde de Marte, pronta para proteger a Terra.",
+    "palette": ["#00c853", "#c62828", "#eceff1"]
+  }
+}

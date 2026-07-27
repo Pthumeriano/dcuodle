@@ -1,0 +1,20 @@
+{
+  "id": "anti-monitor",
+  "name": "Anti-Monitor",
+  "aliases": ["Mobius"],
+  "image": "anti-monitor.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["celestial", "immortality"],
+    "antagonists": ["monitor"]
+  },
+  "hints": {
+    "habitation": "Universo de Antimatéria",
+    "quote": "Sou o fim de todos os universos — a antimatéria que tudo devora.",
+    "palette": ["#f9a825", "#1a1a1a", "#607d8b"]
+  }
+}

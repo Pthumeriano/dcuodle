@@ -1,0 +1,20 @@
+{
+  "id": "icon",
+  "name": "Icon",
+  "aliases": ["Augustus Freeman"],
+  "image": "icon.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["vigilante"],
+    "powers": ["flight", "super-strength", "invulnerability"],
+    "antagonists": []
+  },
+  "hints": {
+    "habitation": "Dakota",
+    "quote": "Caí do céu há um século — hoje sou o ícone de Dakota.",
+    "palette": ["#0d47a1", "#c9a227", "#eceff1"]
+  }
+}

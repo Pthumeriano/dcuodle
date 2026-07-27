@@ -1,0 +1,20 @@
+{
+  "id": "vice",
+  "name": "Vice",
+  "aliases": ["Lanterna Vermelho"],
+  "image": "vice.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["rage", "flight"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Ysmault",
+    "quote": "A raiva ferve no meu sangue — e queima tudo que toco.",
+    "palette": ["#b71c1c", "#1a1a1a", "#7b241c"]
+  }
+}
