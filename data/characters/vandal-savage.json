@@ -1,0 +1,20 @@
+{
+  "id": "vandal-savage",
+  "name": "Vandal Savage",
+  "aliases": ["Vandar Adg"],
+  "image": "vandal-savage.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["legion-of-doom"],
+    "occupations": ["warrior", "criminal"],
+    "powers": ["immortality", "genius-intellect"],
+    "antagonists": ["hawkman"]
+  },
+  "hints": {
+    "habitation": "Antigo Egito",
+    "quote": "Já enterrei impérios. Enterrarei você também.",
+    "palette": ["#1c1c1c", "#7b241c", "#b0a99f"]
+  }
+}

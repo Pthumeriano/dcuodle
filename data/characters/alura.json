@@ -1,0 +1,20 @@
+{
+  "id": "alura",
+  "name": "Alura",
+  "aliases": ["Alura In-Ze", "Alura Zor-El"],
+  "image": "alura.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["royalty"],
+    "powers": ["flight", "super-strength", "invulnerability"],
+    "antagonists": ["brainiac"]
+  },
+  "hints": {
+    "habitation": "Kandor",
+    "quote": "Meu mundo cabe numa garrafa, mas nossa esperança não.",
+    "palette": ["#e0e0e0", "#1565c0", "#c62828"]
+  }
+}

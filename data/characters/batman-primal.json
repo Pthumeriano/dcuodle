@@ -1,0 +1,20 @@
+{
+  "id": "batman-primal",
+  "name": "Batman (Primal)",
+  "aliases": ["Bruce Wayne"],
+  "image": "batman-primal.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["elseworld"],
+    "occupations": ["warrior"],
+    "powers": ["peak-human"],
+    "antagonists": ["joker"]
+  },
+  "hints": {
+    "habitation": "Era Pré-Histórica",
+    "quote": "Antes das cidades, já havia o medo — e o morcego.",
+    "palette": ["#3e2723", "#8d6e63", "#d7ccc8"]
+  }
+}

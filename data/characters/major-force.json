@@ -1,0 +1,20 @@
+{
+  "id": "major-force",
+  "name": "Major Force",
+  "aliases": ["Clifford Zmeck"],
+  "image": "major-force.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["suicide-squad"],
+    "occupations": ["warrior", "criminal"],
+    "powers": ["atomic", "quantum", "flight"],
+    "antagonists": ["captain-atom", "green-lantern"]
+  },
+  "hints": {
+    "habitation": "Bludhaven",
+    "quote": "Nobody hits harder than Major Force.",
+    "palette": ["#1e7a3c", "#b0b0b0", "#c0392b"]
+  }
+}

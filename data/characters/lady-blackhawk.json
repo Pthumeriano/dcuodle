@@ -1,0 +1,20 @@
+{
+  "id": "lady-blackhawk",
+  "name": "Lady Blackhawk",
+  "aliases": ["Zinda Blake"],
+  "image": "lady-blackhawk.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["pilot"],
+    "powers": ["marksmanship"],
+    "antagonists": ["vandal-savage"]
+  },
+  "hints": {
+    "habitation": "Ilha Blackhawk",
+    "quote": "No ar ou em terra, ninguém me tira do céu.",
+    "palette": ["#0d1b3e", "#1c1c1c", "#f5c542"]
+  }
+}

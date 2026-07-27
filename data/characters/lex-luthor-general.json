@@ -1,0 +1,20 @@
+{
+  "id": "lex-luthor-general",
+  "name": "Lex Luthor (General)",
+  "aliases": ["Alexander Luthor"],
+  "image": "lex-luthor-general.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["elseworld"],
+    "occupations": ["warrior", "criminal"],
+    "powers": ["genius-intellect", "munitions"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Dei ao mundo a ordem que ele implorava — sob meu comando.",
+    "palette": ["#33691e", "#827717", "#c9a227"]
+  }
+}

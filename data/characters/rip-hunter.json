@@ -1,0 +1,20 @@
+{
+  "id": "rip-hunter",
+  "name": "Rip Hunter",
+  "aliases": ["Mestre do Tempo"],
+  "image": "rip-hunter.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["genius-intellect", "gadgets"],
+    "antagonists": ["vandal-savage"]
+  },
+  "hints": {
+    "habitation": "Ponto de Fuga",
+    "quote": "O tempo não pode ser mudado sem consequências.",
+    "palette": ["#5d4037", "#8d6e63", "#4dd0e1"]
+  }
+}

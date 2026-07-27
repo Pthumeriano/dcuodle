@@ -1,0 +1,20 @@
+{
+  "id": "lex-luthor-professor",
+  "name": "Lex Luthor (Professor)",
+  "aliases": ["Alexander Luthor"],
+  "image": "lex-luthor-professor.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["elseworld"],
+    "occupations": ["scientist"],
+    "powers": ["genius-intellect"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Universidade de Metropolis",
+    "quote": "O conhecimento é a única arma que importa.",
+    "palette": ["#2e7d32", "#6d4c41", "#bcaaa4"]
+  }
+}

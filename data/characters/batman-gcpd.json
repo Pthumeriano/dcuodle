@@ -1,0 +1,20 @@
+{
+  "id": "batman-gcpd",
+  "name": "Batman (GCPD)",
+  "aliases": ["Bruce Wayne"],
+  "image": "batman-gcpd.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["elseworld"],
+    "occupations": ["detective"],
+    "powers": ["peak-human", "gadgets"],
+    "antagonists": ["joker"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Neste mundo, o morcego usa distintivo.",
+    "palette": ["#0d1b3e", "#1c1c22", "#90a4ae"]
+  }
+}

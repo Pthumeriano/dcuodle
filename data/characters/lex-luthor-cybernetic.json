@@ -1,0 +1,20 @@
+{
+  "id": "lex-luthor-cybernetic",
+  "name": "Lex Luthor (Cybernetic)",
+  "aliases": ["Alexander Luthor"],
+  "image": "lex-luthor-cybernetic.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["elseworld"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["genius-intellect", "gadgets"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "quote": "Substituí a carne fraca por aço perfeito.",
+    "palette": ["#2e7d32", "#607d8b", "#cfd8dc"]
+  }
+}

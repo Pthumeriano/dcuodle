@@ -1,0 +1,20 @@
+{
+  "id": "lex-luthor-space-commander",
+  "name": "Lex Luthor (Space Commander)",
+  "aliases": ["Alexander Luthor"],
+  "image": "lex-luthor-space-commander.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["elseworld"],
+    "occupations": ["scientist", "criminal"],
+    "powers": ["genius-intellect", "flight"],
+    "antagonists": ["superman"]
+  },
+  "hints": {
+    "habitation": "Estação Orbital",
+    "quote": "Conquistei as estrelas; a Terra é só o começo.",
+    "palette": ["#2e7d32", "#4a148c", "#b0bec5"]
+  }
+}

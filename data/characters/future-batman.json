@@ -7,7 +7,7 @@
     "race": "human",
     "gender": "male",
     "morality": "hero",
-    "groups": ["batman-family"],
+    "groups": ["batman-family", "elseworld"],
     "occupations": ["vigilante", "detective"],
     "powers": ["peak-human", "genius-intellect"],
     "antagonists": ["brainiac"]

@@ -1,0 +1,20 @@
+{
+  "id": "lightray",
+  "name": "Lightray",
+  "aliases": ["Solis"],
+  "image": "lightray.webp",
+  "attributes": {
+    "race": "new-god",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["warrior"],
+    "powers": ["flight", "super-speed", "hard-light"],
+    "antagonists": ["darkseid"]
+  },
+  "hints": {
+    "habitation": "New Genesis",
+    "quote": "Mesmo no poço mais escuro de Apokolips, ainda há luz.",
+    "palette": ["#ffd54f", "#f2f2f2", "#e53935"]
+  }
+}

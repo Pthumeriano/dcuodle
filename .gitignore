@@ -36,3 +36,6 @@
 
 # script local de push (contem fluxo de token, nao versionar)
 /push.sh
+
+# Helper local de pesquisa na DCUO Wiki (fluxo arrochar-personagens)
+/wiki.sh

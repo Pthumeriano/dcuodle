@@ -1,0 +1,20 @@
+{
+  "id": "per-degaton",
+  "name": "Per Degaton",
+  "aliases": ["Per Degaton"],
+  "image": "per-degaton.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["scientist"],
+    "powers": ["genius-intellect", "gadgets"],
+    "antagonists": ["hawkman"]
+  },
+  "hints": {
+    "habitation": "Fora do tempo",
+    "quote": "A história é minha para reescrever.",
+    "palette": ["#4a148c", "#c9a227", "#2c2c2c"]
+  }
+}

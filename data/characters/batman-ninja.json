@@ -1,0 +1,20 @@
+{
+  "id": "batman-ninja",
+  "name": "Batman (Ninja)",
+  "aliases": ["Bruce Wayne"],
+  "image": "batman-ninja.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["elseworld"],
+    "occupations": ["warrior"],
+    "powers": ["peak-human"],
+    "antagonists": ["ras-al-ghul"]
+  },
+  "hints": {
+    "habitation": "Nanda Parbat",
+    "quote": "Aprendi as artes das sombras onde os assassinos nascem.",
+    "palette": ["#1c1c22", "#7b241c", "#37474f"]
+  }
+}

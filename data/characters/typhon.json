@@ -1,0 +1,20 @@
+{
+  "id": "typhon",
+  "name": "Typhon",
+  "aliases": ["Pai dos Monstros"],
+  "image": "typhon.webp",
+  "attributes": {
+    "race": "olympian",
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["super-strength", "immortality", "fire"],
+    "antagonists": ["wonder-woman"]
+  },
+  "hints": {
+    "habitation": "Monte Etna",
+    "quote": "Sou o pai de todos os monstros. A montanha não me segura para sempre.",
+    "palette": ["#2c1a0e", "#e64a19", "#8d6e63"]
+  }
+}

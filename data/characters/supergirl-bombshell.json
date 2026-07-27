@@ -1,0 +1,20 @@
+{
+  "id": "supergirl-bombshell",
+  "name": "Supergirl (Bombshell)",
+  "aliases": ["Kara Zor-El"],
+  "image": "supergirl-bombshell.webp",
+  "attributes": {
+    "race": "kryptonian",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["bombshell"],
+    "occupations": ["warrior"],
+    "powers": ["flight", "super-strength", "heat-vision", "invulnerability"],
+    "antagonists": ["brainiac"]
+  },
+  "hints": {
+    "habitation": "Moscou",
+    "quote": "Pela pátria e pelo sol vermelho, eu voo.",
+    "palette": ["#c62828", "#fdd835", "#1565c0"]
+  }
+}

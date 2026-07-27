@@ -15,12 +15,18 @@ episódio em episódio. Este arquivo é o checklist de progresso.
   primeiro em que for adicionado. Iconics já entram pelo Base Game.
 - **Escopo:** priorizar personagens nomeados (heróis, vilões, NPCs de história, chefes).
   Trash mobs genéricos ficam de fora.
+- **Variantes** (Bombshell, JSA, Flashpoint, Future…) entram como personagens próprios
+  **quando aparecem** num episódio. Nome no formato `Base (Variante)` (ex.: `Wonder Woman
+  (Bombshell)`), id `base-variante` (`wonder-woman-bombshell`). Cada família de variante é
+  um grupo no vocabulário (`bombshell`, `jsa`…) e os atributos são ajustados por lore
+  (morality, occupations, habitation, paleta) pra não virar cópia da base num jogo de
+  dedução. Variante que aparece em vários episódios: creditada no primeiro.
 
 ## Legenda
 
 `[ ]` pendente · `[~] ` em progresso · `[x]` completo
 
-## Já no catálogo (168)
+## Já no catálogo (194)
 
 - **16 originais curados** (seed inicial, feitos à mão): batman, superman, wonder-woman,
   aquaman, the-flash, green-lantern, cyborg, green-arrow, zatanna, raven, nightwing,
@@ -183,6 +189,16 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
 - [ ] martha-wayne
 - [ ] lara
 - [ ] paradox-destroyer
+- [ ] batman-gcpd
+- [ ] batman-ninja
+- [ ] batman-primal
+- [ ] batman-steampowered
+- [ ] lex-luthor-cybernetic
+- [ ] lex-luthor-professor
+- [ ] lex-luthor-general
+- [ ] lex-luthor-space-commander
+- [ ] future-batman *(retag: +grupo elseworld)*
+- [ ] future-lex-luthor *(retag: +grupo elseworld)*
 
 ### Ep. 8 — Sons of Trigon
 
@@ -244,6 +260,10 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
 
 - [ ] queen-agapo
 - [ ] black-lantern
+- [ ] wonder-woman-bombshell
+- [ ] harley-quinn-bombshell
+- [ ] supergirl-bombshell
+- [ ] catwoman-bombshell
 
 ### Ep. 18 — The Demon's Pit & Blackest Day
 
@@ -254,10 +274,49 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
 
 - [ ] nekron
 
+### Ep. 21 — Prison Break & The First Piece
+
+- [ ] the-atom
+
+### Ep. 22 — Science Spire & The Phantom Zone
+
+- [ ] lois-lane
+
+### Ep. 24 — Harley's Heist & Darkseid's War Factory
+
+- [ ] lightray
+
+### Ep. 25 — Iceberg Lounge & A Rip in Time
+
+- [ ] rip-hunter
+- [ ] vixen
+- [ ] vandal-savage
+- [ ] batwoman
+- [ ] starro
+
+### Ep. 26 — Wayne Manor Gala & Kandor Central Tower
+
+- [ ] superboy
+- [ ] alura
+
+### Ep. 27 — Amazon Fury Part III
+
+- [ ] typhon
+
+### Ep. 28 — Age of Justice
+
+- [ ] per-degaton
+- [ ] lady-blackhawk
+- [ ] wonder-woman-jsa
+
 ### Ep. 49 — Day of Reckoning
 
 - [ ] voivode
 - [ ] luzia
+
+### Adendos (chefes de alerta esquecidos)
+
+- [ ] major-force
 
 ---
 
@@ -273,6 +332,8 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
     star-sapphire, cheetah, ares, black-manta, ocean-master, steppenwolf, kalibak.
   - Nomes ainda mais secundários (Vandal Savage, Gorilla Grodd, Captain Cold, Reverse-Flash,
     Firestorm, Zatara…) entram junto com os episódios em que aparecem.
+  - **Adendos** (chefes de alerta esquecidos, adicionados depois): major-force (alerta
+    Bludhaven; +captain-atom no vocabulário de antagonists).
 
 ## Episódios
 
@@ -291,7 +352,11 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
   Solomon Grundy, Spectre, Eclipso já no catálogo)*.
 - [x] 6. Home Turf (2013) — t-o-morrow *(DLC de Bases/Lairs; Steel já no catálogo)*.
 - [x] 7. Origin Crisis (2013) — red-tornado, joe-chill, thomas-wayne, martha-wayne, lara,
-  paradox-destroyer *(Future Batman/Lex, Bizarro, Huntress já no catálogo)*.
+  paradox-destroyer, + variantes de realidade alternativa do raid Nexus of Reality:
+  batman-gcpd, batman-ninja, batman-primal, batman-steampowered, lex-luthor-cybernetic,
+  lex-luthor-professor, lex-luthor-general, lex-luthor-space-commander *(grupo `elseworld`;
+  Bizarro, Huntress já no catálogo. Future Batman/Lex já existiam — retag +elseworld pra
+  família ficar coerente. +grupo elseworld no vocabulário)*.
 - [x] 8. Sons of Trigon (2013) — Fearsome Five (psimon, mammoth, jinx, gizmo, doctor-light),
   gentleman-ghost, john-constantine, belial, e os 6 Filhos (jared-wrath, jesse-envy,
   jacob-lust, jack-sloth, julius-gluttony, james-greed) *(Trigon, Raven já no catálogo)*.
@@ -310,7 +375,10 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
   + Fúrias Femininas (lashina, stompa, mad-harriet — estrearam aqui) *(Kalibak,
   Steppenwolf, Mantis, Mister Miracle, Big Barda já no catálogo)*.
 - [x] 15. Bombshells Paradox & Corrupted Zamaron (2015) — queen-agapo, black-lantern
-  (genérico) *(Bombshells são versões retrô de heroínas já no catálogo)*.
+  (genérico), + variantes Bombshell: wonder-woman-bombshell, harley-quinn-bombshell,
+  supergirl-bombshell, catwoman-bombshell *(The Catwoman = Bombshell Catwoman. Variantes
+  entram como personagens próprios desde a decisão de incluí-las — grupo `bombshell`,
+  atributos ajustados por lore 1940s. +grupos bombshell/jsa no vocabulário)*.
 - [x] 16. Desecrated Cathedral & Oa Under Siege (2015) — **0 novos**: Brother Blood, Raven,
   Filhos do Trigon, Black Lanterns e Green Lanterns já no catálogo.
 - [x] 17. Unholy Matrimony & The Flash Museum Burglary (2015) — **0 novos**: *Unholy
@@ -330,13 +398,40 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
   Heat Wave, Captain Cold, Gorilla Grodd, Doctor Light, Abra Kadabra já no catálogo;
   os dois Mercenary Captain, Eckhart e Carlson, são NPCs genéricos do DCUO. +chronos no
   vocabulário de antagonists, nemesis do Atom)*.
-- [ ] 22. Science Spire & The Phantom Zone (2016)
-- [ ] 23. The Will of Darkseid & Brainiac's Bottle Ship (2016)
-- [ ] 24. Harley's Heist & Darkseid's War Factory (2016)
-- [ ] 25. Iceberg Lounge & A Rip in Time (2016)
-- [ ] 26. Wayne Manor Gala & Kandor Central Tower (2016)
-- [ ] 27. Amazon Fury Part III (2016)
-- [ ] 28. Age of Justice (2017)
+- [x] 22. Science Spire & The Phantom Zone (2016) — lois-lane *(The Phantom Zone:
+  General Zod, Ursa, Non, Jor-El já no catálogo como avulsos; Captain Zul e o
+  Malfunctioning Jor-El A.I. são variantes/NPCs. Science Spire: Superman, Lex Luthor
+  já no catálogo; Captain Venz, Senior Officer Gohz, Repair Golem e os soldados
+  kryptonianos são NPCs genéricos do DCUO)*.
+- [x] 23. The Will of Darkseid & Brainiac's Bottle Ship (2016) — **0 novos**: *Will of
+  Darkseid* (Steppenwolf, Mad Harriet, Kalibak, Mantis, Superman, Lex Luthor, Flash,
+  Professor Zoom = reverse-flash já no catálogo; Colonel Arrgany, Imperial Goreborer e os
+  Field Units são NPCs/vendors) e *Bottle Ship* (Brainiac, Supergirl, General Zod, Superman,
+  Lex Luthor já no catálogo; Brood Guardian é genérico).
+- [x] 24. Harley's Heist & Darkseid's War Factory (2016) — lightray *(Harley's Heist:
+  Harley Quinn, Catwoman, Poison Ivy, Huntress, Black Canary, Zatanna já no catálogo.
+  War Factory: Superman, Lex Luthor, Orion, Big Barda, Mister Miracle, Darkseid, Granny
+  Goodness, Mad Harriet, Mantis, Lashina, Steppenwolf, Stompa já no catálogo; Parademons,
+  Drones e Field Units são NPCs genéricos)*.
+- [x] 25. Iceberg Lounge & A Rip in Time (2016) — rip-hunter, vixen, vandal-savage,
+  batwoman, starro *(A Rip in Time: Black Adam, Captain Cold, Heat Wave já no catálogo;
+  Mercenaries, Kahndaqi e Savage Zealots são mobs. Iceberg Lounge: invasão do Starro que
+  controla o Penguin, com Batwoman (Katherine Kane) de NPC — Batman, Catwoman, Poison Ivy,
+  Harley Quinn, Penguin já no catálogo; Pengbots e thralls são genéricos. +vandal-savage no
+  vocabulário de antagonists)*.
+- [x] 26. Wayne Manor Gala & Kandor Central Tower (2016) — superboy, alura *(Wayne Manor
+  Gala: Harley Quinn, Catwoman, Poison Ivy, Killer Croc, Black Canary, Huntress, Zatanna já
+  no catálogo. Kandor Central Tower: Superman, Supergirl, General Zod, Lex Luthor, Doomsday
+  já no catálogo; soldados kryptonianos são mobs)*.
+- [x] 27. Amazon Fury Part III (2016) — typhon *(Gods and Monsters + Journey to Olympus:
+  Wonder Woman, Circe, Ares, Hades já no catálogo; Typhon, o "Deus dos Monstros", é o vilão
+  novo. Lieutenant Helene, Captain Cruz e os monstros/gorgons são NPCs genéricos)*.
+- [x] 28. Age of Justice (2017) — per-degaton, lady-blackhawk, wonder-woman-jsa *(tema
+  Segunda Guerra; JSA. Justice For All: Vandal Savage — alias "Baron Von Savage" —, Rip
+  Hunter, Wildcat já no catálogo. Ultimate Soldier: Gentleman Ghost, Solomon Grundy, Ra's al
+  Ghul já no catálogo; o próprio Ultimate Soldier e os Savage Temporal Commanders são
+  NPCs/originais. JSA Wonder Woman virou variante wonder-woman-jsa; Bombshell Wonder Woman
+  creditada ao ep15, primeira aparição)*.
 - [ ] 29. Riddled with Crime (2017)
 - [ ] 30. Earth 3 (2017)
 - [ ] 31. Deluge (2018)

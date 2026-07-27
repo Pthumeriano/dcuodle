@@ -1,0 +1,20 @@
+{
+  "id": "batwoman",
+  "name": "Batwoman",
+  "aliases": ["Kate Kane"],
+  "image": "batwoman.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["batman-family"],
+    "occupations": ["vigilante"],
+    "powers": ["peak-human", "gadgets"],
+    "antagonists": ["penguin"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Gotham tem mais de um símbolo do morcego.",
+    "palette": ["#1c1c22", "#c1121f", "#f2f2f2"]
+  }
+}

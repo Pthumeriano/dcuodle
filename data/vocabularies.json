@@ -11,7 +11,10 @@
     "suicide-squad",
     "legion-of-doom",
     "gotham-city-sirens",
-    "noctem"
+    "noctem",
+    "bombshell",
+    "jsa",
+    "elseworld"
   ],
   "occupations": [
     "vigilante",
@@ -97,6 +100,8 @@
     "starfire",
     "darkseid",
     "big-barda",
-    "chronos"
+    "chronos",
+    "captain-atom",
+    "vandal-savage"
   ]
 }

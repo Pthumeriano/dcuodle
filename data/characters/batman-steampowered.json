@@ -1,0 +1,20 @@
+{
+  "id": "batman-steampowered",
+  "name": "Batman (Steampowered)",
+  "aliases": ["Bruce Wayne"],
+  "image": "batman-steampowered.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["elseworld"],
+    "occupations": ["detective"],
+    "powers": ["peak-human", "gadgets"],
+    "antagonists": ["joker"]
+  },
+  "hints": {
+    "habitation": "Gotham Vitoriana",
+    "quote": "A vapor e engrenagem, a justiça ainda ronda a noite.",
+    "palette": ["#b08d57", "#4e342e", "#1c1c22"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "harley-quinn-bombshell",
+  "name": "Harley Quinn (Bombshell)",
+  "aliases": ["Harleen Quinzel"],
+  "image": "harley-quinn-bombshell.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["bombshell"],
+    "occupations": ["criminal"],
+    "powers": ["peak-human", "toxin-immunity"],
+    "antagonists": ["joker"]
+  },
+  "hints": {
+    "habitation": "Paris",
+    "quote": "Nesta guerra, eu escolhi o lado certo — o meu.",
+    "palette": ["#c2185b", "#0a0a0a", "#eeeeee"]
+  }
+}

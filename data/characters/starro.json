@@ -1,0 +1,20 @@
+{
+  "id": "starro",
+  "name": "Starro",
+  "aliases": ["O Conquistador"],
+  "image": "starro.webp",
+  "attributes": {
+    "race": "alien",
+    "gender": "non-binary",
+    "morality": "villain",
+    "groups": ["independent"],
+    "occupations": ["warrior"],
+    "powers": ["telepathy", "mental"],
+    "antagonists": ["superman", "aquaman"]
+  },
+  "hints": {
+    "habitation": "Espaço profundo",
+    "quote": "Nós somos um. Você será um conosco.",
+    "palette": ["#1565c0", "#7e57c2", "#e53935"]
+  }
+}

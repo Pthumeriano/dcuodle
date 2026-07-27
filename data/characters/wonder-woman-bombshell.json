@@ -1,0 +1,20 @@
+{
+  "id": "wonder-woman-bombshell",
+  "name": "Wonder Woman (Bombshell)",
+  "aliases": ["Diana"],
+  "image": "wonder-woman-bombshell.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["bombshell"],
+    "occupations": ["warrior", "royalty"],
+    "powers": ["super-strength", "flight", "immortality"],
+    "antagonists": ["ares"]
+  },
+  "hints": {
+    "habitation": "Themyscira",
+    "quote": "As Amazonas entram nesta guerra — pela liberdade do mundo.",
+    "palette": ["#b71c1c", "#eeeeee", "#1565c0"]
+  }
+}

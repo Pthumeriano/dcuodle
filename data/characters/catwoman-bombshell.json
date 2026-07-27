@@ -1,0 +1,20 @@
+{
+  "id": "catwoman-bombshell",
+  "name": "Catwoman (Bombshell)",
+  "aliases": ["Selina Kyle"],
+  "image": "catwoman-bombshell.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "female",
+    "morality": "antihero",
+    "groups": ["bombshell"],
+    "occupations": ["thief"],
+    "powers": ["peak-human"],
+    "antagonists": ["batman"]
+  },
+  "hints": {
+    "habitation": "Gotham City",
+    "quote": "Nesta cidade, eu caço no escuro.",
+    "palette": ["#1a1a1a", "#6a1b9a", "#c9a227"]
+  }
+}

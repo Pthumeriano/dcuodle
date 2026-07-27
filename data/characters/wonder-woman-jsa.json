@@ -1,0 +1,20 @@
+{
+  "id": "wonder-woman-jsa",
+  "name": "Wonder Woman (JSA)",
+  "aliases": ["Diana Prince"],
+  "image": "wonder-woman-jsa.webp",
+  "attributes": {
+    "race": "amazon",
+    "gender": "female",
+    "morality": "hero",
+    "groups": ["jsa"],
+    "occupations": ["warrior", "royalty"],
+    "powers": ["super-strength", "flight", "immortality"],
+    "antagonists": ["ares"]
+  },
+  "hints": {
+    "habitation": "Themyscira",
+    "quote": "Na Sociedade da Justiça, luto pela vitória dos Aliados.",
+    "palette": ["#8b0000", "#1a3a7a", "#c9a227"]
+  }
+}
