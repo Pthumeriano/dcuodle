@@ -1,0 +1,20 @@
+{
+  "id": "the-atom",
+  "name": "The Atom",
+  "aliases": ["Ray Palmer", "The Tiny Titan"],
+  "image": "the-atom.webp",
+  "attributes": {
+    "race": "human",
+    "gender": "male",
+    "morality": "hero",
+    "groups": ["justice-league"],
+    "occupations": ["scientist"],
+    "powers": ["genius-intellect", "quantum"],
+    "antagonists": ["chronos"]
+  },
+  "hints": {
+    "habitation": "Ivy Town",
+    "quote": "Sometimes the smallest things make the biggest difference.",
+    "palette": ["#b3122b", "#1f3a93", "#d9d9d9"]
+  }
+}

@@ -1,5 +1,6 @@
 import { Controller } from "@hotwired/stimulus"
 import { compare } from "game/compare"
+import confetti from "canvas-confetti"
 
 const ATTRS = ["gender", "race", "morality", "groups", "occupations", "powers", "antagonists"]
 const HINTS = [[3, "habitation", "Habitação"], [5, "quote", "Frase"], [7, "palette", "Paleta"]]
@@ -18,21 +19,36 @@ export default class extends Controller {
     this.key = `dcdle:classic:${daily.date}`
     this.guesses = JSON.parse(localStorage.getItem(this.key) || "[]")
 
-    this.optionsTarget.innerHTML = characters.map((c) => `<option value="${c.name}">`).join("")
+    this.filter()
     this.render()
+  }
+
+  filter() {
+    const typed = this.inputTarget.value.trim().toLowerCase()
+    this.optionsTarget.innerHTML = this.characters
+      .filter((c) => !this.guesses.includes(c.id) && c.name.toLowerCase().includes(typed))
+      .slice(0, 7)
+      .map((c) => `<option value="${c.name}">`)
+      .join("")
   }
 
   guess(event) {
     event.preventDefault()
     const typed = this.inputTarget.value.trim().toLowerCase()
-    const found = this.characters.find((c) =>
-      c.name.toLowerCase() === typed || c.aliases.some((a) => a.toLowerCase() === typed))
+    if (!typed) return
 
+    const available = this.characters.filter((c) => !this.guesses.includes(c.id))
+    // Match exato por nome/alias; senão, o primeiro que contém o texto (igual à lista).
+    const found =
+      available.find((c) => c.name.toLowerCase() === typed || c.aliases.some((a) => a.toLowerCase() === typed)) ||
+      available.find((c) => c.name.toLowerCase().includes(typed))
+
+    if (!found) return
     this.inputTarget.value = ""
-    if (!found || this.guesses.includes(found.id)) return
 
     this.guesses.push(found.id)
     localStorage.setItem(this.key, JSON.stringify(this.guesses))
+    this.filter()
     this.render()
   }
 
@@ -51,9 +67,13 @@ export default class extends Controller {
     }).join("")
 
     if (this.won) {
-      this.statusTarget.textContent = `Acertou em ${this.guesses.length} tentativa(s): ${this.answer.name}!`
       this.inputTarget.disabled = true
       this.save()
+      // Espera as cartas terminarem de virar antes de comemorar.
+      setTimeout(() => {
+        this.statusTarget.textContent = `Acertou em ${this.guesses.length} tentativa(s): ${this.answer.name}!`
+        confetti({ particleCount: 150, spread: 80, origin: { y: 0.6 } })
+      }, 1500)
     }
   }
 

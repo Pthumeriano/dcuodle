@@ -20,7 +20,7 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 
 `[ ]` pendente · `[~] ` em progresso · `[x]` completo
 
-## Já no catálogo (167)
+## Já no catálogo (168)
 
 - **16 originais curados** (seed inicial, feitos à mão): batman, superman, wonder-woman,
   aquaman, the-flash, green-lantern, cyborg, green-arrow, zatanna, raven, nightwing,
@@ -326,7 +326,10 @@ conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
 - [x] 20. Blackest Night & Wastelands Wonderland (2016) — nekron *(Blackest Night: Black
   Hand já entrou no Ep 18, Hal Jordan/Sinestro/Black Lanterns já no catálogo. Wastelands
   Wonderland: Jacob/Jack (Filhos do Trigon) e Raven já no catálogo)*.
-- [ ] 21. Prison Break & The First Piece (2016)
+- [x] 21. Prison Break & The First Piece (2016) — the-atom *(Hawkgirl, Hawkman,
+  Heat Wave, Captain Cold, Gorilla Grodd, Doctor Light, Abra Kadabra já no catálogo;
+  os dois Mercenary Captain, Eckhart e Carlson, são NPCs genéricos do DCUO. +chronos no
+  vocabulário de antagonists, nemesis do Atom)*.
 - [ ] 22. Science Spire & The Phantom Zone (2016)
 - [ ] 23. The Will of Darkseid & Brainiac's Bottle Ship (2016)
 - [ ] 24. Harley's Heist & Darkseid's War Factory (2016)

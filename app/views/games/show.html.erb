@@ -7,6 +7,7 @@
   <form class="guess-form" data-action="submit->game#guess">
     <input type="text" list="character-options" placeholder="Digite um personagem"
            autocomplete="off" required
+           data-action="input->game#filter"
            data-game-target="input">
     <datalist id="character-options" data-game-target="options"></datalist>
     <button type="submit">Chutar</button>
