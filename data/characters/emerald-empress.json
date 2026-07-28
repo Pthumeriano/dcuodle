@@ -4,17 +4,17 @@
   "aliases": ["Sarya", "Imperatriz Esmeralda"],
   "image": "emerald-empress.webp",
   "attributes": {
-    "race": "alien",
+    "race": "venegarian",
     "gender": "female",
     "morality": "villain",
-    "groups": ["independent"],
-    "occupations": ["warrior"],
-    "powers": ["hard-light", "flight"],
-    "antagonists": []
+    "groups": ["fatal-five"],
+    "occupations": ["criminal", "warrior"],
+    "powers": ["magic", "flight"],
+    "antagonists": ["cosmic-boy", "saturn-girl", "lightning-lad"]
   },
   "hints": {
     "habitation": "Venegar",
-    "description": "-",
+    "description": "Vilã do século 31 que comanda o Olho de Ekron, um artefato místico flutuante que dispara rajadas devastadoras. Integra os Cinco Fatais, os criminosos mais temidos dos Planetas Unidos.",
     "palette": ["#1b5e20", "#00c853", "#1a1a1a"]
   }
 }

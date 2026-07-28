@@ -417,7 +417,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] lightning-lad
 - [ ] saturn-girl
 - [ ] static
-- [ ] emerald-empress
+- [x] emerald-empress *(vocabulário: race +venegarian, groups +fatal-five, antagonists +cosmic-boy/saturn-girl/lightning-lad)*
 
 ### Ep. 40 — World of Flashpoint
 
