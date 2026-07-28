@@ -53,7 +53,26 @@ DC / DCUO e ajustar. Em cada personagem, conferir:
 - `hints.habitation` · `hints.description` (descrição curta do personagem) · `hints.palette`
 
 Rodar `bin/rails test` depois de cada ajuste. Marcar `[x]` quando o personagem estiver
-conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).
+conferido. **Todos** os personagens são alvo — inclusive os 16 originais curados.
+
+### 16 originais curados
+
+- [ ] batman
+- [ ] superman
+- [ ] wonder-woman
+- [ ] aquaman
+- [ ] the-flash
+- [ ] green-lantern
+- [ ] cyborg
+- [ ] green-arrow
+- [ ] zatanna
+- [ ] raven
+- [ ] nightwing
+- [ ] joker
+- [ ] lex-luthor
+- [ ] harley-quinn
+- [ ] poison-ivy
+- [ ] catwoman
 
 ### Base Game — Lote 1
 
