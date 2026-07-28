@@ -7,14 +7,14 @@
     "race": "ungaran",
     "gender": "male",
     "morality": "hero",
-    "groups": ["independent"],
+    "groups": ["green-lantern-corps"],
     "occupations": ["warrior"],
     "powers": ["hard-light", "flight"],
-    "antagonists": []
+    "antagonists": ["atrocitus"]
   },
   "hints": {
     "habitation": "Ungara",
-    "description": "-",
+    "description": "Patrulheiro alienígena do Setor 2814 antes de Hal Jordan. Ferido de morte por um lanterna vermelho, caiu com sua nave no deserto da Califórnia e deixou o anel escolher um humano como sucessor.",
     "palette": ["#c62828", "#2e7d32", "#212121"]
   }
 }

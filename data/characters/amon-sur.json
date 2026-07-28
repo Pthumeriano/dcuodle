@@ -7,14 +7,14 @@
     "race": "ungaran",
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
-    "occupations": ["warrior"],
+    "groups": ["sinestro-corps"],
+    "occupations": ["criminal", "warrior"],
     "powers": ["hard-light", "flight"],
-    "antagonists": ["green-lantern"]
+    "antagonists": ["green-lantern", "kyle-rayner", "sinestro"]
   },
   "hints": {
-    "habitation": "Ungara",
-    "description": "-",
+    "habitation": "Ranx",
+    "description": "Renegado que culpou o pai lanterna pelo abandono, chefiou o sindicato criminoso Círculo Negro e acabou empunhando um anel amarelo como corporal do Setor 2814.",
     "palette": ["#f9a825", "#b71c1c", "#212121"]
   }
 }

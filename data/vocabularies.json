@@ -18,7 +18,9 @@
     "crime-syndicate",
     "dark-knights",
     "legion",
-    "flashpoint"
+    "flashpoint",
+    "green-lantern-corps",
+    "sinestro-corps"
   ],
   "occupations": [
     "vigilante",
@@ -118,6 +120,10 @@
     "monitor",
     "anti-monitor",
     "static",
-    "ebon"
+    "ebon",
+    "atrocitus",
+    "matt-super",
+    "neron",
+    "kyle-rayner"
   ]
 }

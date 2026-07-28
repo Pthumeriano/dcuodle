@@ -136,7 +136,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] general-zod
 - [ ] ursa
 - [ ] non
-- [ ] amon-sur
+- [x] amon-sur *(vocabulário: groups +sinestro-corps, antagonists +kyle-rayner)*
 - [ ] kilowog
 - [ ] vicki-vale
 - [ ] jack-ryder
@@ -165,7 +165,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] mongul
 - [ ] indigo-1
 - [ ] ganthet
-- [ ] abin-sur
+- [x] abin-sur *(vocabulário: groups +green-lantern-corps, antagonists +atrocitus)*
 - [ ] bleez
 - [ ] dex-starr
 - [ ] tomar-re
