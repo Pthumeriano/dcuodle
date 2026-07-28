@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Reino do Caos",
-    "quote": "Sou o caos que a magia teme.",
+    "description": "-",
     "palette": ["#4a148c", "#c9a227", "#1a1a1a"]
   }
 }

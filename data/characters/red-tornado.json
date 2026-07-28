@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Happy Harbor",
-    "quote": "Sou uma máquina que aprendeu a sentir o vento — e a escolher o certo.",
+    "description": "-",
     "palette": ["#b71c1c", "#455a64", "#eceff1"]
   }
 }

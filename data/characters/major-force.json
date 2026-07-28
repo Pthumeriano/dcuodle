@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Bludhaven",
-    "quote": "Nobody hits harder than Major Force.",
+    "description": "-",
     "palette": ["#1e7a3c", "#b0b0b0", "#c0392b"]
   }
 }

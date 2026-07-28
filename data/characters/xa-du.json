@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Zona Fantasma",
-    "quote": "Da Zona Fantasma, o Rei retorna para reclamar o que é seu.",
+    "description": "-",
     "palette": ["#4a148c", "#1a1a1a", "#b0bec5"]
   }
 }

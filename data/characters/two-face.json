@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Cara ou coroa decide seu destino.",
+    "description": "-",
     "palette": ["#212121", "#eceff1", "#b71c1c"]
   }
 }

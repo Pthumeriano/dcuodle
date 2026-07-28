@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "There is a right and a wrong in this universe, and that distinction is not hard to make.",
+    "description": "-",
     "palette": ["#0d47a1", "#c62828", "#fdd835"]
   }
 }

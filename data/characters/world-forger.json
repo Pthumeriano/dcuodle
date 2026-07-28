@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Forja do Multiverso",
-    "quote": "Nas minhas forjas nascem e morrem os mundos.",
+    "description": "-",
     "palette": ["#1a1a1a", "#e64a19", "#c9a227"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "I don't need Superman to save me.",
+    "description": "-",
     "palette": ["#5b2a86", "#c0392b", "#f2f2f2"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Mundo de Guerra",
-    "quote": "Ajoelhe-se, ou vire mais um troféu do meu mundo de guerra.",
+    "description": "-",
     "palette": ["#f9a825", "#6a1b9a", "#212121"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "As trevas não resistem à luz da Lanterna Verde.",
+    "description": "-",
     "palette": ["#1b5e20", "#c62828", "#6a1b9a"]
   }
 }

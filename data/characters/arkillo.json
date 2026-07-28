@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Qward",
-    "quote": "O medo forja os melhores soldados, e eu os treino.",
+    "description": "-",
     "palette": ["#f9a825", "#4a148c", "#3e2723"]
   }
 }

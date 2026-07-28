@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Central City",
-    "quote": "Sou o próximo raio a cruzar Central City.",
+    "description": "-",
     "palette": ["#f9a825", "#c62828", "#eeeeee"]
   }
 }

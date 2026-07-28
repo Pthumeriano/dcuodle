@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Sem morada fixa",
-    "quote": "Ando por onde as sombras precisam de um estranho.",
+    "description": "-",
     "palette": ["#1a237e", "#eceff1", "#c9a227"]
   }
 }

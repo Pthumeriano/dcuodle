@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Themyscira",
-    "quote": "Nasci do barro e das estrelas, e luto por ambos.",
+    "description": "-",
     "palette": ["#b71c1c", "#1a237e", "#fdd835"]
   }
 }

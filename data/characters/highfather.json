@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "New Genesis",
-    "quote": "Enquanto Darkseid busca dominar, nós buscamos proteger.",
+    "description": "-",
     "palette": ["#eceff1", "#f9a825", "#1565c0"]
   }
 }

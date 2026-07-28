@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Central City",
-    "quote": "O tempo vira quando eu quiser: um raio pra cada um de vocês.",
+    "description": "-",
     "palette": ["#455a64", "#fdd835", "#1565c0"]
   }
 }

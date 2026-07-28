@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham Wastelands",
-    "quote": "Nunca é o bastante. Nunca será.",
+    "description": "-",
     "palette": ["#e65100", "#0d0d0d", "#8d6e63"]
   }
 }

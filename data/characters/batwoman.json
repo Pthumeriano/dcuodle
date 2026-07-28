@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Gotham tem mais de um símbolo do morcego.",
+    "description": "-",
     "palette": ["#1c1c22", "#c1121f", "#f2f2f2"]
   }
 }

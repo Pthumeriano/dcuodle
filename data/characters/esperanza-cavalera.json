@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Kaznia City",
-    "quote": "A esperança é a luz que trará minha irmã de volta.",
+    "description": "-",
     "palette": ["#1565c0", "#4dd0e1", "#eceff1"]
   }
 }

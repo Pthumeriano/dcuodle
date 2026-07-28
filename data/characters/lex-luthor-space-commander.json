@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Estação Orbital",
-    "quote": "Conquistei as estrelas; a Terra é só o começo.",
+    "description": "-",
     "palette": ["#2e7d32", "#4a148c", "#b0bec5"]
   }
 }

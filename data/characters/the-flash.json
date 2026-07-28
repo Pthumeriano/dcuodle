@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Central City",
-    "quote": "Life is locomotion. If you are not moving, you are not living.",
+    "description": "-",
     "palette": ["#b71c1c", "#fbc02d", "#ffffff"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "Eu sou a corrente que ninguém desliga.",
+    "description": "-",
     "palette": ["#0288d1", "#e1f5fe", "#212121"]
   }
 }

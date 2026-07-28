@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Esgotos de Gotham",
-    "quote": "Você tem cheiro de medo.",
+    "description": "-",
     "palette": ["#33691e", "#827717", "#3e2723"]
   }
 }

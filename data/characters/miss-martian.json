@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Marte",
-    "quote": "Última filha verde de Marte, pronta para proteger a Terra.",
+    "description": "-",
     "palette": ["#00c853", "#c62828", "#eceff1"]
   }
 }

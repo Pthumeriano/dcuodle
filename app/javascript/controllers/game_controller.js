@@ -3,7 +3,7 @@ import { compare } from "game/compare"
 import confetti from "canvas-confetti"
 
 const ATTRS = ["gender", "race", "morality", "groups", "occupations", "powers", "antagonists"]
-const HINTS = [[3, "habitation", "Habitação"], [5, "quote", "Frase"], [7, "palette", "Paleta"]]
+const HINTS = [[3, "habitation", "Habitação"], [5, "description", "Descrição"], [7, "palette", "Paleta"]]
 
 export default class extends Controller {
   static targets = ["input", "options", "rows", "hints", "status"]

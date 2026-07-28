@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Estamos todos loucos aqui — eu só tenho o chapéu certo.",
+    "description": "-",
     "palette": ["#2e7d32", "#6a1b9a", "#fdd835"]
   }
 }

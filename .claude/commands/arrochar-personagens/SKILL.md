@@ -70,7 +70,7 @@ da verdade do progresso — leia ele primeiro, sempre.
      (the-flash, the-atom, the-huntress).
    - `image` = `"<id>.webp"` — o asset **não** precisa existir (o teste não
      checa; a pasta está vazia). Só referencie.
-   - `quote` = fala real do personagem no DCUO/cânon quando houver.
+   - `description` = descrição curta do personagem (use `"-"` como placeholder).
 
 5. **Validar:** `bin/rails test test/models/characters_test.rb`. Tem que passar
    0 failures antes de marcar feito.

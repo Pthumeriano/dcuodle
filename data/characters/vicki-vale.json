@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "A verdade sobre o Morcego vale qualquer manchete.",
+    "description": "-",
     "palette": ["#c2185b", "#eceff1", "#5d4037"]
   }
 }

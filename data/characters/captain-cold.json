@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Central City",
-    "quote": "Regras do jogo: sem matar quem não atrapalha. O resto congela.",
+    "description": "-",
     "palette": ["#0288d1", "#b3e5fc", "#37474f"]
   }
 }

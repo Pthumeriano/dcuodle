@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Zona Fantasma",
-    "quote": "Ajoelhe-se diante de Zod.",
+    "description": "-",
     "palette": ["#212121", "#455a64", "#b71c1c"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Marte",
-    "quote": "Sou o último filho de Marte, e a Terra é meu novo lar.",
+    "description": "-",
     "palette": ["#2e7d32", "#b71c1c", "#1565c0"]
   }
 }

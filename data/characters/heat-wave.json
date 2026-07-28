@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Central City",
-    "quote": "Tudo queima. Só é questão de quão perto você chega.",
+    "description": "-",
     "palette": ["#c62828", "#e65100", "#212121"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Ilha Blackhawk",
-    "quote": "No ar ou em terra, ninguém me tira do céu.",
+    "description": "-",
     "palette": ["#0d1b3e", "#1c1c1c", "#f5c542"]
   }
 }

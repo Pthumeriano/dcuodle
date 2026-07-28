@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Ponto de Fuga",
-    "quote": "O tempo não pode ser mudado sem consequências.",
+    "description": "-",
     "palette": ["#5d4037", "#8d6e63", "#4dd0e1"]
   }
 }

@@ -14,7 +14,7 @@ class CharactersTest < ActiveSupport::TestCase
       assert_kind_of Array, c["aliases"], "#{file}: aliases obrigatório"
       assert_equal 3, c["hints"]["palette"].size, "#{file}: paleta tem 3 cores"
       c["hints"]["palette"].each { |color| assert_match(/\A#[0-9a-f]{6}\z/, color, "#{file}: cor #{color}") }
-      assert c["hints"]["habitation"].present? && c["hints"]["quote"].present?, "#{file}: dicas obrigatórias"
+      assert c["hints"]["habitation"].present? && c["hints"]["description"].present?, "#{file}: dicas obrigatórias"
     end
   end
 

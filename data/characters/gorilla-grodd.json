@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gorilla City",
-    "quote": "A mente do macaco supera a de qualquer homem. Ajoelhem-se.",
+    "description": "-",
     "palette": ["#5d4037", "#3e2723", "#c62828"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "Quando não há mais um Superman, alguém precisa erguer o martelo.",
+    "description": "-",
     "palette": ["#455a64", "#1565c0", "#b0bec5"]
   }
 }

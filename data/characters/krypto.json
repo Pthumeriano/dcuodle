@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "Au! O melhor amigo do Homem de Aço tem capa também.",
+    "description": "-",
     "palette": ["#eceff1", "#c62828", "#f9a825"]
   }
 }

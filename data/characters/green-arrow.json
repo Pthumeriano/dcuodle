@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Star City",
-    "quote": "You have failed this city.",
+    "description": "-",
     "palette": ["#2e7d32", "#1b5e20", "#8d6e63"]
   }
 }

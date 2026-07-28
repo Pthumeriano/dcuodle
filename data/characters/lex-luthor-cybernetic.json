@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "Substituí a carne fraca por aço perfeito.",
+    "description": "-",
     "palette": ["#2e7d32", "#607d8b", "#cfd8dc"]
   }
 }

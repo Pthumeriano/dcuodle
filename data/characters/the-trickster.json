@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Central City",
-    "quote": "Minhas pegadinhas explodem — e a piada é sempre por sua conta.",
+    "description": "-",
     "palette": ["#c2185b", "#fdd835", "#2e7d32"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Jump City",
-    "quote": "Azarath Metrion Zinthos.",
+    "description": "-",
     "palette": ["#4527a0", "#212121", "#7e57c2"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Themyscira",
-    "quote": "It is our sacred duty to defend the world.",
+    "description": "-",
     "palette": ["#b71c1c", "#1565c0", "#ffd54f"]
   }
 }

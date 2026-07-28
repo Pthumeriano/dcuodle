@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Atlântida",
-    "quote": "Ninguém ameaça Atlântida enquanto eu comandar a guarda.",
+    "description": "-",
     "palette": ["#004d40", "#37474f", "#4dd0e1"]
   }
 }

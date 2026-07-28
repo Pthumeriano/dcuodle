@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Todo Morcego precisa de um Robin.",
+    "description": "-",
     "palette": ["#b71c1c", "#2e7d32", "#fdd835"]
   }
 }

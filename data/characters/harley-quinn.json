@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "I'm not crazy, I'm just differently sane.",
+    "description": "-",
     "palette": ["#c2185b", "#1565c0", "#eeeeee"]
   }
 }

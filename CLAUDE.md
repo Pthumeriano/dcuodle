@@ -62,7 +62,7 @@ Dicas liberadas por número de tentativas:
 | Tentativas | Dica              |
 | ---------- | ----------------- |
 | 3          | habitação         |
-| 5          | frase             |
+| 5          | descrição         |
 | 7          | paleta de cores   |
 
 ## 4. Arquitetura — a fronteira front/back
@@ -111,7 +111,7 @@ data/
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "I am vengeance. I am the night.",
+    "description": "-",
     "palette": ["#1c1c1c", "#3a3f5c", "#f2c94c"]
   }
 }

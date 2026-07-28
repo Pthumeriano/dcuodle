@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Czarnia",
-    "quote": "Ninguém escapa do Cara Principal. Bo!",
+    "description": "-",
     "palette": ["#eceff1", "#1a1a1a", "#c62828"]
   }
 }

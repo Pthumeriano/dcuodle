@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "Ensino de dia, e de noite ilumino as ruas com raios.",
+    "description": "-",
     "palette": ["#0d47a1", "#1a1a1a", "#fdd835"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Zona Fantasma",
-    "quote": "Lealdade a Zod, morte a todo o resto.",
+    "description": "-",
     "palette": ["#263238", "#37474f", "#b71c1c"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Um cavalheiro sempre tem um truque na cartola.",
+    "description": "-",
     "palette": ["#0d0d0d", "#4a148c", "#eceff1"]
   }
 }

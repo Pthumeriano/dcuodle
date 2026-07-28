@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Torre do Destino",
-    "quote": "O destino já foi escrito; eu apenas o cumpro.",
+    "description": "-",
     "palette": ["#f9a825", "#1565c0", "#212121"]
   }
 }

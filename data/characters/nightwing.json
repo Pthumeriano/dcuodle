@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Blüdhaven",
-    "quote": "I'm not Batman. And that's exactly the point.",
+    "description": "-",
     "palette": ["#101418", "#1565c0", "#0d0d0d"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Atlantis",
-    "quote": "The sea does not forgive.",
+    "description": "-",
     "palette": ["#00695c", "#f9a825", "#0d47a1"]
   }
 }

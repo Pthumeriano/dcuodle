@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Acenda o Sinal do Morcego. Gotham precisa dele esta noite.",
+    "description": "-",
     "palette": ["#263238", "#455a64", "#fdd835"]
   }
 }

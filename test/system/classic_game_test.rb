@@ -28,6 +28,6 @@ class ClassicGameTest < ApplicationSystemTestCase
     end
 
     assert_text "Habitação:"
-    assert_text "Frase — em 2 tentativa(s)"
+    assert_text "Descrição — em 2 tentativa(s)"
   end
 end

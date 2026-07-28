@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Órbita terrestre",
-    "quote": "Olá, irmão. Eu estou sempre observando.",
+    "description": "-",
     "palette": ["#212121", "#b71c1c", "#eceff1"]
   }
 }

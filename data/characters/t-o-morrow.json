@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "O futuro pertence a quem o constrói no laboratório.",
+    "description": "-",
     "palette": ["#37474f", "#c62828", "#90a4ae"]
   }
 }

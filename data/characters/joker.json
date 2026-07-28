@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Why so serious?",
+    "description": "-",
     "palette": ["#4a148c", "#2e7d32", "#f5f5f5"]
   }
 }

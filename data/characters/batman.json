@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "I am vengeance. I am the night. I am Batman.",
+    "description": "-",
     "palette": ["#1c1c22", "#3a3f5c", "#f2c94c"]
   }
 }

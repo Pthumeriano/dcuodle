@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Coast City",
-    "quote": "In brightest day, in blackest night, no evil shall escape my sight.",
+    "description": "-",
     "palette": ["#0d3b16", "#2e7d32", "#000000"]
   }
 }

@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Metropolis",
-    "quote": "Meus brinquedos brincam de verdade.",
+    "description": "-",
     "palette": ["#d81b60", "#fdd835", "#1565c0"]
   }
 }

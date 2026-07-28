@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Gotham City",
-    "quote": "Neste mundo, o morcego usa distintivo.",
+    "description": "-",
     "palette": ["#0d1b3e", "#1c1c22", "#90a4ae"]
   }
 }

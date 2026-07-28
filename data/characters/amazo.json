@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Sem morada fixa",
-    "quote": "Copio o poder de toda a Liga — e supero cada um deles.",
+    "description": "-",
     "palette": ["#1b5e20", "#e67e22", "#9e9e9e"]
   }
 }

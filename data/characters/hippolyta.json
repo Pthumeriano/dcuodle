@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Themyscira",
-    "quote": "Como rainha das Amazonas, o mundo dos homens não me dita mais nada.",
+    "description": "-",
     "palette": ["#f9a825", "#eceff1", "#1565c0"]
   }
 }

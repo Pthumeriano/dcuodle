@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Apokolips",
-    "quote": "Eu sou Darkseid. Ajoelhem-se.",
+    "description": "-",
     "palette": ["#455a64", "#37474f", "#c62828"]
   }
 }

@@ -50,7 +50,7 @@ DC / DCUO e ajustar. Em cada personagem, conferir:
 - `groups` · `occupations` — refletem o papel no DCUO?
 - `powers` — é o **power set** certo do DCUO? (ex.: Nature, Fire, Hard Light, Ice…)
 - `antagonists` — cross-links coerentes e apontando pra ids que existem?
-- `hints.habitation` · `hints.quote` (trocar por fala real do DCUO quando houver) · `hints.palette`
+- `hints.habitation` · `hints.description` (descrição curta do personagem) · `hints.palette`
 
 Rodar `bin/rails test` depois de cada ajuste. Marcar `[x]` quando o personagem estiver
 conferido. Os 16 originais curados não entram aqui (já foram feitos à mão).

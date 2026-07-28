@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Apokolips",
-    "quote": "Filha de Darkseid, forjada para destronar Diana.",
+    "description": "-",
     "palette": ["#4a148c", "#c9a227", "#1a1a1a"]
   }
 }

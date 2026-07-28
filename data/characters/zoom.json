@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Central City",
-    "quote": "Te faço melhor herói pela tragédia — quer você queira ou não.",
+    "description": "-",
     "palette": ["#b71c1c", "#0d0d0d", "#f9d71c"]
   }
 }

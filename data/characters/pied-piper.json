@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Central City",
-    "quote": "Toda flauta tem uma nota que ninguém resiste.",
+    "description": "-",
     "palette": ["#2e7d32", "#f9a825", "#212121"]
   }
 }

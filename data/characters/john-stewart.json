@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Detroit",
-    "quote": "Um fuzileiro não erra o alvo, e minha vontade também não.",
+    "description": "-",
     "palette": ["#2e7d32", "#0d0d0d", "#eceff1"]
   }
 }

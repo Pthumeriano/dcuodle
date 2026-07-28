@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Thanagar",
-    "quote": "Voo, luto e volto a voar.",
+    "description": "-",
     "palette": ["#b71c1c", "#fbc02d", "#3e2723"]
   }
 }

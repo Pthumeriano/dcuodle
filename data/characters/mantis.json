@@ -14,7 +14,7 @@
   },
   "hints": {
     "habitation": "Apokolips",
-    "quote": "Absorvo toda energia que ousar me tocar.",
+    "description": "-",
     "palette": ["#1b5e20", "#0d0d0d", "#7b1fa2"]
   }
 }
