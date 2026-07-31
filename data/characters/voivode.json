@@ -7,7 +7,7 @@
     "race": "human",
     "gender": "female",
     "morality": "hero",
-    "groups": ["noctem"],
+    "groups": ["independent"],
     "occupations": ["vigilante", "journalist"],
     "powers": ["super-strength"],
     "antagonists": ["luzia", "felix-faust"]

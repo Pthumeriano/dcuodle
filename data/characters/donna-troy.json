@@ -9,12 +9,12 @@
     "morality": "hero",
     "groups": ["teen-titans"],
     "occupations": ["warrior"],
-    "powers": ["super-strength", "flight"],
+    "powers": ["super-strength", "flight", "celestial"],
     "antagonists": []
   },
   "hints": {
     "habitation": "Themyscira",
-    "description": "-",
+    "description": "Irmã adotiva da princesa amazona, moldada em argila como ela — ou resgatada de um incêndio, dependendo de qual versão da própria memória se acredita.",
     "palette": ["#b71c1c", "#1a237e", "#fdd835"]
   }
 }

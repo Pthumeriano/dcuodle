@@ -13,8 +13,8 @@
     "antagonists": ["ebon"]
   },
   "hints": {
-    "habitation": "Dakota",
-    "description": "-",
+    "habitation": "Dakota City",
+    "description": "Adolescente atingido por um gás mutagênico durante uma briga de gangues. Saiu de lá manipulando eletromagnetismo e voando sobre um disco de metal.",
     "palette": ["#0d47a1", "#f9a825", "#1a1a1a"]
   }
 }

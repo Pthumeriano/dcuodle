@@ -1,5 +1,5 @@
 {
-  "race": ["human", "kryptonian", "amazon", "atlantean", "czarnian", "cambion", "coluan", "martian", "undead", "thanagarian", "korugaran", "olympian", "new-god", "spirit", "animal", "ungaran", "bolovaxian", "tamaranean", "machine", "alien", "demon", "elemental", "planet", "venegarian", "emotional-entity"],
+  "race": ["human", "kryptonian", "amazon", "atlantean", "czarnian", "cambion", "coluan", "martian", "undead", "thanagarian", "korugaran", "olympian", "new-god", "spirit", "animal", "ungaran", "bolovaxian", "tamaranean", "machine", "alien", "demon", "elemental", "planet", "venegarian", "emotional-entity", "cyborg"],
   "gender": ["male", "female", "non-binary"],
   "morality": ["hero", "antihero", "villain"],
   "groups": [
@@ -24,7 +24,9 @@
     "fatal-five",
     "rogues",
     "ultraviolet-lantern-corps",
-    "searchers-inc"
+    "searchers-inc",
+    "indigo-tribe",
+    "blue-lantern-corps"
   ],
   "occupations": [
     "vigilante",

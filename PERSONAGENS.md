@@ -45,6 +45,12 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 - **Ep. 49 Day of Reckoning:** voivode, luzia, esperanza-cavalera.
 - **Original do usuário (fora do cânon DCUO):** 409-conflict *(liga Noctem)*.
 
+O grupo **`noctem` é a liga do usuário no DCUO, não existe no cânon** — a wiki não tem
+nenhuma página com esse nome. Ele vale **só** para o `409-conflict`. Já esteve marcado em
+catwoman, cyborg, green-lantern, nightwing, poison-ivy, luzia e voivode; foi removido de
+todos, porque num jogo de dedução um grupo que só o dono conhece não ajuda ninguém a
+deduzir. Não reintroduza em personagem de cânon.
+
 Lista completa dos ids: `ls data/characters/`.
 
 ---
@@ -71,11 +77,11 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] aquaman
 - [ ] the-flash
 - [ ] green-lantern
-- [ ] cyborg
+- [x] cyborg *(vocabulário: race +cyborg)*
 - [ ] green-arrow
 - [ ] zatanna
-- [ ] raven
-- [ ] nightwing
+- [x] raven
+- [x] nightwing
 - [ ] joker
 - [ ] lex-luthor
 - [ ] harley-quinn
@@ -101,7 +107,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] martian-manhunter
 - [ ] supergirl
 - [ ] steel
-- [ ] robin
+- [x] robin *(imagem trocada: era a do Tim Drake)*
 - [ ] batgirl
 
 ### Base Game — Lote 2
@@ -110,7 +116,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] hawkgirl
 - [ ] black-canary
 - [ ] booster-gold
-- [ ] blue-beetle
+- [x] blue-beetle
 - [ ] power-girl
 - [ ] commissioner-gordon
 - [ ] parasite
@@ -148,17 +154,17 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] vicki-vale
 - [ ] jack-ryder
 - [ ] brother-blood
-- [ ] starfire
+- [x] starfire
 - [ ] brother-eye
 - [ ] the-huntress
-- [ ] wonder-girl
+- [x] wonder-girl
 - [ ] john-stewart
 - [ ] doctor-fate
 - [ ] atrocitus
 - [ ] shazam
 - [ ] black-adam
 - [ ] kyle-rayner
-- [ ] donna-troy
+- [x] donna-troy
 - [ ] trigon
 - [ ] felix-faust
 - [ ] guy-gardner
@@ -313,7 +319,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 
 ### Ep. 26 — Wayne Manor Gala & Kandor Central Tower
 
-- [ ] superboy
+- [x] superboy
 - [ ] alura
 
 ### Ep. 27 — Amazon Fury Part III
@@ -346,7 +352,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] corum-rath
 - [ ] alan-scott
 - [ ] black-lightning
-- [ ] kid-flash
+- [x] kid-flash *(alias Wally West → Bart Allen: no DCUO o Kid Flash é o Bart)*
 
 ### Ep. 31b — Death of Superman
 
@@ -357,16 +363,16 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 
 ### Ep. 32 — Teen Titans: The Judas Contract
 
-- [ ] terra
-- [ ] red-robin
-- [ ] beast-boy
-- [ ] jericho *(revisão: +grupo searchers-inc)*
+- [x] terra
+- [x] red-robin
+- [x] beast-boy
+- [x] jericho
 - [x] adeline-wilson *(vocabulário: groups +searchers-inc)*
-- [ ] robin *(revisão: alias corrigido pra só Damian Wayne)*
+- [x] robin *(imagem trocada: era a do Tim Drake)*
 
 ### Ep. 33 — Atlantis
 
-- [ ] aqualad
+- [x] aqualad
 - [ ] king-shark
 - [ ] murk
 
@@ -413,7 +419,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] cosmic-boy
 - [ ] lightning-lad
 - [ ] saturn-girl
-- [ ] static
+- [x] static
 - [x] emerald-empress *(vocabulário: race +venegarian, groups +fatal-five, antagonists +cosmic-boy/saturn-girl/lightning-lad)*
 
 ### Ep. 40 — World of Flashpoint
@@ -421,7 +427,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] batman-flashpoint
 - [ ] aquaman-flashpoint
 - [ ] wonder-woman-flashpoint
-- [ ] cyborg-flashpoint
+- [x] cyborg-flashpoint *(poderes alinhados ao cyborg base)*
 
 ### Ep. 41 — House of Legends
 
@@ -432,7 +438,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 
 ### Ep. 42 — Legion of Doom
 
-- [ ] miss-martian
+- [x] miss-martian
 - [ ] anti-monitor
 - [ ] mister-mxyzptlk
 - [ ] murder-machine
@@ -459,7 +465,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] icon
 - [ ] desaad
 - [ ] ebon
-- [ ] static *(revisão: antagonists → ebon)*
+- [x] static
 
 ### Ep. 46 — Justice League Dark Cursed
 
@@ -471,8 +477,8 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 
 ### Ep. 49 — Day of Reckoning
 
-- [ ] voivode
-- [ ] luzia
+- [ ] voivode *(parcial: -noctem, +independent)*
+- [ ] luzia *(parcial: -noctem, +indigo-tribe/blue-lantern-corps)*
 - [ ] esperanza-cavalera
 
 ### Ep. 52 — Hope Burns Bright

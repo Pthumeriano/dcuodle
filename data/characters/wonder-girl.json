@@ -9,12 +9,12 @@
     "morality": "hero",
     "groups": ["teen-titans"],
     "occupations": ["vigilante"],
-    "powers": ["super-strength", "flight"],
+    "powers": ["super-strength", "flight", "electricity"],
     "antagonists": []
   },
   "hints": {
-    "habitation": "—",
-    "description": "-",
+    "habitation": "São Francisco",
+    "description": "Filha mortal de Zeus, recebeu do pai o poder de convocar relâmpagos. Usa laço e braceletes como a heroína amazona que idolatra.",
     "palette": ["#b71c1c", "#fdd835", "#212121"]
   }
 }

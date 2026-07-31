@@ -7,14 +7,14 @@
     "race": "human",
     "gender": "male",
     "morality": "hero",
-    "groups": ["batman-family", "teen-titans", "noctem"],
+    "groups": ["batman-family", "teen-titans"],
     "occupations": ["vigilante", "detective"],
-    "powers": ["peak-human"],
+    "powers": ["peak-human", "gadgets"],
     "antagonists": ["deathstroke", "joker"]
   },
   "hints": {
     "habitation": "Blüdhaven",
-    "description": "-",
+    "description": "Filho de trapezistas assassinados no picadeiro, foi criado pelo homem-morcego e virou seu primeiro parceiro. Saiu da sombra do mentor para proteger sozinho a cidade vizinha.",
     "palette": ["#101418", "#1565c0", "#0d0d0d"]
   }
 }

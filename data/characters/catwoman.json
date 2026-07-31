@@ -7,7 +7,7 @@
     "race": "human",
     "gender": "female",
     "morality": "antihero",
-    "groups": ["gotham-city-sirens", "noctem"],
+    "groups": ["gotham-city-sirens"],
     "occupations": ["thief", "criminal"],
     "powers": ["peak-human"],
     "antagonists": ["batman"]

@@ -7,7 +7,7 @@
     "race": "human",
     "gender": "female",
     "morality": "antihero",
-    "groups": ["noctem"],
+    "groups": ["indigo-tribe", "blue-lantern-corps"],
     "occupations": ["criminal"],
     "powers": ["hard-light"],
     "antagonists": ["voivode"]

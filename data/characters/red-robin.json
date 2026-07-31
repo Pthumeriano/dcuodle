@@ -9,12 +9,12 @@
     "morality": "hero",
     "groups": ["batman-family", "teen-titans"],
     "occupations": ["vigilante", "detective"],
-    "powers": ["peak-human", "genius-intellect"],
+    "powers": ["peak-human", "genius-intellect", "gadgets"],
     "antagonists": ["joker"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Deduziu sozinho a identidade secreta do morcego ainda garoto e se impôs como o terceiro a vestir o manto de parceiro. O melhor detetive de toda a linhagem.",
     "palette": ["#b3122b", "#1c1c22", "#37474f"]
   }
 }

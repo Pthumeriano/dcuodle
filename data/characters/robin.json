@@ -9,12 +9,12 @@
     "morality": "hero",
     "groups": ["batman-family", "teen-titans"],
     "occupations": ["vigilante", "detective"],
-    "powers": ["peak-human", "marksmanship"],
+    "powers": ["peak-human", "marksmanship", "gadgets"],
     "antagonists": ["joker"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Neto do Demônio e filho do morcego, criado por assassinos até os dez anos. Chegou à mansão convencido de que herdaria o manto por direito de sangue.",
     "palette": ["#b71c1c", "#2e7d32", "#fdd835"]
   }
 }

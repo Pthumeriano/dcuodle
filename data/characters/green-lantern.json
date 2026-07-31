@@ -7,7 +7,7 @@
     "race": "human",
     "gender": "male",
     "morality": "hero",
-    "groups": ["justice-league", "noctem"],
+    "groups": ["justice-league"],
     "occupations": ["pilot"],
     "powers": ["flight", "hard-light"],
     "antagonists": ["sinestro"]

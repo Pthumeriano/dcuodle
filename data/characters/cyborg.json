@@ -4,17 +4,17 @@
   "aliases": ["Victor Stone"],
   "image": "cyborg.webp",
   "attributes": {
-    "race": "human",
+    "race": "cyborg",
     "gender": "male",
     "morality": "hero",
-    "groups": ["teen-titans", "justice-league", "noctem"],
+    "groups": ["teen-titans", "justice-league"],
     "occupations": ["vigilante"],
-    "powers": ["super-strength", "genius-intellect", "flight"],
+    "powers": ["super-strength", "genius-intellect", "flight", "gadgets"],
     "antagonists": ["brainiac", "deathstroke"]
   },
   "hints": {
-    "habitation": "Detroit",
-    "description": "-",
+    "habitation": "Metropolis",
+    "description": "Perdeu metade do corpo num acidente no laboratório do próprio pai, que o reconstruiu em metal e circuitos. Conversa com qualquer sistema e carrega um canhão sônico no braço.",
     "palette": ["#212121", "#c62828", "#90a4ae"]
   }
 }

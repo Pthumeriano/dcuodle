@@ -1,7 +1,7 @@
 {
   "id": "kid-flash",
   "name": "Kid Flash",
-  "aliases": ["Wally West"],
+  "aliases": ["Bart Allen"],
   "image": "kid-flash.webp",
   "attributes": {
     "race": "human",
@@ -9,12 +9,12 @@
     "morality": "hero",
     "groups": ["teen-titans"],
     "occupations": ["vigilante"],
-    "powers": ["super-speed"],
+    "powers": ["super-speed", "electricity"],
     "antagonists": ["reverse-flash"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
+    "description": "Veio de um futuro distante e envelhecia rápido demais até conseguir estabilizar. Neto do velocista escarlate, é impaciente até para os padrões de quem corre na Força de Aceleração.",
     "palette": ["#f9a825", "#c62828", "#eeeeee"]
   }
 }

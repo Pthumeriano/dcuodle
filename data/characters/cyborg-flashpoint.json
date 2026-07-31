@@ -4,17 +4,17 @@
   "aliases": ["Victor Stone"],
   "image": "cyborg-flashpoint.webp",
   "attributes": {
-    "race": "human",
+    "race": "cyborg",
     "gender": "male",
     "morality": "hero",
     "groups": ["flashpoint"],
     "occupations": ["vigilante"],
-    "powers": ["super-strength", "genius-intellect", "gadgets"],
+    "powers": ["super-strength", "genius-intellect", "flight", "gadgets"],
     "antagonists": []
   },
   "hints": {
     "habitation": "Detroit",
-    "description": "-",
+    "description": "Nessa linha do tempo é o maior herói dos Estados Unidos, encarregado pelo governo de reunir os poucos super-humanos restantes para deter a guerra entre atlantes e amazonas.",
     "palette": ["#9e9e9e", "#c62828", "#0d47a1"]
   }
 }

@@ -7,7 +7,7 @@
     "race": "human",
     "gender": "female",
     "morality": "villain",
-    "groups": ["gotham-city-sirens", "suicide-squad", "noctem"],
+    "groups": ["gotham-city-sirens", "suicide-squad"],
     "occupations": ["scientist", "criminal"],
     "powers": ["toxin-immunity", "nature"],
     "antagonists": ["batman"]
