@@ -6,15 +6,15 @@
   "attributes": {
     "race": "human",
     "gender": "male",
-    "morality": "antihero",
-    "groups": ["independent"],
+    "morality": "villain",
+    "groups": ["independent", "suicide-squad"],
     "occupations": ["warrior", "criminal"],
-    "powers": ["super-strength", "marksmanship"],
-    "antagonists": ["nightwing"]
+    "powers": ["munitions", "super-strength", "marksmanship"],
+    "antagonists": ["nightwing", "jericho", "adeline-wilson"]
   },
   "hints": {
-    "habitation": "—",
-    "description": "-",
-    "palette": ["#e65100", "#212121", "#1565c0"]
+    "habitation": "Metropolis",
+    "description": "Assassino de aluguel com um olho só, criado por um experimento militar que multiplicou sua força, seus reflexos e sua capacidade mental. Cobra as maiores quantias do mundo por uma morte e é o inimigo mais perigoso que os Titãs já enfrentaram.",
+    "palette": ["#c2701f", "#2b2f3d", "#16161c"]
   }
 }

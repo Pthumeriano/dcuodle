@@ -97,7 +97,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] scarecrow
 - [ ] riddler
 - [ ] killer-croc
-- [ ] deathstroke
+- [x] deathstroke *(vocabulário: antagonists +jericho, +adeline-wilson)*
 - [ ] martian-manhunter
 - [ ] supergirl
 - [ ] steel
@@ -360,8 +360,8 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] terra
 - [ ] red-robin
 - [ ] beast-boy
-- [ ] jericho
-- [ ] adeline-wilson
+- [ ] jericho *(revisão: +grupo searchers-inc)*
+- [x] adeline-wilson *(vocabulário: groups +searchers-inc)*
 - [ ] robin *(revisão: alias corrigido pra só Damian Wayne)*
 
 ### Ep. 33 — Atlantis

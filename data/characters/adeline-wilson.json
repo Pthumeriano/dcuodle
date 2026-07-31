@@ -7,14 +7,14 @@
     "race": "human",
     "gender": "female",
     "morality": "antihero",
-    "groups": ["independent"],
-    "occupations": ["warrior"],
-    "powers": ["marksmanship"],
+    "groups": ["searchers-inc"],
+    "occupations": ["detective", "warrior"],
+    "powers": ["munitions", "marksmanship"],
     "antagonists": ["deathstroke"]
   },
   "hints": {
     "habitation": "Nova York",
-    "description": "-",
-    "palette": ["#33691e", "#607d8b", "#c62828"]
+    "description": "Instrutora do exército que treinou — e derrotou em combate — o recruta com quem viria a se casar. Ao descobrir a vida dupla dele como mercenário, sacou uma arma contra ele e acertou seu olho direito. Hoje comanda uma agência de informações ao lado do filho mudo.",
+    "palette": ["#5e4649", "#251d1e", "#956553"]
   }
 }

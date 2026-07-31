@@ -7,7 +7,7 @@
     "race": "human",
     "gender": "male",
     "morality": "hero",
-    "groups": ["teen-titans"],
+    "groups": ["teen-titans", "searchers-inc"],
     "occupations": ["vigilante"],
     "powers": ["mental"],
     "antagonists": ["deathstroke"]
