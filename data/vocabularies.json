@@ -38,7 +38,8 @@
     "criminal",
     "archer",
     "pilot",
-    "thief"
+    "thief",
+    "bounty-hunter"
   ],
   "powers": [
     "none",
@@ -71,7 +72,8 @@
     "sorcery",
     "water",
     "magnetism",
-    "shadow"
+    "shadow",
+    "lobo-mania"
   ],
   "antagonists": [
     "batman",
@@ -131,6 +133,7 @@
     "cosmic-boy",
     "saturn-girl",
     "lightning-lad",
-    "parallax"
+    "parallax",
+    "guy-gardner"
   ]
 }

@@ -8,13 +8,13 @@
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],
-    "occupations": ["warrior"],
-    "powers": ["super-strength", "invulnerability", "immortality"],
-    "antagonists": ["superman"]
+    "occupations": ["bounty-hunter"],
+    "powers": ["lobo-mania", "super-strength", "immortality"],
+    "antagonists": ["superman", "guy-gardner"]
   },
   "hints": {
     "habitation": "Czarnia",
-    "description": "-",
-    "palette": ["#eceff1", "#1a1a1a", "#c62828"]
+    "description": "Caçador de recompensas interestelar, último sobrevivente de um planeta paradisíaco que ele mesmo exterminou — e deu nota máxima a si próprio pelo feito. Regenera-se de qualquer ferimento, fuma charuto e cobra suas dívidas montado numa moto espacial.",
+    "palette": ["#9ca3ad", "#1b1e23", "#c62828"]
   }
 }

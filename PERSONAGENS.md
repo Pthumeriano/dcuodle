@@ -395,7 +395,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 
 - [ ] brimstone
 - [ ] amazo
-- [ ] lobo
+- [x] lobo *(vocabulário: occupations +bounty-hunter, antagonists +guy-gardner)*
 
 ### Ep. 38 — Wonderverse
 
