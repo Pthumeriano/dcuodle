@@ -4,7 +4,6 @@
   "aliases": ["John Smith"],
   "image": "red-tornado.webp",
   "attributes": {
-    "race": "machine",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

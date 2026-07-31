@@ -4,7 +4,6 @@
   "aliases": ["Michael Carter"],
   "image": "booster-gold.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

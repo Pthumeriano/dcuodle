@@ -4,7 +4,6 @@
   "aliases": ["Selina Kyle"],
   "image": "catwoman-bombshell.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "antihero",
     "groups": ["bombshell"],

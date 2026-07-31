@@ -4,7 +4,6 @@
   "aliases": ["Queen Diana"],
   "image": "wonder-woman-flashpoint.webp",
   "attributes": {
-    "race": "amazon",
     "gender": "female",
     "morality": "villain",
     "groups": ["flashpoint"],

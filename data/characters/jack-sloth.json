@@ -4,7 +4,6 @@
   "aliases": ["Son of Trigon", "Sloth"],
   "image": "jack-sloth.webp",
   "attributes": {
-    "race": "demon",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

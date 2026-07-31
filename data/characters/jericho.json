@@ -4,7 +4,6 @@
   "aliases": ["Joseph Wilson"],
   "image": "jericho.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["teen-titans", "searchers-inc"],

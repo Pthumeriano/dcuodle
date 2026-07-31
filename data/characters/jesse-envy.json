@@ -4,7 +4,6 @@
   "aliases": ["Son of Trigon", "Envy"],
   "image": "jesse-envy.webp",
   "attributes": {
-    "race": "demon",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

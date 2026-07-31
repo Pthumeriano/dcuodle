@@ -4,7 +4,6 @@
   "aliases": ["Thaal Sinestro"],
   "image": "sinestro.webp",
   "attributes": {
-    "race": "korugaran",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

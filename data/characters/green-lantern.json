@@ -4,7 +4,6 @@
   "aliases": ["Hal Jordan"],
   "image": "green-lantern.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

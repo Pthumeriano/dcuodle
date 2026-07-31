@@ -4,7 +4,6 @@
   "aliases": ["Basil Karlo"],
   "image": "clayface.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

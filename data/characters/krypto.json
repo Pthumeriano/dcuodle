@@ -4,7 +4,6 @@
   "aliases": ["Superdog", "Cão de Aço"],
   "image": "krypto.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

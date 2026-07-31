@@ -4,7 +4,6 @@
   "aliases": ["The Ultimate"],
   "image": "doomsday.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

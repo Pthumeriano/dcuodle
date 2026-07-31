@@ -4,7 +4,6 @@
   "aliases": ["Faora"],
   "image": "ursa.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

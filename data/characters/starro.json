@@ -4,7 +4,6 @@
   "aliases": ["O Conquistador"],
   "image": "starro.webp",
   "attributes": {
-    "race": "alien",
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["independent"],

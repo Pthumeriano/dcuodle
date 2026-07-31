@@ -4,7 +4,6 @@
   "aliases": ["Sarya", "Imperatriz Esmeralda"],
   "image": "emerald-empress.webp",
   "attributes": {
-    "race": "venegarian",
     "gender": "female",
     "morality": "villain",
     "groups": ["fatal-five"],

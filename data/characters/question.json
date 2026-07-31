@@ -4,7 +4,6 @@
   "aliases": ["Vic Sage"],
   "image": "question.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

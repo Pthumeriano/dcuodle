@@ -4,7 +4,6 @@
   "aliases": ["O Guardião Renegado"],
   "image": "krona.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

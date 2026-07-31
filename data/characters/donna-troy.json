@@ -4,7 +4,6 @@
   "aliases": ["Troia"],
   "image": "donna-troy.webp",
   "attributes": {
-    "race": "amazon",
     "gender": "female",
     "morality": "hero",
     "groups": ["teen-titans"],

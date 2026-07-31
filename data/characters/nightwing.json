@@ -4,7 +4,6 @@
   "aliases": ["Dick Grayson"],
   "image": "nightwing.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["batman-family", "teen-titans"],

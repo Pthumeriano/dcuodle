@@ -4,7 +4,6 @@
   "aliases": ["Deirdre Vance"],
   "image": "query.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

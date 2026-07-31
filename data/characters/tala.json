@@ -4,7 +4,6 @@
   "aliases": ["Rainha das Trevas"],
   "image": "tala.webp",
   "attributes": {
-    "race": "demon",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

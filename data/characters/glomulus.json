@@ -4,7 +4,6 @@
   "aliases": ["Construto de Larfleeze"],
   "image": "glomulus.webp",
   "attributes": {
-    "race": "elemental",
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["The Demon's Head"],
   "image": "ras-al-ghul.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

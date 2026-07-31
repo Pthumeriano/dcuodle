@@ -4,7 +4,6 @@
   "aliases": ["Sam Scudder"],
   "image": "mirror-master.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

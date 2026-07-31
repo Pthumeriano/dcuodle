@@ -4,7 +4,6 @@
   "aliases": ["Vicki Vale"],
   "image": "vicki-vale.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["independent"],

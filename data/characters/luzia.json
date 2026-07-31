@@ -4,7 +4,6 @@
   "aliases": ["Luzia Cavalera", "The Reckoning"],
   "image": "luzia.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "antihero",
     "groups": ["indigo-tribe", "blue-lantern-corps"],

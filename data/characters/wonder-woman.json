@@ -4,7 +4,6 @@
   "aliases": ["Diana Prince", "Diana of Themyscira"],
   "image": "wonder-woman.webp",
   "attributes": {
-    "race": "amazon",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

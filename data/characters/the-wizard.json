@@ -4,7 +4,6 @@
   "aliases": ["Mamaragan", "Mago Shazam"],
   "image": "the-wizard.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

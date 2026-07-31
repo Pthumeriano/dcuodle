@@ -4,7 +4,6 @@
   "aliases": ["Per Degaton"],
   "image": "per-degaton.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Jonathan Allen"],
   "image": "johnny-quick.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["crime-syndicate"],

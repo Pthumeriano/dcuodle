@@ -4,7 +4,6 @@
   "aliases": ["Leonard Snart"],
   "image": "captain-cold.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

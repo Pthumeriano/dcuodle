@@ -4,7 +4,6 @@
   "aliases": ["Jervis Tetch"],
   "image": "mad-hatter.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

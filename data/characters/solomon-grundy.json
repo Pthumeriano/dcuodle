@@ -4,7 +4,6 @@
   "aliases": ["Cyrus Gold"],
   "image": "solomon-grundy.webp",
   "attributes": {
-    "race": "undead",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

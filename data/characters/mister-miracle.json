@@ -4,7 +4,6 @@
   "aliases": ["Scott Free"],
   "image": "mister-miracle.webp",
   "attributes": {
-    "race": "new-god",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

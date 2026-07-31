@@ -4,7 +4,6 @@
   "aliases": ["Kal-Il"],
   "image": "ultraman.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "male",
     "morality": "villain",
     "groups": ["crime-syndicate"],

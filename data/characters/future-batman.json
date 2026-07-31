@@ -4,7 +4,6 @@
   "aliases": ["Bruce Wayne (Futuro)"],
   "image": "future-batman.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["batman-family", "elseworld"],

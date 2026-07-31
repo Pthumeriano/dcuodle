@@ -4,7 +4,6 @@
   "aliases": ["Imra Ardeen"],
   "image": "saturn-girl.webp",
   "attributes": {
-    "race": "alien",
     "gender": "female",
     "morality": "hero",
     "groups": ["legion"],

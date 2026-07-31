@@ -4,7 +4,6 @@
   "aliases": ["Waylon Jones"],
   "image": "killer-croc.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["suicide-squad"],

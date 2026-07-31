@@ -4,7 +4,6 @@
   "aliases": ["Nanaue"],
   "image": "king-shark.webp",
   "attributes": {
-    "race": "animal",
     "gender": "male",
     "morality": "antihero",
     "groups": ["suicide-squad"],

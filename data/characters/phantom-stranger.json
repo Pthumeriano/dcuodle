@@ -4,7 +4,6 @@
   "aliases": ["O Estranho"],
   "image": "phantom-stranger.webp",
   "attributes": {
-    "race": "spirit",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league-dark"],

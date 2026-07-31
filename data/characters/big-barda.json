@@ -4,7 +4,6 @@
   "aliases": ["Barda Free"],
   "image": "big-barda.webp",
   "attributes": {
-    "race": "new-god",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

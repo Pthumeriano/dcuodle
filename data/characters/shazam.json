@@ -4,7 +4,6 @@
   "aliases": ["Billy Batson", "Captain Marvel"],
   "image": "shazam.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

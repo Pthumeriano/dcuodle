@@ -4,7 +4,6 @@
   "aliases": ["Kaldur'ahm"],
   "image": "aqualad.webp",
   "attributes": {
-    "race": "atlantean",
     "gender": "male",
     "morality": "hero",
     "groups": ["teen-titans"],

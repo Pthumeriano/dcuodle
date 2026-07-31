@@ -4,7 +4,6 @@
   "aliases": ["Warrior"],
   "image": "guy-gardner.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

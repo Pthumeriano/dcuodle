@@ -4,7 +4,6 @@
   "aliases": ["Conner Kent", "Kon-El"],
   "image": "superboy.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "male",
     "morality": "hero",
     "groups": ["teen-titans"],

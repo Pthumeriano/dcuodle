@@ -4,7 +4,6 @@
   "aliases": ["Klarion the Witch Boy"],
   "image": "klarion.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

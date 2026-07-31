@@ -4,7 +4,6 @@
   "aliases": ["Ray Palmer", "The Tiny Titan"],
   "image": "the-atom.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

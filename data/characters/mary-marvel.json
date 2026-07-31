@@ -4,7 +4,6 @@
   "aliases": ["Mary Batson"],
   "image": "mary-marvel.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["independent"],

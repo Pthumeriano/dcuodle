@@ -4,7 +4,6 @@
   "aliases": ["Tim Drake"],
   "image": "red-robin.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["batman-family", "teen-titans"],

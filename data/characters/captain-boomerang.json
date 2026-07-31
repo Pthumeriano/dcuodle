@@ -4,7 +4,6 @@
   "aliases": ["Digger Harkness"],
   "image": "captain-boomerang.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["suicide-squad"],

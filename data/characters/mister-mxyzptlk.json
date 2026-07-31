@@ -4,7 +4,6 @@
   "aliases": ["Mxy"],
   "image": "mister-mxyzptlk.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

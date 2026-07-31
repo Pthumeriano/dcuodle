@@ -4,7 +4,6 @@
   "aliases": ["Hartley Rathaway"],
   "image": "pied-piper.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

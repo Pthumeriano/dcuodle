@@ -4,7 +4,6 @@
   "aliases": ["Uxas", "Senhor de Apokolips"],
   "image": "darkseid.webp",
   "attributes": {
-    "race": "new-god",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

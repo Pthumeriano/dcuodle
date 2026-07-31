@@ -4,7 +4,6 @@
   "aliases": ["Mestre do Tempo"],
   "image": "rip-hunter.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

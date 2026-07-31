@@ -4,7 +4,6 @@
   "aliases": ["Solis"],
   "image": "lightray.webp",
   "attributes": {
-    "race": "new-god",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

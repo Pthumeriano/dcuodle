@@ -4,7 +4,6 @@
   "aliases": ["Mãe da Criação"],
   "image": "perpetua.webp",
   "attributes": {
-    "race": "alien",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

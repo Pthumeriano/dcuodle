@@ -4,7 +4,6 @@
   "aliases": ["Ivan Evans"],
   "image": "ebon.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

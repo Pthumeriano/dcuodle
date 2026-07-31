@@ -4,7 +4,6 @@
   "aliases": ["Lori Zechlin"],
   "image": "black-alice.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "antihero",
     "groups": ["independent"],

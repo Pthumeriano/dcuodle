@@ -4,7 +4,6 @@
   "aliases": ["Vandar Adg"],
   "image": "vandal-savage.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["legion-of-doom"],

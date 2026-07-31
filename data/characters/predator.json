@@ -4,7 +4,6 @@
   "aliases": ["Entidade do Amor"],
   "image": "predator.webp",
   "attributes": {
-    "race": "emotional-entity",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

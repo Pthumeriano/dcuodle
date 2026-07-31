@@ -4,7 +4,6 @@
   "aliases": ["Rokk Krinn"],
   "image": "cosmic-boy.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "hero",
     "groups": ["legion"],

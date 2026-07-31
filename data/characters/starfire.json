@@ -4,7 +4,6 @@
   "aliases": ["Koriand'r", "Kory Anders"],
   "image": "starfire.webp",
   "attributes": {
-    "race": "tamaranean",
     "gender": "female",
     "morality": "hero",
     "groups": ["teen-titans"],

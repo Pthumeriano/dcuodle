@@ -4,7 +4,6 @@
   "aliases": ["Androide de Ivo"],
   "image": "amazo.webp",
   "attributes": {
-    "race": "machine",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

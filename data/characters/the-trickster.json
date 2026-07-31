@@ -4,7 +4,6 @@
   "aliases": ["James Jesse"],
   "image": "the-trickster.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

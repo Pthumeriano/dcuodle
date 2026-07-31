@@ -4,7 +4,6 @@
   "aliases": ["Son of Trigon", "Gluttony"],
   "image": "julius-gluttony.webp",
   "attributes": {
-    "race": "demon",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

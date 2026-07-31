@@ -4,7 +4,6 @@
   "aliases": ["Comandante Murk"],
   "image": "murk.webp",
   "attributes": {
-    "race": "atlantean",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

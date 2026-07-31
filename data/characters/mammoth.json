@@ -4,7 +4,6 @@
   "aliases": ["Baran Flinders"],
   "image": "mammoth.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Fúrias Femininas"],
   "image": "granny-goodness.webp",
   "attributes": {
-    "race": "new-god",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

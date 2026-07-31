@@ -4,7 +4,6 @@
   "aliases": ["Dr. Wayne"],
   "image": "thomas-wayne.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

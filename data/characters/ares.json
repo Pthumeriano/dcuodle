@@ -4,7 +4,6 @@
   "aliases": ["God of War"],
   "image": "ares.webp",
   "attributes": {
-    "race": "olympian",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

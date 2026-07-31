@@ -4,7 +4,6 @@
   "aliases": ["Senhor dos Mortos-Vivos", "A Encarnação da Morte"],
   "image": "nekron.webp",
   "attributes": {
-    "race": "spirit",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Circe of Colchis"],
   "image": "circe.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "villain",
     "groups": ["legion-of-doom"],

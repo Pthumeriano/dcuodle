@@ -4,7 +4,6 @@
   "aliases": ["Guardiã do Livro de Parallax"],
   "image": "lyssa-drak.webp",
   "attributes": {
-    "race": "alien",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

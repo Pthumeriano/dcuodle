@@ -4,7 +4,6 @@
   "aliases": ["Damian Wayne"],
   "image": "robin.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["batman-family", "teen-titans"],

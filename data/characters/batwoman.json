@@ -4,7 +4,6 @@
   "aliases": ["Kate Kane"],
   "image": "batwoman.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["batman-family"],

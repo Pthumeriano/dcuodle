@@ -4,7 +4,6 @@
   "aliases": ["Antonio Diego"],
   "image": "bane.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["suicide-squad"],

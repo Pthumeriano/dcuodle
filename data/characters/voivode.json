@@ -4,7 +4,6 @@
   "aliases": ["Dejana Petrović"],
   "image": "voivode.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["independent"],

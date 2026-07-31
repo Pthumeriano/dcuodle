@@ -4,7 +4,6 @@
   "aliases": ["OMAC"],
   "image": "brother-eye.webp",
   "attributes": {
-    "race": "machine",
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["The Clown Prince of Crime"],
   "image": "joker.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

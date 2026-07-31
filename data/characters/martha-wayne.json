@@ -4,7 +4,6 @@
   "aliases": ["Martha Kane"],
   "image": "martha-wayne.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["independent"],

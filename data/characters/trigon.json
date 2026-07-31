@@ -4,7 +4,6 @@
   "aliases": ["The Terror"],
   "image": "trigon.webp",
   "attributes": {
-    "race": "demon",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

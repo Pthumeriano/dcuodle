@@ -22,7 +22,14 @@ episódio em episódio. Este arquivo é o checklist de progresso.
   que duplicam personagem existente (black-lantern, zoom).
 - **Nada de entrada guarda-chuva:** a antiga `emotional-entity` cobria cinco entidades num
   registro só. Foi substituída pelas individuais que de fato aparecem (`ion`, `umbrax`, além
-  de `parallax` e `predator`) — e virou o valor de `race` que une as quatro.
+  de `parallax` e `predator`).
+- **Não existe mais o atributo `race`.** Foi removido do contrato em jul/2026, depois de uma
+  revisão que trocou os 24 `alien` genéricos pelas espécies nomeadas do infobox (ryutian,
+  havanian, braalian…). O resultado mediu mal: 44 valores para 269 personagens, 24 deles com
+  um único representante, e `human` concentrando 134. Virou um atributo que quase nunca
+  elimina candidato — confirma só depois que você já adivinhou. A dedução fica com `groups`,
+  `occupations`, `powers` e `antagonists`, que têm 🟡 e discriminam de verdade. **Não
+  reintroduza.**
 - **`powers` segue o campo `power` do infobox.** Uma varredura do catálogo inteiro (jul/2026)
   cruzou os 269 personagens contra a wiki e corrigiu 94: o bulk tinha ignorado o power set em
   massa (`batman` sem `gadgets`, `aquaman` sem `water`, `atrocitus` sem `rage`). Três regras
@@ -70,7 +77,7 @@ Lista completa dos ids: `ls data/characters/`.
 Segundo passo do fluxo: depois de bulk-adicionar, revisar **um por um** contra o cânon
 DC / DCUO e ajustar. Em cada personagem, conferir:
 
-- `race` · `gender` · `morality` — corretos?
+- `gender` · `morality` — corretos?
 - `groups` · `occupations` — refletem o papel no DCUO?
 - `powers` — é o **power set** certo do DCUO? (ex.: Nature, Fire, Hard Light, Ice…)
 - `antagonists` — cross-links coerentes e apontando pra ids que existem?
@@ -87,7 +94,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] aquaman
 - [ ] the-flash
 - [ ] green-lantern
-- [x] cyborg *(vocabulário: race +cyborg)*
+- [x] cyborg
 - [ ] green-arrow
 - [ ] zatanna
 - [x] raven
@@ -273,9 +280,9 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 ### Ep. 12 — War of the Light Part II
 
 - [ ] glomulus
-- [ ] parallax *(revisão: race → emotional-entity)*
-- [ ] predator *(revisão: race → emotional-entity)*
-- [x] ion *(vocabulário: race +emotional-entity, antagonists +parallax)*
+- [ ] parallax
+- [ ] predator
+- [x] ion *(vocabulário: antagonists +parallax)*
 
 ### Ep. 13 — Amazon Fury Part II
 
@@ -430,7 +437,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] lightning-lad
 - [ ] saturn-girl
 - [x] static
-- [x] emerald-empress *(vocabulário: race +venegarian, groups +fatal-five, antagonists +cosmic-boy/saturn-girl/lightning-lad)*
+- [x] emerald-empress *(vocabulário: groups +fatal-five, antagonists +cosmic-boy/saturn-girl/lightning-lad)*
 
 ### Ep. 40 — World of Flashpoint
 

@@ -4,7 +4,6 @@
   "aliases": ["Son of Trigon", "Wrath"],
   "image": "jared-wrath.webp",
   "attributes": {
-    "race": "demon",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Clark Kent", "Kal-El", "Man of Steel"],
   "image": "superman.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

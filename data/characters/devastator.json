@@ -4,7 +4,6 @@
   "aliases": ["Bruce Wayne (Terra-1)"],
   "image": "devastator.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["dark-knights"],

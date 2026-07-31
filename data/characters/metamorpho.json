@@ -4,7 +4,6 @@
   "aliases": ["Rex Mason", "Homem-Elemento"],
   "image": "metamorpho.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

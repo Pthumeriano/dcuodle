@@ -4,7 +4,6 @@
   "aliases": ["Barbara Ann Minerva"],
   "image": "cheetah.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "villain",
     "groups": ["legion-of-doom"],

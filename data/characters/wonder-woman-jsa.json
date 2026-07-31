@@ -4,7 +4,6 @@
   "aliases": ["Diana Prince"],
   "image": "wonder-woman-jsa.webp",
   "attributes": {
-    "race": "amazon",
     "gender": "female",
     "morality": "hero",
     "groups": ["jsa"],

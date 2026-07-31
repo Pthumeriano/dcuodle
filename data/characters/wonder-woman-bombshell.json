@@ -4,7 +4,6 @@
   "aliases": ["Diana"],
   "image": "wonder-woman-bombshell.webp",
   "attributes": {
-    "race": "amazon",
     "gender": "female",
     "morality": "hero",
     "groups": ["bombshell"],

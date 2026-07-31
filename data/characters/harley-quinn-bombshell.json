@@ -4,7 +4,6 @@
   "aliases": ["Harleen Quinzel"],
   "image": "harley-quinn-bombshell.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["bombshell"],

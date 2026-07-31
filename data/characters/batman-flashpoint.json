@@ -4,7 +4,6 @@
   "aliases": ["Thomas Wayne"],
   "image": "batman-flashpoint.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["flashpoint"],

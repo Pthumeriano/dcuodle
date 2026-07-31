@@ -4,7 +4,6 @@
   "aliases": ["A Cidade Senciente"],
   "image": "ranx.webp",
   "attributes": {
-    "race": "machine",
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["independent"],

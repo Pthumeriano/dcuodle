@@ -4,7 +4,6 @@
   "aliases": ["Enxofre"],
   "image": "brimstone.webp",
   "attributes": {
-    "race": "elemental",
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["independent"],

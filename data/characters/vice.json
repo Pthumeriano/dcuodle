@@ -4,7 +4,6 @@
   "aliases": ["Lanterna Vermelho"],
   "image": "vice.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

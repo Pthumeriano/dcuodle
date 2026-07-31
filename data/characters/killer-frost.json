@@ -4,7 +4,6 @@
   "aliases": ["Caitlin Snow", "Louise Lincoln"],
   "image": "killer-frost.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "villain",
     "groups": ["suicide-squad"],

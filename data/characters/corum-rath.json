@@ -4,7 +4,6 @@
   "aliases": ["Rei Rath"],
   "image": "corum-rath.webp",
   "attributes": {
-    "race": "atlantean",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

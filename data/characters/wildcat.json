@@ -4,7 +4,6 @@
   "aliases": ["Ted Grant"],
   "image": "wildcat.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

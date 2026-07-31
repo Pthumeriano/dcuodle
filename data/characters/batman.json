@@ -4,7 +4,6 @@
   "aliases": ["Bruce Wayne", "The Dark Knight"],
   "image": "batman.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league", "batman-family"],

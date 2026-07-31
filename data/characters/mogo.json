@@ -4,7 +4,6 @@
   "aliases": ["O Lanterna Vivo"],
   "image": "mogo.webp",
   "attributes": {
-    "race": "planet",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

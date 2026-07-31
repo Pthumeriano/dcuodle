@@ -4,7 +4,6 @@
   "aliases": ["Rei do Olimpo"],
   "image": "zeus.webp",
   "attributes": {
-    "race": "olympian",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

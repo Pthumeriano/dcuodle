@@ -4,7 +4,6 @@
   "aliases": ["Arthur Light"],
   "image": "doctor-light.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Hellblazer"],
   "image": "john-constantine.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["justice-league-dark"],

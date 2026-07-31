@@ -4,7 +4,6 @@
   "aliases": ["Lanterna Azul"],
   "image": "esperanza-cavalera.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Bruce Wayne (Terra-44)"],
   "image": "murder-machine.webp",
   "attributes": {
-    "race": "machine",
     "gender": "male",
     "morality": "villain",
     "groups": ["dark-knights"],

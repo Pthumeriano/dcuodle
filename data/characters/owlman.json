@@ -4,7 +4,6 @@
   "aliases": ["Thomas Wayne Jr."],
   "image": "owlman.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["crime-syndicate"],

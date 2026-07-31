@@ -4,7 +4,6 @@
   "aliases": ["Citizen Abra"],
   "image": "abra-kadabra.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["rogues"],

@@ -4,7 +4,6 @@
   "aliases": ["Jonathan Crane"],
   "image": "scarecrow.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

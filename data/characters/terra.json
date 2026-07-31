@@ -4,7 +4,6 @@
   "aliases": ["Tara Markov"],
   "image": "terra.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "villain",
     "groups": ["teen-titans"],

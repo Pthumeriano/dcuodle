@@ -4,7 +4,6 @@
   "aliases": ["Alec Holland"],
   "image": "swamp-thing.webp",
   "attributes": {
-    "race": "elemental",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league-dark"],

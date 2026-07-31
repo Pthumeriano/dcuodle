@@ -4,7 +4,6 @@
   "aliases": ["M'gann M'orzz", "Megan Morse"],
   "image": "miss-martian.webp",
   "attributes": {
-    "race": "martian",
     "gender": "female",
     "morality": "hero",
     "groups": ["teen-titans"],

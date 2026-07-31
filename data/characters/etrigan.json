@@ -4,7 +4,6 @@
   "aliases": ["O Demônio", "Jason Blood"],
   "image": "etrigan.webp",
   "attributes": {
-    "race": "demon",
     "gender": "male",
     "morality": "antihero",
     "groups": ["justice-league-dark"],

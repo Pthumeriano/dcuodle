@@ -4,7 +4,6 @@
   "aliases": ["O Cara Principal"],
   "image": "lobo.webp",
   "attributes": {
-    "race": "czarnian",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["John Henry Irons"],
   "image": "steel.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

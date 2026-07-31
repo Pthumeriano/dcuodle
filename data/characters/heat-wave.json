@@ -4,7 +4,6 @@
   "aliases": ["Mick Rory"],
   "image": "heat-wave.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

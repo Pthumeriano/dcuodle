@@ -4,7 +4,6 @@
   "aliases": ["Nina Damfino"],
   "image": "echo.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

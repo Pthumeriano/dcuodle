@@ -4,7 +4,6 @@
   "aliases": ["James Gordon"],
   "image": "commissioner-gordon.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["batman-family"],

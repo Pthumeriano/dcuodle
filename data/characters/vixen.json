@@ -4,7 +4,6 @@
   "aliases": ["Mari McCabe"],
   "image": "vixen.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

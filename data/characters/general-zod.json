@@ -4,7 +4,6 @@
   "aliases": ["Dru-Zod"],
   "image": "general-zod.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

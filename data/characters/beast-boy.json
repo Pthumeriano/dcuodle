@@ -4,7 +4,6 @@
   "aliases": ["Garfield Logan", "Mutano"],
   "image": "beast-boy.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["teen-titans"],

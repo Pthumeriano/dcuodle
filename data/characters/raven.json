@@ -4,7 +4,6 @@
   "aliases": ["Rachel Roth"],
   "image": "raven.webp",
   "attributes": {
-    "race": "cambion",
     "gender": "female",
     "morality": "hero",
     "groups": ["teen-titans", "justice-league-dark"],

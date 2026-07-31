@@ -4,7 +4,6 @@
   "aliases": ["Entidade do Medo"],
   "image": "parallax.webp",
   "attributes": {
-    "race": "emotional-entity",
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["independent"],

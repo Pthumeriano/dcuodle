@@ -4,7 +4,6 @@
   "aliases": ["Kendra Saunders", "Shayera Hol"],
   "image": "hawkgirl.webp",
   "attributes": {
-    "race": "thanagarian",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

@@ -4,7 +4,6 @@
   "aliases": ["Dinah Lance"],
   "image": "black-canary.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

@@ -4,7 +4,6 @@
   "aliases": ["Senhor do Caos"],
   "image": "mordru.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

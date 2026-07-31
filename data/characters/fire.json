@@ -4,7 +4,6 @@
   "aliases": ["Beatriz da Costa"],
   "image": "fire.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

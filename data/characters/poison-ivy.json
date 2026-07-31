@@ -4,7 +4,6 @@
   "aliases": ["Pamela Isley"],
   "image": "poison-ivy.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "villain",
     "groups": ["gotham-city-sirens", "suicide-squad"],

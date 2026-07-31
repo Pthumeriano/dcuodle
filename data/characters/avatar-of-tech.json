@@ -4,7 +4,6 @@
   "aliases": ["Prime Avatar"],
   "image": "avatar-of-tech.webp",
   "attributes": {
-    "race": "machine",
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["independent"],

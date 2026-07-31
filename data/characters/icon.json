@@ -4,7 +4,6 @@
   "aliases": ["Augustus Freeman"],
   "image": "icon.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

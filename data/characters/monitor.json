@@ -4,7 +4,6 @@
   "aliases": ["Mar Novu"],
   "image": "monitor.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

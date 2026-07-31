@@ -4,7 +4,6 @@
   "aliases": ["Victor Fries"],
   "image": "mr-freeze.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

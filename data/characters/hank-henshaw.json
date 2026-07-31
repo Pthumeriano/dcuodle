@@ -4,7 +4,6 @@
   "aliases": ["Cyborg Superman"],
   "image": "hank-henshaw.webp",
   "attributes": {
-    "race": "machine",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": [],
   "image": "gorilla-grodd.webp",
   "attributes": {
-    "race": "animal",
     "gender": "male",
     "morality": "villain",
     "groups": ["legion-of-doom"],

@@ -4,7 +4,6 @@
   "aliases": ["Barbara Gordon", "Oracle"],
   "image": "batgirl.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["batman-family"],

@@ -4,7 +4,6 @@
   "aliases": [],
   "image": "bleez.webp",
   "attributes": {
-    "race": "alien",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

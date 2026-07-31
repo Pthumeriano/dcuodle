@@ -4,13 +4,12 @@
   "aliases": ["Conflito", "Helder"],
   "image": "409-conflict.webp",
   "attributes": {
-    "race": "czarnian",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league", "noctem"],
     "occupations": ["bounty-hunter"],
     "powers": ["lobo-mania", "super-strength", "immortality", "rage"],
-    "antagonists": ["evil-mepps","matt-super", "neron"]
+    "antagonists": ["evil-mepps", "matt-super", "neron"]
   },
   "hints": {
     "habitation": "Kaznia",

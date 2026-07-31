@@ -4,7 +4,6 @@
   "aliases": ["Carter Hall", "Katar Hol"],
   "image": "hawkman.webp",
   "attributes": {
-    "race": "thanagarian",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

@@ -4,7 +4,6 @@
   "aliases": ["Zatanna Zatara"],
   "image": "zatanna.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league", "justice-league-dark"],

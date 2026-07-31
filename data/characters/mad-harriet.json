@@ -4,7 +4,6 @@
   "aliases": ["Fúria Feminina"],
   "image": "mad-harriet.webp",
   "attributes": {
-    "race": "new-god",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

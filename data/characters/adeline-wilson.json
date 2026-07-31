@@ -4,7 +4,6 @@
   "aliases": ["Adeline Kane"],
   "image": "adeline-wilson.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "antihero",
     "groups": ["searchers-inc"],

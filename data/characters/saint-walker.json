@@ -4,7 +4,6 @@
   "aliases": ["Bro'Dee Walker"],
   "image": "saint-walker.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

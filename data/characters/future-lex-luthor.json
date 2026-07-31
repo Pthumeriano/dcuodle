@@ -4,7 +4,6 @@
   "aliases": ["Lex Luthor (Futuro)"],
   "image": "future-lex-luthor.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent", "elseworld"],

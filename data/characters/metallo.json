@@ -4,7 +4,6 @@
   "aliases": ["John Corben"],
   "image": "metallo.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["suicide-squad"],

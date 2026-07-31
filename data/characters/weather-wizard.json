@@ -4,7 +4,6 @@
   "aliases": ["Mark Mardon"],
   "image": "weather-wizard.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

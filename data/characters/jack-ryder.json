@@ -4,7 +4,6 @@
   "aliases": ["The Creeper"],
   "image": "jack-ryder.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

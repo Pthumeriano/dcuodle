@@ -4,7 +4,6 @@
   "aliases": ["Barry Allen", "Scarlet Speedster"],
   "image": "the-flash.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

@@ -4,7 +4,6 @@
   "aliases": ["Senhor do Inferno"],
   "image": "neron.webp",
   "attributes": {
-    "race": "demon",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

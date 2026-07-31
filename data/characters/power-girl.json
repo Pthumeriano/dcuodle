@@ -4,7 +4,6 @@
   "aliases": ["Kara Zor-L", "Karen Starr"],
   "image": "power-girl.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

@@ -4,7 +4,6 @@
   "aliases": ["Bruce Wayne"],
   "image": "batman-steampowered.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["elseworld"],

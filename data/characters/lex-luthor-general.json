@@ -4,7 +4,6 @@
   "aliases": ["Alexander Luthor"],
   "image": "lex-luthor-general.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["elseworld"],

@@ -4,7 +4,6 @@
   "aliases": ["Sentinel"],
   "image": "alan-scott.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["jsa"],

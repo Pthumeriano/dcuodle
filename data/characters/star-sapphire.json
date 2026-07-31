@@ -4,7 +4,6 @@
   "aliases": ["Carol Ferris"],
   "image": "star-sapphire.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "antihero",
     "groups": ["independent"],

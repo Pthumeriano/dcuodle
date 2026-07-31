@@ -4,7 +4,6 @@
   "aliases": ["Alpheus"],
   "image": "world-forger.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Umbrax the Ultraviolet", "Entidade do Espectro Invisível"],
   "image": "umbrax.webp",
   "attributes": {
-    "race": "emotional-entity",
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["ultraviolet-lantern-corps"],

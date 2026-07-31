@@ -4,7 +4,6 @@
   "aliases": ["Rainha Mera"],
   "image": "mera.webp",
   "attributes": {
-    "race": "atlantean",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

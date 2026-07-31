@@ -4,7 +4,6 @@
   "aliases": ["Núbia"],
   "image": "nubia.webp",
   "attributes": {
-    "race": "amazon",
     "gender": "female",
     "morality": "hero",
     "groups": ["independent"],

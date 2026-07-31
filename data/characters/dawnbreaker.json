@@ -4,7 +4,6 @@
   "aliases": ["Bruce Wayne (Terra-32)"],
   "image": "dawnbreaker.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["dark-knights"],

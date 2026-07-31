@@ -4,7 +4,6 @@
   "aliases": ["Green Lantern"],
   "image": "john-stewart.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

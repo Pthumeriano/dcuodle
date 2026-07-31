@@ -4,7 +4,6 @@
   "aliases": ["Entidade da Vontade"],
   "image": "ion.webp",
   "attributes": {
-    "race": "emotional-entity",
     "gender": "non-binary",
     "morality": "hero",
     "groups": ["green-lantern-corps"],

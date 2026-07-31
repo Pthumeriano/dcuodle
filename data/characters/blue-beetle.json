@@ -4,7 +4,6 @@
   "aliases": ["Jaime Reyes"],
   "image": "blue-beetle.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "hero",
     "groups": ["teen-titans"],

@@ -4,7 +4,6 @@
   "aliases": ["Cassie Sandsmark"],
   "image": "wonder-girl.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "hero",
     "groups": ["teen-titans"],

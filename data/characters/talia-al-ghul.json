@@ -4,7 +4,6 @@
   "aliases": ["Talia"],
   "image": "talia-al-ghul.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "antihero",
     "groups": ["independent"],

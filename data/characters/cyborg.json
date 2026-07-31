@@ -4,7 +4,6 @@
   "aliases": ["Victor Stone"],
   "image": "cyborg.webp",
   "attributes": {
-    "race": "cyborg",
     "gender": "male",
     "morality": "hero",
     "groups": ["teen-titans", "justice-league"],

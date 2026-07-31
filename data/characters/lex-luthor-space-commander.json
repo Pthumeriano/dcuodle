@@ -4,7 +4,6 @@
   "aliases": ["Alexander Luthor"],
   "image": "lex-luthor-space-commander.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["elseworld"],

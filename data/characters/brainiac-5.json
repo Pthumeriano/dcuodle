@@ -4,7 +4,6 @@
   "aliases": ["Querl Dox"],
   "image": "brainiac-5.webp",
   "attributes": {
-    "race": "coluan",
     "gender": "male",
     "morality": "hero",
     "groups": ["legion"],

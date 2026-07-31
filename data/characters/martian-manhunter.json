@@ -4,7 +4,6 @@
   "aliases": ["J'onn J'onzz", "John Jones"],
   "image": "martian-manhunter.webp",
   "attributes": {
-    "race": "martian",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],

@@ -4,7 +4,6 @@
   "aliases": ["Teth-Adam"],
   "image": "black-adam.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

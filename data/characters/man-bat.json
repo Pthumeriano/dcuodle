@@ -4,7 +4,6 @@
   "aliases": ["Kirk Langstrom"],
   "image": "man-bat.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

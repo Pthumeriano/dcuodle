@@ -4,7 +4,6 @@
   "aliases": ["Kara Zor-El", "Kara Danvers"],
   "image": "supergirl.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "female",
     "morality": "hero",
     "groups": ["justice-league"],

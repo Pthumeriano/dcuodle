@@ -4,7 +4,6 @@
   "aliases": ["Pai dos Monstros"],
   "image": "typhon.webp",
   "attributes": {
-    "race": "olympian",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

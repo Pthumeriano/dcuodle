@@ -4,7 +4,6 @@
   "aliases": ["Slade Wilson", "The Terminator"],
   "image": "deathstroke.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent", "suicide-squad"],

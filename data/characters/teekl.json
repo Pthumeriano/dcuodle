@@ -4,7 +4,6 @@
   "aliases": ["Familiar de Klarion"],
   "image": "teekl.webp",
   "attributes": {
-    "race": "animal",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

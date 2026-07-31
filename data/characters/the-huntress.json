@@ -4,7 +4,6 @@
   "aliases": ["Helena Bertinelli"],
   "image": "the-huntress.webp",
   "attributes": {
-    "race": "human",
     "gender": "female",
     "morality": "antihero",
     "groups": ["independent"],

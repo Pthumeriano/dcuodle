@@ -4,7 +4,6 @@
   "aliases": ["Rainha do Olimpo"],
   "image": "hera.webp",
   "attributes": {
-    "race": "olympian",
     "gender": "female",
     "morality": "antihero",
     "groups": ["independent"],

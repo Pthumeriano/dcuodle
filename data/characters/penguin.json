@@ -4,7 +4,6 @@
   "aliases": ["Oswald Cobblepot"],
   "image": "penguin.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

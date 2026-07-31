@@ -4,7 +4,6 @@
   "aliases": ["Garth Ranzz"],
   "image": "lightning-lad.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "hero",
     "groups": ["legion"],

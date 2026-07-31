@@ -50,7 +50,6 @@ dia:
 | Atributo      | Cardinalidade | Feedback                                     |
 | ------------- | ------------- | -------------------------------------------- |
 | `gender`      | único         | ✅ acerto / ❌ erro                           |
-| `race`        | único         | ✅ / ❌                                       |
 | `morality`    | único         | ✅ / ❌                                       |
 | `groups`      | lista         | ✅ igual / 🟡 interseção não vazia / ❌ nenhuma |
 | `occupations` | lista         | ✅ igual / 🟡 interseção não vazia / ❌ nenhuma |

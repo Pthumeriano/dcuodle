@@ -2,7 +2,7 @@ import { Controller } from "@hotwired/stimulus"
 import { compare } from "game/compare"
 import confetti from "canvas-confetti"
 
-const ATTRS = ["gender", "race", "morality", "groups", "occupations", "powers", "antagonists"]
+const ATTRS = ["gender", "morality", "groups", "occupations", "powers", "antagonists"]
 const HINTS = [[3, "habitation", "Habitação"], [5, "description", "Descrição"], [7, "palette", "Paleta"]]
 
 export default class extends Controller {

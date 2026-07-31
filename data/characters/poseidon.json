@@ -4,7 +4,6 @@
   "aliases": ["Deus dos Mares"],
   "image": "poseidon.webp",
   "attributes": {
-    "race": "olympian",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

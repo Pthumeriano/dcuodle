@@ -4,7 +4,6 @@
   "aliases": ["Mobius"],
   "image": "anti-monitor.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

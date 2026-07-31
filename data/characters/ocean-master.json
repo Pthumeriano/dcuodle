@@ -4,7 +4,6 @@
   "aliases": ["Orm Marius"],
   "image": "ocean-master.webp",
   "attributes": {
-    "race": "atlantean",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

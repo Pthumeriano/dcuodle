@@ -4,7 +4,6 @@
   "aliases": ["Sargento Kilowog"],
   "image": "kilowog.webp",
   "attributes": {
-    "race": "bolovaxian",
     "gender": "male",
     "morality": "hero",
     "groups": ["independent"],

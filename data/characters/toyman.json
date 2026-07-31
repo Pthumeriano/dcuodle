@@ -4,7 +4,6 @@
   "aliases": ["Winslow Schott"],
   "image": "toyman.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

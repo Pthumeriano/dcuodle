@@ -4,7 +4,6 @@
   "aliases": ["Victor Stone"],
   "image": "cyborg-flashpoint.webp",
   "attributes": {
-    "race": "cyborg",
     "gender": "male",
     "morality": "hero",
     "groups": ["flashpoint"],

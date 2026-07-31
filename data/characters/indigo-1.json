@@ -4,7 +4,6 @@
   "aliases": ["Iroque"],
   "image": "indigo-1.webp",
   "attributes": {
-    "race": "alien",
     "gender": "female",
     "morality": "hero",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Deusa da Feitiçaria"],
   "image": "hecate.webp",
   "attributes": {
-    "race": "olympian",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

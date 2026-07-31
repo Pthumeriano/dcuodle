@@ -4,7 +4,6 @@
   "aliases": ["Agent Orange"],
   "image": "larfleeze.webp",
   "attributes": {
-    "race": "alien",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

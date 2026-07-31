@@ -4,7 +4,6 @@
   "aliases": ["Lara Lor-Van"],
   "image": "lara.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "female",
     "morality": "hero",
     "groups": ["independent"],

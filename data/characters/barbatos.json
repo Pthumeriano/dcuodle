@@ -4,7 +4,6 @@
   "aliases": ["Deus-Morcego"],
   "image": "barbatos.webp",
   "attributes": {
-    "race": "demon",
     "gender": "male",
     "morality": "villain",
     "groups": ["dark-knights"],

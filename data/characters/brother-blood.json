@@ -4,7 +4,6 @@
   "aliases": ["Sebastian Blood"],
   "image": "brother-blood.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Filha de Darkseid"],
   "image": "grail.webp",
   "attributes": {
-    "race": "amazon",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

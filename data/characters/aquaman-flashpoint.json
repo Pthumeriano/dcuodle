@@ -4,7 +4,6 @@
   "aliases": ["Imperador Aquaman"],
   "image": "aquaman-flashpoint.webp",
   "attributes": {
-    "race": "atlantean",
     "gender": "male",
     "morality": "villain",
     "groups": ["flashpoint"],

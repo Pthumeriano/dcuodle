@@ -4,7 +4,6 @@
   "aliases": ["Ladra de Berços"],
   "image": "kryb.webp",
   "attributes": {
-    "race": "alien",
     "gender": "female",
     "morality": "villain",
     "groups": ["independent"],

@@ -4,7 +4,6 @@
   "aliases": ["Kara Zor-El"],
   "image": "supergirl-bombshell.webp",
   "attributes": {
-    "race": "kryptonian",
     "gender": "female",
     "morality": "hero",
     "groups": ["bombshell"],

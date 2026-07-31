@@ -4,7 +4,6 @@
   "aliases": ["Wade"],
   "image": "red-tool.webp",
   "attributes": {
-    "race": "human",
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],

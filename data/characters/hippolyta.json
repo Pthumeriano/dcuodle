@@ -4,7 +4,6 @@
   "aliases": ["Queen Hippolyta"],
   "image": "hippolyta.webp",
   "attributes": {
-    "race": "amazon",
     "gender": "female",
     "morality": "antihero",
     "groups": ["independent"],
