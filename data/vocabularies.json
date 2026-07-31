@@ -1,5 +1,5 @@
 {
-  "race": ["human", "kryptonian", "amazon", "atlantean", "czarnian", "cambion", "coluan", "martian", "undead", "thanagarian", "korugaran", "olympian", "new-god", "spirit", "animal", "ungaran", "bolovaxian", "tamaranean", "machine", "alien", "demon", "elemental", "planet", "venegarian"],
+  "race": ["human", "kryptonian", "amazon", "atlantean", "czarnian", "cambion", "coluan", "martian", "undead", "thanagarian", "korugaran", "olympian", "new-god", "spirit", "animal", "ungaran", "bolovaxian", "tamaranean", "machine", "alien", "demon", "elemental", "planet", "venegarian", "emotional-entity"],
   "gender": ["male", "female", "non-binary"],
   "morality": ["hero", "antihero", "villain"],
   "groups": [
@@ -22,7 +22,8 @@
     "green-lantern-corps",
     "sinestro-corps",
     "fatal-five",
-    "rogues"
+    "rogues",
+    "ultraviolet-lantern-corps"
   ],
   "occupations": [
     "vigilante",
@@ -129,6 +130,7 @@
     "kyle-rayner",
     "cosmic-boy",
     "saturn-girl",
-    "lightning-lad"
+    "lightning-lad",
+    "parallax"
   ]
 }

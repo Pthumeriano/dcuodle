@@ -2,14 +2,14 @@
   "id": "409-conflict",
   "name": "409 Conflict",
   "aliases": ["Conflito", "Helder"],
-  "image": "conflict.webp",
+  "image": "409-conflict.webp",
   "attributes": {
     "race": "czarnian",
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league", "noctem"],
     "occupations": ["vigilante"],
-    "powers": ["super-strength", "earth", "water", "fire"],
+    "powers": ["super-strength", "rage", "water", "fire"],
     "antagonists": ["evil-mepps","matt-super", "neron"]
   },
   "hints": {

@@ -19,7 +19,10 @@ episódio em episódio. Este arquivo é o checklist de progresso.
   em lore, coleção, briefing, estilo de visual ou item de base **não conta** — foi por isso
   que abin-sur, ganthet, highfather, queen-agapo, belial e alfred saíram do catálogo.
   Também ficam de fora quem só existe na HQ *DCUO Legends* (tomar-re) e entradas genéricas
-  que duplicam personagem existente (emotional-entity, black-lantern, zoom).
+  que duplicam personagem existente (black-lantern, zoom).
+- **Nada de entrada guarda-chuva:** a antiga `emotional-entity` cobria cinco entidades num
+  registro só. Foi substituída pelas individuais que de fato aparecem (`ion`, `umbrax`, além
+  de `parallax` e `predator`) — e virou o valor de `race` que une as quatro.
 - **Variantes** (Bombshell, JSA, Flashpoint, Future…) entram como personagens próprios
   **quando aparecem** num episódio. Nome no formato `Base (Variante)` (ex.: `Wonder Woman
   (Bombshell)`), id `base-variante` (`wonder-woman-bombshell`). Cada família de variante é
@@ -31,7 +34,7 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 
 `[ ]` pendente · `[~] ` em progresso · `[x]` completo
 
-## Já no catálogo (270)
+## Já no catálogo (269)
 
 - **16 originais curados** (seed inicial, feitos à mão): batman, superman, wonder-woman,
   aquaman, the-flash, green-lantern, cyborg, green-arrow, zatanna, raven, nightwing,
@@ -207,7 +210,6 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] thomas-wayne
 - [ ] martha-wayne
 - [ ] lara
-- [ ] paradox-destroyer
 - [ ] batman-gcpd
 - [ ] batman-ninja
 - [ ] batman-primal
@@ -255,8 +257,9 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 ### Ep. 12 — War of the Light Part II
 
 - [ ] glomulus
-- [ ] parallax
-- [ ] predator
+- [ ] parallax *(revisão: race → emotional-entity)*
+- [ ] predator *(revisão: race → emotional-entity)*
+- [x] ion *(vocabulário: race +emotional-entity, antagonists +parallax)*
 
 ### Ep. 13 — Amazon Fury Part II
 
@@ -403,7 +406,6 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] athena
 - [ ] poseidon
 - [ ] wonder-woman-comrade
-- [ ] wonder-woman-queen
 
 ### Ep. 39 — Long Live the Legion
 
@@ -437,10 +439,10 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] world-forger
 - [ ] perpetua
 - [ ] monitor *(revisão: antagonists → anti-monitor)*
+- [x] umbrax *(vocabulário: groups +ultraviolet-lantern-corps)*
 
 ### Ep. 43 — Dark Knights
 
-- [ ] darkfather
 - [ ] devastator
 
 ### Ep. 44 — The Sins of Black Adam
@@ -521,7 +523,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
   Solomon Grundy, Spectre, Eclipso já no catálogo)*.
 - [x] 6. Home Turf (2013) — t-o-morrow *(DLC de Bases/Lairs; Steel já no catálogo)*.
 - [x] 7. Origin Crisis (2013) — red-tornado, joe-chill, thomas-wayne, martha-wayne, lara,
-  paradox-destroyer, + variantes de realidade alternativa do raid Nexus of Reality:
+  + variantes de realidade alternativa do raid Nexus of Reality:
   batman-gcpd, batman-ninja, batman-primal, batman-steampowered, lex-luthor-cybernetic,
   lex-luthor-professor, lex-luthor-general, lex-luthor-space-commander *(grupo `elseworld`;
   Bizarro, Huntress já no catálogo. Future Batman/Lex já existiam — retag +elseworld pra
@@ -535,8 +537,11 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
   Hades entra nos Parts II/III)*.
 - [x] 11. Halls of Power Part I (2014) — mantis, mister-miracle, big-barda *(Kalibak,
   Steppenwolf já no catálogo; Darkseid pendente — não aparece direto aqui)*.
-- [x] 12. War of the Light Part II (2014) — glomulus, parallax, predator *(Star Sapphire,
-  Larfleeze já no catálogo; Krona creditado ao Ep 1)*.
+- [x] 12. War of the Light Part II (2014) — glomulus, parallax, predator, ion *(as entidades
+  emocionais entram uma a uma, nunca como entrada genérica. Só Ion, Parallax e Predator têm
+  presença visual; Ophidian, Adara e Proselyte só existem como nome de equipamento, e o
+  Butcher só tem ícone de briefing. Star Sapphire e Larfleeze já no catálogo; Krona
+  creditado ao Ep 1)*.
 - [x] 13. Amazon Fury Part II (2015) — hades, cerberus *(Ares, Wonder Woman, Circe,
   Hippolyta já no catálogo; Hydra/Minotauro são genéricos)*.
 - [x] 14. Halls of Power Part II (2015) — darkseid, orion, granny-goodness,
@@ -651,12 +656,13 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
   Ivy, Catwoman, Huntress, Superman, Supergirl, Steve Trevor, Lex Luthor, Lois Lane, Jimmy
   Olsen já no catálogo. Oracle = Barbara Gordon = a `batgirl` do catálogo (mesma pessoa, não
   duplica). HIVE Master e os bots são NPCs)*.
-- [x] 38. Wonderverse (2020) — nubia, grail, zeus, hera, athena, poseidon, +variantes Diana:
-  wonder-woman-comrade, wonder-woman-queen *(o panteão grego e as Amazonas. Wonder Woman,
-  Steve Trevor, Ares, Hades, Darkseid, Kalibak, Murk, Orion, Steppenwolf já no catálogo.
-  Bombshell Diana = a `wonder-woman-bombshell` já existente; Comrade/Queen Diana entram como
-  variantes `elseworld` (soviética/monárquica). Ferdinand o Kythotaur e os supply bots são
-  NPCs)*.
+- [x] 38. Wonderverse (2020) — nubia, grail, zeus, hera, athena, poseidon, +variante Diana:
+  wonder-woman-comrade *(o panteão grego e as Amazonas. Wonder Woman, Steve Trevor, Ares,
+  Hades, Darkseid, Kalibak, Murk, Orion, Steppenwolf já no catálogo. Bombshell Diana = a
+  `wonder-woman-bombshell` já existente; Comrade Diana entra como variante `elseworld`
+  (soviética). A Queen Diana daqui é a **mesma** da `wonder-woman-flashpoint` — foram
+  fundidas num registro só, e a arte da Queen ficou com ele. Ferdinand o Kythotaur e os
+  supply bots são NPCs)*.
 - [x] 39. Long Live the Legion (2020) — brainiac-5, cosmic-boy, lightning-lad, saturn-girl,
   static, emerald-empress *(a Legião dos Super-Heróis do século 31, no grupo novo `legion`
   (Static fica em teen-titans, sua afiliação real). Supergirl, Raven, Cyborg, Starfire, Beast
@@ -675,15 +681,18 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
   como antagonista do major-force mas faltava o personagem — agora recíproco (+major-force no
   vocabulário de antagonists). Tempus Fuginaut é vendor)*.
 - [x] 42. Legion of Doom (2021) — miss-martian, anti-monitor, mister-mxyzptlk, murder-machine,
-  world-forger, perpetua *(temas Crise/Death Metal. Martian Manhunter, Cyborg, John Stewart,
+  world-forger, perpetua, umbrax *(temas Crise/Death Metal. Umbrax é a entidade do espectro
+  invisível: chefe do duo Doom: Umbrax the Ultraviolet e visível no céu de Doomed Washington
+  (+grupo ultraviolet-lantern-corps). Martian Manhunter, Cyborg, John Stewart,
   Lois Lane, Phantom Stranger, Sinestro, Black Manta, Cheetah, Gorilla Grodd, Monitor, Batman
   Who Laughs já no catálogo. Murder Machine é mais um Cavaleiro das Trevas (grupo dark-knights).
   Rivalidade Monitor↔Anti-Monitor virou recíproca (+monitor, +anti-monitor no vocabulário de
   antagonists). Reskins do Sixth Dimension (Superman/Warden Lois), Alpha Lex, Source Giganta e
   Lady Blackhawk Thanagar ficaram de fora)*.
-- [x] 43. Dark Knights (2022) — darkfather, devastator *(finale de Death Metal. Fecha o time
-  dos Cavaleiros das Trevas: Darkfather (Batman+Darkseid) e Devastator (Batman+Doomsday), grupo
-  dark-knights. Todo o resto (Red Death, Merciless, Drowned, Dawnbreaker, Murder Machine,
+- [x] 43. Dark Knights (2022) — devastator *(finale de Death Metal. Devastator
+  (Batman+Doomsday), grupo dark-knights. O Darkfather (Batman+Darkseid) chegou a entrar mas
+  foi removido: é chefe do alerta New Apokolips, só que a wiki não tem render dele.
+  Todo o resto (Red Death, Merciless, Drowned, Dawnbreaker, Murder Machine,
   Barbatos, o Sindicato, Perpetua, Grail, Brimstone, etc.) já no catálogo; Batman/WW/Superman
   Death Metal, One Who Laughs e Batmage são reskins/formas)*.
 - [x] 44. The Sins of Black Adam (2022) — isis, the-wizard, mary-marvel, neron, black-alice

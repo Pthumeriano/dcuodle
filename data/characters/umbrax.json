@@ -1,0 +1,20 @@
+{
+  "id": "umbrax",
+  "name": "Umbrax",
+  "aliases": ["Umbrax the Ultraviolet", "Entidade do Espectro Invisível"],
+  "image": "umbrax.webp",
+  "attributes": {
+    "race": "emotional-entity",
+    "gender": "non-binary",
+    "morality": "villain",
+    "groups": ["ultraviolet-lantern-corps"],
+    "occupations": [],
+    "powers": ["hard-light", "shadow"],
+    "antagonists": ["green-lantern"]
+  },
+  "hints": {
+    "habitation": "Washington, D.C.",
+    "description": "Esfera ultravioleta atemporal que se alimenta dos impulsos mais primitivos e enterrados de cada mente. Uma das nove Forças Sombrias do Multiverso, pode ser vista pairando no céu sobre a capital condenada.",
+    "palette": ["#ac58cd", "#331d5a", "#110a22"]
+  }
+}

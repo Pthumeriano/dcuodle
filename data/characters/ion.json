@@ -1,0 +1,20 @@
+{
+  "id": "ion",
+  "name": "Ion",
+  "aliases": ["Entidade da Vontade"],
+  "image": "ion.webp",
+  "attributes": {
+    "race": "emotional-entity",
+    "gender": "non-binary",
+    "morality": "hero",
+    "groups": ["green-lantern-corps"],
+    "occupations": [],
+    "powers": ["hard-light", "flight"],
+    "antagonists": ["parallax"]
+  },
+  "hints": {
+    "habitation": "Oa",
+    "description": "Força primordial nascida da luz verde do espectro emocional, no alvorecer dos tempos. Os Guardiões a mantiveram selada numa bateria por eras, usando sua energia para abastecer os anéis de todo o Corps.",
+    "palette": ["#0a1a0a", "#4d9c39", "#a8cf6e"]
+  }
+}
