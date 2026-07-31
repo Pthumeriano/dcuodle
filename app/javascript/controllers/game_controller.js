@@ -25,11 +25,23 @@ export default class extends Controller {
 
   filter() {
     const typed = this.inputTarget.value.trim().toLowerCase()
-    this.optionsTarget.innerHTML = this.characters
+    // Lista própria em vez de <datalist>: datalist não renderiza imagem.
+    this.optionsTarget.innerHTML = !typed ? "" : this.characters
       .filter((c) => !this.guesses.includes(c.id) && c.name.toLowerCase().includes(typed))
       .slice(0, 7)
-      .map((c) => `<option value="${c.name}">`)
+      .map((c) => `<li data-name="${c.name}">${this.avatar(c)}${c.name}</li>`)
       .join("")
+  }
+
+  pick(event) {
+    const option = event.target.closest("li")
+    if (!option) return
+    this.inputTarget.value = option.dataset.name
+    this.guess(event)
+  }
+
+  avatar(character) {
+    return `<img src="${character.image}" alt="" loading="lazy">`
   }
 
   guess(event) {
@@ -102,7 +114,7 @@ export default class extends Controller {
       const state = compare(value, this.answer.attributes[attr])
       return `<td class="${state}">${[value].flat().join(", ")}</td>`
     })
-    return `<tr><td class="name">${character.name}</td>${cells.join("")}</tr>`
+    return `<tr><td class="avatar">${this.avatar(character)}</td><td class="name">${character.name}</td>${cells.join("")}</tr>`
   }
 
   hint(key) {
