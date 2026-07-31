@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["scientist"],
-    "powers": ["super-speed"],
+    "powers": ["super-speed", "electricity"],
     "antagonists": ["reverse-flash", "captain-cold"]
   },
   "hints": {

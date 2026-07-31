@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["vigilante", "archer", "ceo"],
-    "powers": ["peak-human", "marksmanship"],
+    "powers": ["peak-human", "marksmanship", "gadgets"],
     "antagonists": ["merlyn", "deathstroke"]
   },
   "hints": {

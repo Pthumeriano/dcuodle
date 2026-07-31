@@ -9,7 +9,7 @@
     "morality": "antihero",
     "groups": ["independent", "elseworld"],
     "occupations": ["ceo", "scientist"],
-    "powers": ["genius-intellect", "super-strength"],
+    "powers": ["genius-intellect", "super-strength", "gadgets"],
     "antagonists": ["brainiac"]
   },
   "hints": {

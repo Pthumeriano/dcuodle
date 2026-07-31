@@ -9,7 +9,7 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["scientist"],
-    "powers": ["hard-light"],
+    "powers": ["hard-light", "gadgets"],
     "antagonists": ["raven"]
   },
   "hints": {

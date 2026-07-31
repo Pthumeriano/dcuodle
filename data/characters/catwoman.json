@@ -9,7 +9,7 @@
     "morality": "antihero",
     "groups": ["gotham-city-sirens"],
     "occupations": ["thief", "criminal"],
-    "powers": ["peak-human"],
+    "powers": ["peak-human", "gadgets"],
     "antagonists": ["batman"]
   },
   "hints": {

@@ -9,7 +9,7 @@
     "morality": "villain",
     "groups": ["legion-of-doom"],
     "occupations": ["ceo", "scientist", "criminal"],
-    "powers": ["genius-intellect"],
+    "powers": ["genius-intellect", "gadgets"],
     "antagonists": ["superman"]
   },
   "hints": {

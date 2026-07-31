@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["vigilante", "journalist"],
-    "powers": ["super-strength"],
+    "powers": ["super-strength", "gadgets"],
     "antagonists": ["luzia", "felix-faust"]
   },
   "hints": {

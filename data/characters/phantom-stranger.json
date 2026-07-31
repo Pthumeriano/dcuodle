@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["justice-league-dark"],
     "occupations": ["magician"],
-    "powers": ["magic", "immortality"],
+    "powers": ["immortality", "celestial", "quantum"],
     "antagonists": ["felix-faust"]
   },
   "hints": {

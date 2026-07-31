@@ -9,7 +9,7 @@
     "morality": "villain",
     "groups": ["legion-of-doom"],
     "occupations": ["scientist"],
-    "powers": ["telepathy", "super-strength", "genius-intellect"],
+    "powers": ["telepathy", "super-strength", "genius-intellect", "mental"],
     "antagonists": ["the-flash"]
   },
   "hints": {

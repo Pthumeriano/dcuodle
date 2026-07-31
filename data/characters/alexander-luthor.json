@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["scientist", "ceo"],
-    "powers": ["genius-intellect"],
+    "powers": ["genius-intellect", "gadgets"],
     "antagonists": ["ultraman"]
   },
   "hints": {

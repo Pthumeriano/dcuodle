@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["warrior"],
-    "powers": ["genius-intellect", "magic", "immortality"],
+    "powers": ["genius-intellect", "immortality", "sorcery"],
     "antagonists": ["ares"]
   },
   "hints": {

@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["vigilante"],
-    "powers": ["super-strength", "flight", "magic"],
+    "powers": ["super-strength", "flight", "magic", "electricity"],
     "antagonists": ["black-adam"]
   },
   "hints": {

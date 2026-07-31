@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["vigilante"],
-    "powers": ["peak-human"],
+    "powers": ["peak-human", "gadgets"],
     "antagonists": []
   },
   "hints": {

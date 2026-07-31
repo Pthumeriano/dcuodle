@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["scientist", "vigilante"],
-    "powers": ["genius-intellect", "super-strength", "flight"],
+    "powers": ["genius-intellect", "super-strength", "flight", "gadgets"],
     "antagonists": ["metallo"]
   },
   "hints": {

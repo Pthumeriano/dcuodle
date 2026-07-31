@@ -9,7 +9,7 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["royalty", "warrior"],
-    "powers": ["aquatic-adaptation", "super-strength"],
+    "powers": ["aquatic-adaptation", "super-strength", "water"],
     "antagonists": ["aquaman"]
   },
   "hints": {

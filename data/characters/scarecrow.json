@@ -9,7 +9,7 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["psychiatrist", "criminal"],
-    "powers": ["genius-intellect"],
+    "powers": ["genius-intellect", "gadgets"],
     "antagonists": ["batman"]
   },
   "hints": {

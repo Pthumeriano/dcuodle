@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["detective"],
-    "powers": ["telepathy", "flight", "super-strength", "invulnerability"],
+    "powers": ["telepathy", "flight", "super-strength", "invulnerability", "mental"],
     "antagonists": []
   },
   "hints": {

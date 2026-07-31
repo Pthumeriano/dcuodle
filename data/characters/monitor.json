@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["scientist"],
-    "powers": ["celestial", "immortality"],
+    "powers": ["celestial", "immortality", "quantum"],
     "antagonists": ["anti-monitor"]
   },
   "hints": {

@@ -9,12 +9,12 @@
     "morality": "antihero",
     "groups": ["indigo-tribe", "blue-lantern-corps"],
     "occupations": ["criminal"],
-    "powers": ["hard-light"],
-    "antagonists": ["voivode"]
+    "powers": ["mental", "ice", "hard-light", "flight"],
+    "antagonists": ["voivode", "esperanza-cavalera"]
   },
   "hints": {
     "habitation": "Brasil",
-    "description": "-",
-    "palette": ["#3d2b8c", "#6b6f76", "#e8e6f0"]
+    "description": "Brasileira transformada pelos exobytes, ficou viciada em drenar o poder de outros metahumanos até reduzi-los a cinzas. Fechou pacto com um demônio e virou assassina em série de usuários de magia, até ser derrotada e recrutada por uma tribo de lanternas para expiar os próprios crimes.",
+    "palette": ["#4b2828", "#302629", "#813c3a"]
   }
 }

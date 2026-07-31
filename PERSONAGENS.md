@@ -23,6 +23,16 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 - **Nada de entrada guarda-chuva:** a antiga `emotional-entity` cobria cinco entidades num
   registro só. Foi substituída pelas individuais que de fato aparecem (`ion`, `umbrax`, além
   de `parallax` e `predator`) — e virou o valor de `race` que une as quatro.
+- **`powers` segue o campo `power` do infobox.** Uma varredura do catálogo inteiro (jul/2026)
+  cruzou os 269 personagens contra a wiki e corrigiu 94: o bulk tinha ignorado o power set em
+  massa (`batman` sem `gadgets`, `aquaman` sem `water`, `atrocitus` sem `rage`). Três regras
+  que saíram dali:
+  - **`magic` × `sorcery`/`celestial`:** vale o que o infobox diz. `magic` sobrevive só nos
+    14 em que o DCUO não classifica como Sorcery nem Celestial.
+  - **O campo `movement` não vira poder.** Flight/Acrobatics/Super Speed é modo de
+    deslocamento que todo jogador escolhe; `flight` continua sendo decidido por lore.
+  - **`none` é só para quem não tem poder mesmo** (Gordon, Jimmy Olsen, os Wayne, Vicki
+    Vale…). Nunca conviva `none` com um poder real no mesmo array.
 - **Variantes** (Bombshell, JSA, Flashpoint, Future…) entram como personagens próprios
   **quando aparecem** num episódio. Nome no formato `Base (Variante)` (ex.: `Wonder Woman
   (Bombshell)`), id `base-variante` (`wonder-woman-bombshell`). Cada família de variante é
@@ -478,7 +488,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 ### Ep. 49 — Day of Reckoning
 
 - [ ] voivode *(parcial: -noctem, +independent)*
-- [ ] luzia *(parcial: -noctem, +indigo-tribe/blue-lantern-corps)*
+- [x] luzia *(vocabulário: antagonists +esperanza-cavalera)*
 - [ ] esperanza-cavalera
 
 ### Ep. 52 — Hope Burns Bright

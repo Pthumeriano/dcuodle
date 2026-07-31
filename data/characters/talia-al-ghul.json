@@ -9,7 +9,7 @@
     "morality": "antihero",
     "groups": ["independent"],
     "occupations": ["warrior"],
-    "powers": ["peak-human"],
+    "powers": ["peak-human", "gadgets"],
     "antagonists": ["batman"]
   },
   "hints": {

@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["batman-family"],
     "occupations": ["vigilante", "detective"],
-    "powers": ["peak-human", "genius-intellect"],
+    "powers": ["peak-human", "genius-intellect", "gadgets"],
     "antagonists": ["joker"]
   },
   "hints": {

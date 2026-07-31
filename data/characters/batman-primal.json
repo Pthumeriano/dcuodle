@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["elseworld"],
     "occupations": ["warrior"],
-    "powers": ["peak-human"],
+    "powers": ["peak-human", "gadgets"],
     "antagonists": ["joker"]
   },
   "hints": {

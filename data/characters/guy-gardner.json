@@ -9,7 +9,7 @@
     "morality": "antihero",
     "groups": ["independent"],
     "occupations": ["warrior"],
-    "powers": ["hard-light", "flight"],
+    "powers": ["hard-light", "flight", "rage"],
     "antagonists": ["sinestro"]
   },
   "hints": {

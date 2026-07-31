@@ -9,7 +9,7 @@
     "morality": "villain",
     "groups": ["dark-knights"],
     "occupations": ["criminal"],
-    "powers": ["super-speed"],
+    "powers": ["super-speed", "electricity"],
     "antagonists": ["the-flash"]
   },
   "hints": {

@@ -9,7 +9,7 @@
     "morality": "antihero",
     "groups": ["independent"],
     "occupations": ["warrior"],
-    "powers": ["munitions"],
+    "powers": ["munitions", "gadgets"],
     "antagonists": []
   },
   "hints": {

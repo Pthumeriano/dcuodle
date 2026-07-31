@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["justice-league", "batman-family"],
     "occupations": ["vigilante", "detective", "ceo"],
-    "powers": ["peak-human", "genius-intellect"],
+    "powers": ["peak-human", "genius-intellect", "gadgets"],
     "antagonists": ["joker", "penguin", "ras-al-ghul"]
   },
   "hints": {

@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["royalty", "warrior"],
-    "powers": ["super-strength", "aquatic-adaptation", "telepathy"],
+    "powers": ["super-strength", "aquatic-adaptation", "telepathy", "water"],
     "antagonists": ["black-manta", "ocean-master"]
   },
   "hints": {

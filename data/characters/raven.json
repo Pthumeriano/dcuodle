@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["teen-titans", "justice-league-dark"],
     "occupations": ["magician"],
-    "powers": ["magic", "telepathy", "flight"],
+    "powers": ["telepathy", "flight", "celestial", "sorcery"],
     "antagonists": ["brother-blood", "deathstroke"]
   },
   "hints": {

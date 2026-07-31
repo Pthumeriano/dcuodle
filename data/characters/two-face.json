@@ -9,7 +9,7 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["criminal"],
-    "powers": ["none"],
+    "powers": ["gadgets", "munitions"],
     "antagonists": ["batman"]
   },
   "hints": {

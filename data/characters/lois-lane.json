@@ -9,7 +9,7 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["journalist"],
-    "powers": ["none"],
+    "powers": ["munitions"],
     "antagonists": ["lex-luthor", "brainiac"]
   },
   "hints": {
