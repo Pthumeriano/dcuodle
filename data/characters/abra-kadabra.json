@@ -7,14 +7,14 @@
     "race": "human",
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["rogues"],
     "occupations": ["magician", "criminal"],
-    "powers": ["magic"],
+    "powers": ["magic", "gadgets", "flight"],
     "antagonists": ["the-flash"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
-    "palette": ["#6a1b9a", "#c6ff00", "#212121"]
+    "description": "Ilusionista de palco do século 64 que viajou ao passado atrás de uma plateia que ainda se impressionasse. Sua mágica é, na verdade, tecnologia do futuro — e ele virou um dos vilões mais sádicos do velocista escarlate.",
+    "palette": ["#2f2545", "#ddd9d6", "#171716"]
   }
 }

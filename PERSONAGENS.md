@@ -15,6 +15,11 @@ episódio em episódio. Este arquivo é o checklist de progresso.
   primeiro em que for adicionado. Iconics já entram pelo Base Game.
 - **Escopo:** priorizar personagens nomeados (heróis, vilões, NPCs de história, chefes).
   Trash mobs genéricos ficam de fora.
+- **Só quem aparece no jogo:** tem que ser NPC, chefe, jogável ou inimigo. Ser **citado**
+  em lore, coleção, briefing, estilo de visual ou item de base **não conta** — foi por isso
+  que abin-sur, ganthet, highfather, queen-agapo, belial e alfred saíram do catálogo.
+  Também ficam de fora quem só existe na HQ *DCUO Legends* (tomar-re) e entradas genéricas
+  que duplicam personagem existente (emotional-entity, black-lantern, zoom).
 - **Variantes** (Bombshell, JSA, Flashpoint, Future…) entram como personagens próprios
   **quando aparecem** num episódio. Nome no formato `Base (Variante)` (ex.: `Wonder Woman
   (Bombshell)`), id `base-variante` (`wonder-woman-bombshell`). Cada família de variante é
@@ -26,12 +31,12 @@ episódio em episódio. Este arquivo é o checklist de progresso.
 
 `[ ]` pendente · `[~] ` em progresso · `[x]` completo
 
-## Já no catálogo (280)
+## Já no catálogo (270)
 
 - **16 originais curados** (seed inicial, feitos à mão): batman, superman, wonder-woman,
   aquaman, the-flash, green-lantern, cyborg, green-arrow, zatanna, raven, nightwing,
   joker, lex-luthor, harley-quinn, poison-ivy, catwoman.
-- **45 do Base Game** (2 lotes bulk — ver *Revisão de atributos* abaixo).
+- **44 do Base Game** (2 lotes bulk — ver *Revisão de atributos* abaixo).
 - **29 avulsos** (da memória do usuário — bulk, ver *Revisão* abaixo).
 - **Ep. 1-3** (Lanternas, Rogues do Flash, invasão do Brainiac — bulk, ver *Revisão*).
 - **Ep. 49 Day of Reckoning:** voivode, luzia, esperanza-cavalera.
@@ -104,7 +109,6 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] booster-gold
 - [ ] blue-beetle
 - [ ] power-girl
-- [ ] alfred
 - [ ] commissioner-gordon
 - [ ] parasite
 - [ ] livewire
@@ -164,11 +168,8 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] arkillo
 - [ ] mongul
 - [ ] indigo-1
-- [ ] ganthet
-- [x] abin-sur *(vocabulário: groups +green-lantern-corps, antagonists +atrocitus)*
 - [ ] bleez
 - [ ] dex-starr
-- [ ] tomar-re
 
 ### Ep. 2 — Lightning Strikes
 
@@ -180,9 +181,8 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] captain-boomerang
 - [ ] pied-piper
 - [ ] gorilla-grodd
-- [ ] abra-kadabra
+- [x] abra-kadabra *(vocabulário: groups +rogues)*
 - [ ] reverse-flash
-- [ ] zoom
 
 ### Ep. 3 — The Battle for Earth
 
@@ -228,7 +228,6 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] doctor-light
 - [ ] gentleman-ghost
 - [ ] john-constantine
-- [ ] belial
 - [ ] jared-wrath
 - [ ] jesse-envy
 - [ ] jacob-lust
@@ -258,7 +257,6 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] glomulus
 - [ ] parallax
 - [ ] predator
-- [ ] emotional-entity
 
 ### Ep. 13 — Amazon Fury Part II
 
@@ -270,15 +268,12 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 - [ ] darkseid
 - [ ] orion
 - [ ] granny-goodness
-- [ ] highfather
 - [ ] lashina
 - [ ] stompa
 - [ ] mad-harriet
 
 ### Ep. 15 — Bombshells Paradox & Corrupted Zamaron
 
-- [ ] queen-agapo
-- [ ] black-lantern
 - [ ] wonder-woman-bombshell
 - [ ] harley-quinn-bombshell
 - [ ] supergirl-bombshell
@@ -500,8 +495,8 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
   - **Lote 1 (19):** circe, brainiac, bizarro, metallo, bane, doomsday, solomon-grundy,
     penguin, two-face, mr-freeze, scarecrow, riddler, killer-croc, deathstroke,
     martian-manhunter, supergirl, steel, robin, batgirl.
-  - **Lote 2 (26):** hawkman, hawkgirl, black-canary, booster-gold, blue-beetle,
-    power-girl, alfred, commissioner-gordon, parasite, livewire, toyman, giganta,
+  - **Lote 2 (25):** hawkman, hawkgirl, black-canary, booster-gold, blue-beetle,
+    power-girl, commissioner-gordon, parasite, livewire, toyman, giganta,
     killer-frost, clayface, mad-hatter, hush, talia-al-ghul, ras-al-ghul, sinestro,
     star-sapphire, cheetah, ares, black-manta, ocean-master, steppenwolf, kalibak.
   - Nomes ainda mais secundários (Vandal Savage, Gorilla Grodd, Captain Cold, Reverse-Flash,
@@ -512,12 +507,12 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
 ## Episódios
 
 - [x] 1. Fight for the Light (2011) — Lanternas: larfleeze, arkillo, mongul, indigo-1,
-  ganthet, abin-sur, bleez, dex-starr, tomar-re *(sinestro, atrocitus, kilowog, amon-sur,
+  bleez, dex-starr *(sinestro, atrocitus, kilowog, amon-sur,
   saint-walker, os 3 GLs e star-sapphire já vieram avulsos)*. **+krona** (chefe do alerta
   Oan Sciencells).
 - [x] 2. Lightning Strikes (2011) — Rogues do Flash: captain-cold, heat-wave, mirror-master,
   weather-wizard, the-trickster, captain-boomerang, pied-piper, gorilla-grodd, abra-kadabra,
-  reverse-flash, zoom.
+  reverse-flash.
 - [x] 3. The Battle for Earth (2012) — future-batman, future-lex-luthor, avatar-of-magic,
   avatar-of-tech, avatar-of-meta *(Brainiac, Wonder Woman, Circe, Batman já no catálogo)*.
 - [x] 4. The Last Laugh (2012) — **0 novos**: DLC de PvP; os Legends (amon-sur, arkillo,
@@ -532,7 +527,7 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
   Bizarro, Huntress já no catálogo. Future Batman/Lex já existiam — retag +elseworld pra
   família ficar coerente. +grupo elseworld no vocabulário)*.
 - [x] 8. Sons of Trigon (2013) — Fearsome Five (psimon, mammoth, jinx, gizmo, doctor-light),
-  gentleman-ghost, john-constantine, belial, e os 6 Filhos (jared-wrath, jesse-envy,
+  gentleman-ghost, john-constantine, e os 6 Filhos (jared-wrath, jesse-envy,
   jacob-lust, jack-sloth, julius-gluttony, james-greed) *(Trigon, Raven já no catálogo)*.
 - [x] 9. War of the Light Part I (2014) — brother-warth, arisia, mogo, ranx *(quase todo o
   elenco de Lanterna já veio nos Eps 1/avulsos: sinestro, atrocitus, saint-walker, etc.)*.
@@ -540,16 +535,15 @@ conferido. **Todos** os personagens são alvo — inclusive os 16 originais cura
   Hades entra nos Parts II/III)*.
 - [x] 11. Halls of Power Part I (2014) — mantis, mister-miracle, big-barda *(Kalibak,
   Steppenwolf já no catálogo; Darkseid pendente — não aparece direto aqui)*.
-- [x] 12. War of the Light Part II (2014) — glomulus, parallax, predator, emotional-entity
-  *(entidade genérica que cobre Ion/Ophidian/Adara/Proselyte/Butcher; Star Sapphire,
+- [x] 12. War of the Light Part II (2014) — glomulus, parallax, predator *(Star Sapphire,
   Larfleeze já no catálogo; Krona creditado ao Ep 1)*.
 - [x] 13. Amazon Fury Part II (2015) — hades, cerberus *(Ares, Wonder Woman, Circe,
   Hippolyta já no catálogo; Hydra/Minotauro são genéricos)*.
-- [x] 14. Halls of Power Part II (2015) — darkseid, orion, granny-goodness, highfather,
+- [x] 14. Halls of Power Part II (2015) — darkseid, orion, granny-goodness,
   + Fúrias Femininas (lashina, stompa, mad-harriet — estrearam aqui) *(Kalibak,
   Steppenwolf, Mantis, Mister Miracle, Big Barda já no catálogo)*.
-- [x] 15. Bombshells Paradox & Corrupted Zamaron (2015) — queen-agapo, black-lantern
-  (genérico), + variantes Bombshell: wonder-woman-bombshell, harley-quinn-bombshell,
+- [x] 15. Bombshells Paradox & Corrupted Zamaron (2015) — variantes Bombshell:
+  wonder-woman-bombshell, harley-quinn-bombshell,
   supergirl-bombshell, catwoman-bombshell *(The Catwoman = Bombshell Catwoman. Variantes
   entram como personagens próprios desde a decisão de incluí-las — grupo `bombshell`,
   atributos ajustados por lore 1940s. +grupos bombshell/jsa no vocabulário)*.
