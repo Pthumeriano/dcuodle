@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["black-lantern-corps"],
     "occupations": [],
-    "powers": ["black-lantern", "flight"],
-    "antagonists": ["green-lantern-corps", "red-lantern-corps","indigo-tribe", "orange-lantern-corps","star-sapphire-corps", "blue-lantern-corps", "sinestro-corps"]
+    "powers": ["lantern", "black-lantern", "flight"],
+    "antagonists": ["hal-jordan", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Ryut",
-    "description": "-",
+    "description": "Filho de agentes funerários, sempre teve fascínio mórbido por cadáveres. Uma entidade anterior à primeira luz o escolheu como porta-voz: sua mão espalha a morte e reanima os defuntos.",
     "palette": ["#0d0d0d", "#1b5e20", "#424242"]
   }
 }

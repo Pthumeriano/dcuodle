@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "hero",
-    "groups": ["independent"],
+    "groups": ["green-lantern-corps"],
     "occupations": [],
-    "powers": ["will"],
-    "antagonists": []
+    "powers": ["lantern", "will"],
+    "antagonists": ["ranx", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Setor 2261",
-    "description": "-",
+    "description": "Não é uma pessoa, é um planeta inteiro — florestas, oceanos e clima obedecem à sua vontade. Atrai para si os anéis órfãos e serve de quartel-general ao Corps.",
     "palette": ["#1b5e20", "#2e7d32", "#0d47a1"]
   }
 }

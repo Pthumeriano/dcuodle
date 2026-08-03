@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "antihero",
-    "groups": ["independent"],
+    "groups": ["star-sapphire-corps"],
     "occupations": ["ceo"],
-    "powers": ["love", "flight"],
-    "antagonists": ["green-lantern-corps"]
+    "powers": ["lantern", "love", "flight"],
+    "antagonists": ["sinestro", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Coast City",
-    "description": "-",
+    "description": "Executiva de uma empresa aeroespacial, apaixonada pelo próprio piloto de testes. As zamaronianas escolheram seu coração como arma e ela passou anos oscilando entre heroína e vilã.",
     "palette": ["#ad1457", "#e91e63", "#f8bbd0"]
   }
 }

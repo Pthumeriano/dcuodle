@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["sinestro-corps"],
     "occupations": ["criminal", "warrior"],
-    "powers": ["fear", "flight"],
-    "antagonists": ["hal-jordan", "kyle-rayner", "sinestro"]
+    "powers": ["lantern", "fear", "flight"],
+    "antagonists": ["sinestro", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Ranx",

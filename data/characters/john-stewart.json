@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "hero",
-    "groups": ["justice-league"],
+    "groups": ["justice-league", "green-lantern-corps"],
     "occupations": ["warrior"],
-    "powers": ["will", "flight"],
-    "antagonists": ["sinestro"]
+    "powers": ["lantern", "will", "flight"],
+    "antagonists": ["sinestro", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Detroit",
-    "description": "-",
+    "description": "Arquiteto e ex-fuzileiro escolhido como reserva e depois efetivado. Constrói com o anel do jeito que projetava prédios: cada estrutura pensada, nada de improviso.",
     "palette": ["#2e7d32", "#0d0d0d", "#eceff1"]
   }
 }

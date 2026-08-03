@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "hero",
-    "groups": ["independent"],
+    "groups": ["green-lantern-corps"],
     "occupations": ["warrior"],
-    "powers": ["will", "flight"],
-    "antagonists": ["sinestro"]
+    "powers": ["lantern", "will", "flight"],
+    "antagonists": ["sinestro", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Graxos IV",
-    "description": "-",
+    "description": "Herdeira de uma linhagem que serve à luz verde há gerações no seu setor. Assumiu o anel ainda adolescente, quando o tio morreu em serviço, e escondia a identidade sob o disfarce de artista.",
     "palette": ["#2e7d32", "#f9a825", "#212121"]
   }
 }

@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "non-binary",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["sinestro-corps"],
     "occupations": [],
-    "powers": ["fear", "flight"],
-    "antagonists": ["hal-jordan"]
+    "powers": ["lantern", "fear", "flight"],
+    "antagonists": ["ion", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Setor 2814",
-    "description": "-",
+    "description": "Parasita amarelo que se aloja na espinha de quem hospeda e transforma coragem em pânico. Ficou preso na bateria central por eras e derrubou o maior dos lanternas por dentro.",
     "palette": ["#f9a825", "#4a148c", "#212121"]
   }
 }

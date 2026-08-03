@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["star-sapphire-corps"],
     "occupations": [],
-    "powers": ["love", "flight"],
-    "antagonists": []
+    "powers": ["lantern", "love", "flight"],
+    "antagonists": ["parallax", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Zamaron",
-    "description": "-",
+    "description": "Força violeta que encarna a paixão e escolhe hospedeiras entre mulheres de coração partido. Age menos como aliada e mais como uma obsessão que toma conta de quem a carrega.",
     "palette": ["#8e24aa", "#e1bee7", "#4a148c"]
   }
 }

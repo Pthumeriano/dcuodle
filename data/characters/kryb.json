@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["sinestro-corps"],
     "occupations": ["criminal"],
-    "powers": ["fear", "flight"],
-    "antagonists": ["hal-jordan"]
+    "powers": ["lantern", "fear", "flight"],
+    "antagonists": ["hal-jordan", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Qward",
-    "description": "-",
+    "description": "Criatura que assassina lanternas com filhos e sequestra os bebês, carregando-os numa gaiola presa às próprias costas. Acredita sinceramente estar cuidando deles.",
     "palette": ["#f9a825", "#1b5e20", "#1a1a1a"]
   }
 }

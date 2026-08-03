@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["sinestro-corps"],
     "occupations": ["warrior"],
-    "powers": ["fear", "flight"],
-    "antagonists": ["green-lantern-corps", "hal-jordan"]
+    "powers": ["lantern", "fear", "flight"],
+    "antagonists": ["hal-jordan", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Korugar",
-    "description": "-",
+    "description": "Foi o maior lanterna de todos até decidir que ordem pelo terror funcionava melhor que ordem pela vontade. Banido, fundou a corporação rival com anéis alimentados pelo medo.",
     "palette": ["#f9a825", "#4a148c", "#212121"]
   }
 }

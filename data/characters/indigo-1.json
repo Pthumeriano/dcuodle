@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "hero",
-    "groups": ["independent"],
+    "groups": ["indigo-tribe"],
     "occupations": [],
-    "powers": ["compassion", "flight"],
-    "antagonists": []
+    "powers": ["lantern", "compassion", "flight"],
+    "antagonists": ["nekron", "black-lantern-corps"]
   },
   "hints": {
     "habitation": "Nok",
-    "description": "-",
+    "description": "Foi uma assassina cruel até ser capturada e ter um anel da compaixão soldado à mão à força. Hoje lidera a tribo que fala uma língua morta e teleporta pelo universo curando quem encontra.",
     "palette": ["#4a148c", "#283593", "#e8eaf6"]
   }
 }

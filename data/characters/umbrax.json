@@ -1,15 +1,15 @@
 {
   "id": "umbrax",
   "name": "Umbrax",
-  "aliases": ["Umbrax the Ultraviolet", "Entidade do Espectro Invisível"],
+  "aliases": ["Entidade do Espectro Invisível"],
   "image": "umbrax.webp",
   "attributes": {
     "gender": "non-binary",
     "morality": "villain",
     "groups": ["ultraviolet-lantern-corps"],
     "occupations": [],
-    "powers": ["ultraviolet"],
-    "antagonists": ["green-lantern-corps"]
+    "powers": ["lantern", "ultraviolet"],
+    "antagonists": ["john-stewart", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Washington, D.C.",

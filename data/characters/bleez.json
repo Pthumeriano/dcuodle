@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["red-lantern-corps"],
     "occupations": ["warrior"],
-    "powers": ["flight", "rage"],
-    "antagonists": ["hal-jordan"]
+    "powers": ["lantern", "flight", "rage"],
+    "antagonists": ["sinestro", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Ysmault",
-    "description": "-",
+    "description": "Nobre alada sequestrada e torturada pelos lanternas amarelos, que quebraram suas asas por diversão. O anel vermelho a encontrou nesse estado e transformou a dor em vingança.",
     "palette": ["#b71c1c", "#880e4f", "#212121"]
   }
 }

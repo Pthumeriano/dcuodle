@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["orange-lantern-corps"],
     "occupations": [],
-    "powers": ["greed", "flight"],
-    "antagonists": []
+    "powers": ["lantern", "greed", "flight"],
+    "antagonists": ["hal-jordan", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Okaara",
-    "description": "-",
+    "description": "Guardou por milênios, sozinho numa caverna, a bateria da avareza — e não divide com ninguém. Cada construto que fabrica é o fantasma de alguém que ele já matou.",
     "palette": ["#e65100", "#ff6f00", "#212121"]
   }
 }

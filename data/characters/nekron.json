@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["black-lantern-corps"],
     "occupations": [],
-    "powers": ["immortality", "invulnerability", "black-lantern"],
-    "antagonists": ["green-lantern-corps", "red-lantern-corps","indigo-tribe", "orange-lantern-corps","star-sapphire-corps", "blue-lantern-corps", "sinestro-corps"]
+    "powers": ["lantern", "immortality", "invulnerability", "black-lantern"],
+    "antagonists": ["hal-jordan", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Ryut",
-    "description": "-",
+    "description": "Entidade que existia antes da primeira luz e reclama de volta tudo que a vida tomou dela. Comanda os mortos ressuscitados com anéis negros e enxerga a existência como uma anomalia a ser corrigida.",
     "palette": ["#0a0a0a", "#004d40", "#eceff1"]
   }
 }

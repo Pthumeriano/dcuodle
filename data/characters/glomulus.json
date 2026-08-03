@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "non-binary",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["orange-lantern-corps"],
     "occupations": [],
-    "powers": ["greed"],
-    "antagonists": []
+    "powers": ["lantern", "greed"],
+    "antagonists": ["hal-jordan", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Okaara",
-    "description": "-",
+    "description": "Massa laranja fabricada pelo dono da luz da avareza que ganhou vontade própria. Come tudo que encontra pela frente e é tratado como bicho de estimação pelo mestre.",
     "palette": ["#ff6f00", "#ffab00", "#212121"]
   }
 }

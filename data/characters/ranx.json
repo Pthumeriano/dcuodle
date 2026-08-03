@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "non-binary",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["sinestro-corps"],
     "occupations": [],
-    "powers": ["hard-light"],
-    "antagonists": ["green-lantern-corps"]
+    "powers": ["lantern"],
+    "antagonists": ["mogo", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Espaço Antimatéria",
-    "description": "-",
+    "description": "Foi um porto comercial próspero até o Corps verde fechá-lo e condená-lo ao esquecimento. Guardou rancor por eras, cresceu até virar uma lua e se aliou aos amarelos para se vingar.",
     "palette": ["#f9a825", "#4a148c", "#212121"]
   }
 }

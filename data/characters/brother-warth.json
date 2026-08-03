@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "hero",
-    "groups": ["independent"],
+    "groups": ["blue-lantern-corps"],
     "occupations": [],
-    "powers": ["hope", "flight"],
-    "antagonists": []
+    "powers": ["lantern", "hope", "flight"],
+    "antagonists": ["atrocitus", "red-lantern-corps"]
   },
   "hints": {
     "habitation": "Odym",
-    "description": "-",
+    "description": "Monge alienígena de tromba e presas, um dos primeiros dois portadores do anel azul. Prega a esperança pela não-violência, o que não o impede de ser formidável quando um verde está por perto.",
     "palette": ["#1565c0", "#00b0ff", "#e3f2fd"]
   }
 }

@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["sinestro-corps"],
     "occupations": ["warrior"],
-    "powers": ["fear", "flight", "super-strength"],
-    "antagonists": ["hal-jordan"]
+    "powers": ["lantern", "fear", "flight", "super-strength"],
+    "antagonists": ["kilowog", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Qward",
-    "description": "-",
+    "description": "Instrutor brutal que forma os recrutas do anel amarelo a golpes, espelhando o sargento do Corps rival. Teve a língua arrancada por um lanterna vermelho e passou a se comunicar por telepatia.",
     "palette": ["#f9a825", "#4a148c", "#3e2723"]
   }
 }

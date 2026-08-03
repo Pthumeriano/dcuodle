@@ -58,7 +58,9 @@
     "krypton-science-guild",
     "red-lantern-corps",
     "orange-lantern-corps",
-    "star-sapphire-corps"
+    "star-sapphire-corps",
+    "black-lantern-corps",
+    "magents-of-chaos"
   ],
   "occupations": [
     "vigilante",
@@ -96,7 +98,6 @@
     "electricity",
     "fire",
     "gadgets",
-    "hard-light",
     "ice",
     "mental",
     "munitions",
@@ -122,7 +123,8 @@
     "love",
     "will",
     "fear",
-    "ultraviolet"
+    "ultraviolet",
+    "lantern"
   ],
   "antagonists": [
     "batman",
@@ -203,6 +205,14 @@
     "the-top",
     "mirror-master",
     "weather-wizard",
-    "gorilla-grodd"
+    "gorilla-grodd",
+    "kilowog",
+    "arkillo",
+    "ranx",
+    "mogo",
+    "ion",
+    "john-stewart",
+    "black-lantern-corps",
+    "magents-of-chaos"
   ]
 }

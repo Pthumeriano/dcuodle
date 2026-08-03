@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "hero",
-    "groups": ["independent"],
+    "groups": ["green-lantern-corps"],
     "occupations": ["vigilante"],
-    "powers": ["will", "flight"],
-    "antagonists": ["sinestro"]
+    "powers": ["lantern", "will", "flight"],
+    "antagonists": ["sinestro", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Oa",
-    "description": "-",
+    "description": "Artista gráfico desempregado escolhido quase por acaso quando restava um único anel no universo. Sua imaginação de desenhista faz construtos que ninguém mais consegue conceber.",
     "palette": ["#2e7d32", "#00e676", "#212121"]
   }
 }

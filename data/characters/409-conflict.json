@@ -6,9 +6,9 @@
   "attributes": {
     "gender": "male",
     "morality": "hero",
-    "groups": ["justice-league", "noctem", "laughing-hound-pub"],
+    "groups": ["noctem", "laughing-hound-pub"],
     "occupations": ["bounty-hunter"],
-    "powers": ["lobo-mania", "super-strength", "immortality", "rage"],
+    "powers": ["lobo-mania", "super-strength", "immortality", "rage", "lantern"],
     "antagonists": ["evil-mepps", "matt-super", "neron"]
   },
   "hints": {

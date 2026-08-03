@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["red-lantern-corps"],
     "occupations": ["warrior"],
-    "powers": ["rage", "flight"],
-    "antagonists": ["green-lantern-corps"]
+    "powers": ["lantern", "rage", "flight"],
+    "antagonists": ["arkillo", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Ysmault",
-    "description": "-",
+    "description": "Foi torturado até a loucura pelos lanternas amarelos antes de o anel vermelho o encontrar. Restou tão pouca sanidade que nem os outros da própria corporação conseguem controlá-lo.",
     "palette": ["#b71c1c", "#1a1a1a", "#7b241c"]
   }
 }

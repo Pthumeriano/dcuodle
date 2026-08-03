@@ -8,8 +8,8 @@
     "morality": "hero",
     "groups": ["green-lantern-corps"],
     "occupations": [],
-    "powers": ["will", "flight"],
-    "antagonists": ["parallax"]
+    "powers": ["lantern", "will", "flight"],
+    "antagonists": ["parallax", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Oa",

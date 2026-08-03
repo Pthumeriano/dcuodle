@@ -8,12 +8,12 @@
     "morality": "hero",
     "groups": ["jsa"],
     "occupations": ["ceo"],
-    "powers": ["will", "flight"],
-    "antagonists": ["solomon-grundy"]
+    "powers": ["lantern", "will", "flight"],
+    "antagonists": ["solomon-grundy", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Engenheiro ferroviário que sobreviveu a um desastre de trem e forjou um anel a partir dos destroços de uma lanterna mística. Foi o primeiro da Terra a empunhar a luz verde, décadas antes de existir um Corps.",
     "palette": ["#1b5e20", "#c62828", "#6a1b9a"]
   }
 }

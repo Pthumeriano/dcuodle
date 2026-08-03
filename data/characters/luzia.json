@@ -8,12 +8,12 @@
     "morality": "antihero",
     "groups": ["indigo-tribe", "blue-lantern-corps"],
     "occupations": ["criminal"],
-    "powers": ["flight", "hope"],
-    "antagonists": ["nekron", "black-hand"]
+    "powers": ["lantern", "flight", "hope"],
+    "antagonists": ["nekron", "black-lantern-corps"]
   },
   "hints": {
-    "habitation": "-",
-    "description": "-",
+    "habitation": "Brasil",
+    "description": "Brasileira transformada pelos exobytes, ficou viciada em drenar o poder de outros metahumanos até reduzi-los a cinzas. Fechou pacto com um demônio e virou assassina em série de usuários de magia, até ser derrotada e recrutada por uma tribo de lanternas para expiar os próprios crimes.",
     "palette": ["#4b2828", "#302629", "#813c3a"]
   }
 }

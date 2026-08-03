@@ -8,12 +8,12 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["vigilante"],
-    "powers": ["flight", "hard-light"],
+    "powers": ["flight", "lantern"],
     "antagonists": []
   },
   "hints": {
     "habitation": "Dakota",
-    "description": "-",
+    "description": "Adolescente de Dakota que assaltou a casa de um alienígena e, em vez de ser entregue à polícia, virou parceira dele. O cinto de inércia dá voo e campos de força — a coragem é dela.",
     "palette": ["#4a148c", "#c2185b", "#f9a825"]
   }
 }

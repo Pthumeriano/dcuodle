@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "antihero",
-    "groups": ["independent"],
+    "groups": ["green-lantern-corps"],
     "occupations": ["warrior"],
-    "powers": ["will", "flight", "rage"],
-    "antagonists": ["sinestro"]
+    "powers": ["lantern", "will", "flight", "rage"],
+    "antagonists": ["sinestro", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Baltimore",
-    "description": "-",
+    "description": "Ex-professor grosseiro e brigão, o terceiro humano escolhido pelo anel verde. Já empunhou o anel vermelho da fúria também, o que diz bastante sobre o temperamento dele.",
     "palette": ["#2e7d32", "#b71c1c", "#5d4037"]
   }
 }

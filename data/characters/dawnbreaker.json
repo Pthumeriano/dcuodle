@@ -8,12 +8,12 @@
     "morality": "villain",
     "groups": ["dark-knights"],
     "occupations": ["criminal"],
-    "powers": ["will", "genius-intellect", "peak-human"],
-    "antagonists": ["green-lantern-corps"]
+    "powers": ["lantern", "will", "genius-intellect", "peak-human"],
+    "antagonists": ["hal-jordan", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Multiverso Sombrio",
-    "description": "-",
+    "description": "Numa Terra do Multiverso Sombrio, o menino do beco recebeu o anel de vontade — e o usou para matar o assassino dos pais na hora. O anel se corrompeu junto com ele.",
     "palette": ["#1a1a1a", "#1b5e20", "#00c853"]
   }
 }

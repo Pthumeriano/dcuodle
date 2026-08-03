@@ -8,12 +8,12 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["scientist"],
-    "powers": ["genius-intellect", "hard-light"],
+    "powers": ["genius-intellect", "lantern"],
     "antagonists": ["hal-jordan"]
   },
   "hints": {
     "habitation": "Maltus",
-    "description": "-",
+    "description": "Cientista imortal que quis ver o início do universo e, ao olhar, criou o multiverso e o mal junto. Exilado pelos seus, passou eras caçando as entidades do espectro emocional para enjaulá-las.",
     "palette": ["#1a237e", "#5d4037", "#eceff1"]
   }
 }

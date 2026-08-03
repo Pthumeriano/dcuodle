@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["sinestro-corps"],
     "occupations": [],
-    "powers": ["fear", "flight"],
-    "antagonists": ["hal-jordan"]
+    "powers": ["lantern", "fear", "flight"],
+    "antagonists": ["hal-jordan", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Qward",
-    "description": "-",
+    "description": "Bibliotecária do medo: registra num livro vivo o terror de cada vítima e aprisiona os condenados dentro das próprias páginas. Conhece o segredo de todo mundo no Corps amarelo.",
     "palette": ["#f9a825", "#212121", "#4a148c"]
   }
 }

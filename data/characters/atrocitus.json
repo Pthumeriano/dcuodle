@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["red-lantern-corps"],
     "occupations": ["warrior"],
-    "powers": ["flight", "super-strength", "rage"],
-    "antagonists": ["hal-jordan"]
+    "powers": ["lantern", "flight", "super-strength", "rage"],
+    "antagonists": ["sinestro", "green-lantern-corps"]
   },
   "hints": {
     "habitation": "Ysmault",
-    "description": "-",
+    "description": "Único sobrevivente do massacre que os Caçadores robôs cometeram no seu setor. Transformou o luto em ódio puro, forjou uma bateria com o próprio sangue e fundou a corporação da fúria.",
     "palette": ["#b71c1c", "#0d0d0d", "#212121"]
   }
 }
