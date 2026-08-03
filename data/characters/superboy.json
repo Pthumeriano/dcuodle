@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["teen-titans"],
     "occupations": ["vigilante"],
-    "powers": ["flight", "super-strength", "invulnerability"],
+    "powers": ["super-strength", "flight", "invulnerability", "heat-vision"],
     "antagonists": ["lex-luthor"]
   },
   "hints": {

@@ -6,10 +6,10 @@
   "attributes": {
     "gender": "female",
     "morality": "hero",
-    "groups": ["independent"],
+    "groups": ["laughing-hound-pub"],
     "occupations": ["vigilante", "journalist"],
-    "powers": ["super-strength", "gadgets"],
-    "antagonists": ["luzia", "felix-faust"]
+    "powers": ["gadgets"],
+    "antagonists": ["neron", "felix-faust"]
   },
   "hints": {
     "habitation": "Kaznia City",

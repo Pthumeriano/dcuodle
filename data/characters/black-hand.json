@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": [],
-    "powers": ["hard-light", "flight", "sorcery"],
-    "antagonists": ["green-lantern", "sinestro"]
+    "powers": ["black-lantern", "flight"],
+    "antagonists": ["green-lantern-corps", "red-lantern-corps","indigo-tribe", "orange-lantern-corps","star-sapphire-corps", "blue-lantern-corps", "sinestro-corps"]
   },
   "hints": {
     "habitation": "Ryut",

@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["scientist"],
-    "powers": ["genius-intellect", "immortality", "hard-light"],
-    "antagonists": ["green-lantern"]
+    "powers": ["genius-intellect", "hard-light"],
+    "antagonists": ["hal-jordan"]
   },
   "hints": {
     "habitation": "Maltus",

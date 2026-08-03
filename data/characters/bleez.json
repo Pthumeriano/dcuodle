@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["warrior"],
-    "powers": ["hard-light", "flight", "rage"],
-    "antagonists": ["green-lantern"]
+    "powers": ["flight", "rage"],
+    "antagonists": ["hal-jordan"]
   },
   "hints": {
     "habitation": "Ysmault",

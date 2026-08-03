@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["justice-league-dark"],
     "occupations": ["magician"],
-    "powers": ["flight", "immortality", "sorcery", "celestial"],
+    "powers": ["flight", "immortality", "celestial"],
     "antagonists": []
   },
   "hints": {

@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["dark-knights"],
     "occupations": ["criminal"],
-    "powers": ["hard-light"],
-    "antagonists": ["green-lantern"]
+    "powers": ["will", "genius-intellect", "peak-human"],
+    "antagonists": ["green-lantern-corps"]
   },
   "hints": {
     "habitation": "Multiverso Sombrio",

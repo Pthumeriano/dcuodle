@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["bombshell"],
     "occupations": ["warrior", "royalty"],
-    "powers": ["super-strength", "flight", "immortality"],
+    "powers": ["super-strength", "flight"],
     "antagonists": ["ares"]
   },
   "hints": {

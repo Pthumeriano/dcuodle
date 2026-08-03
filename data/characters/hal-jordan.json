@@ -1,14 +1,14 @@
 {
-  "id": "green-lantern",
+  "id": "hal-jordan",
   "name": "Green Lantern",
   "aliases": ["Hal Jordan"],
-  "image": "green-lantern.webp",
+  "image": "hal-jordan.webp",
   "attributes": {
     "gender": "male",
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["pilot"],
-    "powers": ["flight", "hard-light"],
+    "powers": ["flight", "will"],
     "antagonists": ["sinestro"]
   },
   "hints": {

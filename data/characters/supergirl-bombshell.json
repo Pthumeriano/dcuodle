@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["bombshell"],
     "occupations": ["warrior"],
-    "powers": ["flight", "super-strength", "heat-vision", "invulnerability"],
+        "powers": ["super-strength", "flight", "invulnerability", "heat-vision"],
     "antagonists": ["brainiac"]
   },
   "hints": {

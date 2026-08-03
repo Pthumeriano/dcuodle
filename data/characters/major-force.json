@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["suicide-squad"],
     "occupations": ["warrior", "criminal"],
-    "powers": ["atomic", "quantum", "flight"],
-    "antagonists": ["captain-atom", "green-lantern"]
+    "powers": ["atomic", "flight", "super-strength"],
+    "antagonists": ["captain-atom", "hal-jordan"]
   },
   "hints": {
     "habitation": "Bludhaven",

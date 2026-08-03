@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["justice-league-dark"],
     "occupations": ["scientist"],
-    "powers": ["nature", "super-strength"],
+    "powers": ["nature", "super-strength", "immortality"],
     "antagonists": ["felix-faust"]
   },
   "hints": {

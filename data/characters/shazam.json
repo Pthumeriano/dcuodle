@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": [],
-    "powers": ["super-strength", "flight", "invulnerability", "magic", "electricity"],
+    "powers": ["super-strength", "flight", "invulnerability", "electricity"],
     "antagonists": ["black-adam"]
   },
   "hints": {

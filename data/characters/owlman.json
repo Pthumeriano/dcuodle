@@ -8,7 +8,7 @@
     "morality": "villain",
     "groups": ["crime-syndicate"],
     "occupations": ["detective", "criminal"],
-    "powers": ["peak-human", "genius-intellect"],
+    "powers": ["peak-human", "genius-intellect", "gadgets"],
     "antagonists": ["batman"]
   },
   "hints": {

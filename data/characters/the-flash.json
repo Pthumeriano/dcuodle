@@ -8,8 +8,8 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["scientist"],
-    "powers": ["super-speed", "electricity"],
-    "antagonists": ["reverse-flash", "captain-cold"]
+    "powers": ["super-speed"],
+    "antagonists": ["reverse-flash", "captain-cold", "heat-wave", "the-trickster", "the-top", "mirror-master", "weather-wizard", "gorilla-grodd"]
   },
   "hints": {
     "habitation": "Central City",

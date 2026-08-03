@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["warrior"],
-    "powers": ["quantum", "atomic", "flight"],
+    "powers": ["atomic", "flight"],
     "antagonists": ["major-force"]
   },
   "hints": {

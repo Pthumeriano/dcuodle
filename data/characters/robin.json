@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["batman-family", "teen-titans"],
     "occupations": ["vigilante", "detective"],
-    "powers": ["peak-human", "marksmanship", "gadgets"],
+    "powers": ["peak-human", "gadgets"],
     "antagonists": ["joker"]
   },
   "hints": {

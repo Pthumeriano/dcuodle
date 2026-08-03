@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["warrior"],
-    "powers": ["hard-light", "flight"],
-    "antagonists": ["green-lantern"]
+    "powers": ["fear", "flight"],
+    "antagonists": ["green-lantern-corps", "hal-jordan"]
   },
   "hints": {
     "habitation": "Korugar",

@@ -8,8 +8,8 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["ceo"],
-    "powers": ["flight", "super-strength", "heat-vision", "invulnerability"],
-    "antagonists": ["brainiac"]
+    "powers": ["super-strength", "flight", "invulnerability", "heat-vision"],
+    "antagonists": ["ultra-humanite", "legion-of-doom"]
   },
   "hints": {
     "habitation": "Metropolis",

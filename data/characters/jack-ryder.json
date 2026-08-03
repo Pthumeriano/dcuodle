@@ -7,8 +7,8 @@
     "gender": "male",
     "morality": "antihero",
     "groups": ["independent"],
-    "occupations": ["journalist", "vigilante"],
-    "powers": ["peak-human"],
+    "occupations": ["journalist"],
+    "powers": ["none"],
     "antagonists": []
   },
   "hints": {

@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["warrior"],
-    "powers": ["flight", "super-speed", "hard-light"],
+    "powers": ["flight", "super-strength","invulnerability"],
     "antagonists": ["darkseid"]
   },
   "hints": {

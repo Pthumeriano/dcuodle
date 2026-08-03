@@ -8,7 +8,7 @@
     "morality": "villain",
     "groups": ["elseworld"],
     "occupations": ["scientist"],
-    "powers": ["genius-intellect"],
+    "powers": ["genius-intellect", "gadgets"],
     "antagonists": ["superman"]
   },
   "hints": {

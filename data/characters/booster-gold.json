@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["vigilante"],
-    "powers": ["flight", "super-strength", "gadgets"],
+    "powers": ["flight", "gadgets","time-travel"],
     "antagonists": []
   },
   "hints": {

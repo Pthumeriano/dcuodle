@@ -8,7 +8,7 @@
     "morality": "villain",
     "groups": ["rogues"],
     "occupations": ["magician", "criminal"],
-    "powers": ["gadgets", "flight", "sorcery", "celestial"],
+    "powers": ["gadgets", "flight"],
     "antagonists": ["the-flash"]
   },
   "hints": {

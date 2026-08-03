@@ -6,7 +6,7 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["rogues"],
     "occupations": ["criminal"],
     "powers": ["gadgets", "electricity"],
     "antagonists": ["the-flash"]

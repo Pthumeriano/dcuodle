@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["magician"],
-    "powers": ["magic", "sorcery", "immortality"],
+    "powers": ["sorcery", "immortality"],
     "antagonists": ["black-adam"]
   },
   "hints": {

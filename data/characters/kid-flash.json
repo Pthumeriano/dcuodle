@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["teen-titans"],
     "occupations": ["vigilante"],
-    "powers": ["super-speed", "electricity"],
+    "powers": ["super-speed"],
     "antagonists": ["reverse-flash"]
   },
   "hints": {

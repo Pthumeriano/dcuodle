@@ -8,7 +8,7 @@
     "morality": "antihero",
     "groups": ["bombshell"],
     "occupations": ["thief"],
-    "powers": ["peak-human"],
+    "powers": ["peak-human","gadgets"],
     "antagonists": ["batman"]
   },
   "hints": {

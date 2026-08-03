@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["teen-titans"],
     "occupations": ["vigilante"],
-    "powers": ["nature", "super-strength"],
+    "powers": ["nature", "super-strength","shapeshift"],
     "antagonists": ["deathstroke"]
   },
   "hints": {

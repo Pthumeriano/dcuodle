@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["justice-league"],
     "occupations": ["warrior", "royalty"],
-    "powers": ["super-strength", "flight", "immortality", "sorcery", "celestial"],
+    "powers": ["super-strength", "flight"],
     "antagonists": ["ares", "cheetah"]
   },
   "hints": {

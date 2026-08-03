@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["royalty", "warrior"],
-    "powers": ["super-strength", "invulnerability", "hard-light"],
-    "antagonists": ["green-lantern"]
+    "powers": ["super-strength", "invulnerability"],
+    "antagonists": ["hal-jordan"]
   },
   "hints": {
     "habitation": "Mundo de Guerra",

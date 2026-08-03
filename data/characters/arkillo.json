@@ -8,8 +8,8 @@
     "morality": "villain",
     "groups": ["independent"],
     "occupations": ["warrior"],
-    "powers": ["hard-light", "flight", "super-strength"],
-    "antagonists": ["green-lantern"]
+    "powers": ["fear", "flight", "super-strength"],
+    "antagonists": ["hal-jordan"]
   },
   "hints": {
     "habitation": "Qward",

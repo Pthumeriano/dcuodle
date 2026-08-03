@@ -8,7 +8,7 @@
     "morality": "hero",
     "groups": ["independent"],
     "occupations": ["vigilante"],
-    "powers": ["hard-light", "flight"],
+    "powers": ["will", "flight"],
     "antagonists": ["sinestro"]
   },
   "hints": {
