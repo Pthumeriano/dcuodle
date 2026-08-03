@@ -9,11 +9,11 @@
     "groups": ["legion-of-doom"],
     "occupations": ["scientist"],
     "powers": ["telepathy", "super-strength", "genius-intellect", "mental"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Gorilla City",
-    "description": "-",
+    "description": "Domina mentes à distância, despreza a humanidade e quer o trono de uma cidade secreta",
     "palette": ["#5d4037", "#3e2723", "#c62828"]
   }
 }

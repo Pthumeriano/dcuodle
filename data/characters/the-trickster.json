@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["rogues"],
     "occupations": ["criminal"],
     "powers": ["gadgets"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
+    "description": "Ex-acrobata de circo que fabricou sapatos capazes de andar no ar e um arsenal de brinquedos letais. Bombas de goma de mascar e ioiôs explosivos escondem alguém genuinamente perigoso.",
     "palette": ["#c2185b", "#fdd835", "#2e7d32"]
   }
 }

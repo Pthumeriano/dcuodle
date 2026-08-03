@@ -60,7 +60,8 @@
     "orange-lantern-corps",
     "star-sapphire-corps",
     "black-lantern-corps",
-    "magents-of-chaos"
+    "magents-of-chaos",
+    "flash-family"
   ],
   "occupations": [
     "vigilante",
@@ -213,6 +214,8 @@
     "ion",
     "john-stewart",
     "black-lantern-corps",
-    "magents-of-chaos"
+    "magents-of-chaos",
+    "flash-family",
+    "rogues"
   ]
 }

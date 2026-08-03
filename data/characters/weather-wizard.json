@@ -9,11 +9,11 @@
     "groups": ["rogues"],
     "occupations": ["criminal"],
     "powers": ["gadgets", "electricity"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
+    "description": "Herdou do irmão morto um cetro capaz de comandar tempestades, raios e furacões. Usa o clima inteiro de uma cidade como arma quando é contrariado.",
     "palette": ["#455a64", "#fdd835", "#1565c0"]
   }
 }

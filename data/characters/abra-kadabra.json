@@ -9,11 +9,11 @@
     "groups": ["rogues"],
     "occupations": ["magician", "criminal"],
     "powers": ["gadgets", "flight"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "Ilusionista de palco do século 64 que viajou ao passado atrás de uma plateia que ainda se impressionasse. Sua mágica é, na verdade, tecnologia do futuro — e ele virou um dos vilões mais sádicos do velocista escarlate.",
+    "description": "Ilusionista de palco do século 64 que viajou ao passado atrás de uma plateia que ainda se impressionasse.",
     "palette": ["#2f2545", "#ddd9d6", "#171716"]
   }
 }

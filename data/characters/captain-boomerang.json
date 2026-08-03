@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["suicide-squad"],
+    "groups": ["rogues", "suicide-squad"],
     "occupations": ["criminal"],
     "powers": ["gadgets"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
+    "description": "Australiano ranzinza cujo único talento é arremessar bumerangues — mas cada um deles explode, corta ou persegue o alvo. Foi recrutado à força para o pelotão suicida do governo.",
     "palette": ["#5d4037", "#1565c0", "#fdd835"]
   }
 }

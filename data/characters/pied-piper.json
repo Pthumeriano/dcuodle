@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "antihero",
-    "groups": ["independent"],
+    "groups": ["rogues"],
     "occupations": ["criminal"],
     "powers": ["gadgets"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
+    "description": "Herdeiro milionário nascido surdo, curado por uma cirurgia e obcecado por som desde então. Suas flautas hipnotizam multidões e destroem estruturas por ressonância. Já trocou de lado mais de uma vez.",
     "palette": ["#2e7d32", "#f9a825", "#212121"]
   }
 }

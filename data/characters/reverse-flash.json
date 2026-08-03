@@ -9,11 +9,11 @@
     "groups": ["independent"],
     "occupations": ["scientist"],
     "powers": ["super-speed"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City (do século 25)",
-    "description": "-",
+    "description": "Fã obsessivo vindo de séculos no futuro, refez em si o acidente que criou o ídolo — e ao descobrir que era destinado a ser o vilão da história, decidiu abraçar o papel. Apagou a vida do rival de trás para frente.",
     "palette": ["#f9d71c", "#b71c1c", "#212121"]
   }
 }

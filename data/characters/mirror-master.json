@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["rogues"],
     "occupations": ["criminal"],
     "powers": ["gadgets"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
+    "description": "Escocês que transformou espelhos em portas: viaja por qualquer superfície refletiva e prende inimigos dentro de dimensões de vidro. Rouba mais por esporte que por necessidade.",
     "palette": ["#00acc1", "#b0bec5", "#212121"]
   }
 }

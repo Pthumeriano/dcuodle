@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "antihero",
-    "groups": ["independent"],
+    "groups": ["rogues"],
     "occupations": ["criminal"],
     "powers": ["ice"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
+    "description": "Ladrão metódico que construiu uma arma capaz de reduzir tudo à temperatura do zero absoluto. É o líder e o autor do código de conduta da gangue: nada de matar sem necessidade, nada de trair um colega.",
     "palette": ["#0288d1", "#b3e5fc", "#37474f"]
   }
 }

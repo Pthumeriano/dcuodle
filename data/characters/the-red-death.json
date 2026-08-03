@@ -8,12 +8,12 @@
     "morality": "villain",
     "groups": ["dark-knights"],
     "occupations": ["criminal"],
-    "powers": ["super-speed", "genius-intellect","peak-human"],
-    "antagonists": ["the-flash"]
+    "powers": ["super-speed", "genius-intellect", "peak-human"],
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Multiverso Sombrio",
-    "description": "-",
+    "description": "Num mundo do Multiverso Sombrio, o cavaleiro de Gotham fundiu o próprio corpo ao do velocista para roubar sua velocidade. Os dois dividem a mesma carne, e o prisioneiro grita por dentro.",
     "palette": ["#b3122b", "#1a1a1a", "#f9a825"]
   }
 }

@@ -1,0 +1,19 @@
+{
+  "id": "the-top",
+  "name": "The Top",
+  "aliases": ["Roscoe Dillon"],
+  "image": "the-top.webp",
+  "attributes": {
+    "gender": "male",
+    "morality": "villain",
+    "groups": ["rogues"],
+    "occupations": ["criminal"],
+    "powers": ["gadgets", "flight"],
+    "antagonists": ["the-flash", "flash-family"]
+  },
+  "hints": {
+    "habitation": "Metropolis",
+    "description": "Obcecado por piões, giroscópios e tudo que roda, virou criminoso capaz de girar em altíssima velocidade. Já teve a mente alterada por magia para virar herói, enlouqueceu de culpa e tentou converter os colegas de gangue junto.",
+    "palette": ["#1b5e20", "#f9d71c", "#212121"]
+  }
+}

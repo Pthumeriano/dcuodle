@@ -9,11 +9,11 @@
     "groups": ["crime-syndicate"],
     "occupations": ["criminal"],
     "powers": ["super-speed"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City (Terra-3)",
-    "description": "-",
+    "description": "O velocista da Terra invertida, onde os heróis são tiranos. Extrai velocidade de uma fórmula matemática e mata por tédio, não por objetivo.",
     "palette": ["#f9a825", "#1a1a1a", "#c62828"]
   }
 }

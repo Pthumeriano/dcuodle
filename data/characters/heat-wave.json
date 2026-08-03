@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["rogues"],
     "occupations": ["criminal"],
     "powers": ["fire"],
-    "antagonists": ["the-flash"]
+    "antagonists": ["the-flash", "flash-family"]
   },
   "hints": {
     "habitation": "Central City",
-    "description": "-",
+    "description": "Piromaníaco desde a infância, quando incendiou a própria casa com a família dentro. Veste um traje à prova de fogo e carrega um lança-chamas — e é o oposto exato do colega de gangue que congela.",
     "palette": ["#c62828", "#e65100", "#212121"]
   }
 }
