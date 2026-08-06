@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["psychiatrist", "criminal"],
     "powers": ["genius-intellect", "gadgets"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Psiquiatra obcecado por fobias, expulso da universidade depois de usar alunos como cobaias. Sintetizou um gás que faz a vítima ver o próprio pior medo e usa isso como quem faz pesquisa de campo.",
     "palette": ["#5d4037", "#212121", "#cddc39"]
   }
 }

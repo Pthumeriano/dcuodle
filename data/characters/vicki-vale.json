@@ -9,11 +9,11 @@
     "groups": ["independent"],
     "occupations": ["journalist"],
     "powers": ["none"],
-    "antagonists": []
+    "antagonists": ["goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Repórter investigativa que persegue a identidade do vigilante mascarado com a mesma teimosia com que ele persegue criminosos. Publica o que descobre, e isso já quase a matou.",
     "palette": ["#c2185b", "#eceff1", "#5d4037"]
   }
 }

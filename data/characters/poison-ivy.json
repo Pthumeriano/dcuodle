@@ -9,11 +9,11 @@
     "groups": ["gotham-city-sirens", "suicide-squad"],
     "occupations": ["scientist", "criminal"],
     "powers": ["toxin-immunity", "nature"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Botânica transformada por toxinas num organismo meio vegetal, imune a venenos e capaz de comandar plantas. Considera a humanidade uma praga e as árvores, sua família de verdade.",
     "palette": ["#1b5e20", "#b71c4a", "#66bb6a"]
   }
 }

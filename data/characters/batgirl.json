@@ -9,11 +9,11 @@
     "groups": ["batman-family"],
     "occupations": ["vigilante", "detective"],
     "powers": ["peak-human", "genius-intellect", "gadgets"],
-    "antagonists": ["joker"]
+    "antagonists": ["joker", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Filha de um comissário de polícia",
     "palette": ["#4a148c", "#212121", "#fdd835"]
   }
 }

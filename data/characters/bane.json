@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["suicide-squad"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["criminal"],
     "powers": ["super-strength"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Santa Prisca",
-    "description": "-",
+    "description": "Literalmente o maior hater de morcegos",
     "palette": ["#1b5e20", "#212121", "#8d6e63"]
   }
 }

@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "antihero",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["scientist"],
     "powers": ["flight", "super-strength"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Zoólogo que tentou curar a própria surdez com um extrato de morcego e virou a coisa que estudava. Voa sobre Gotham em surtos, sem lembrar depois do que fez.",
     "palette": ["#4e342e", "#a1887f", "#1c1c1c"]
   }
 }

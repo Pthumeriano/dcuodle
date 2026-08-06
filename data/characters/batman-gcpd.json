@@ -9,11 +9,11 @@
     "groups": ["elseworld"],
     "occupations": ["detective"],
     "powers": ["peak-human", "genius-intellect", "gadgets"],
-    "antagonists": ["joker"]
+    "antagonists": ["joker", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "ALERTA: Contém preparo",
     "palette": ["#0d1b3e", "#1c1c22", "#90a4ae"]
   }
 }

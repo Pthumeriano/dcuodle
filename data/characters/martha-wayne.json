@@ -9,11 +9,11 @@
     "groups": ["independent"],
     "occupations": [],
     "powers": ["none"],
-    "antagonists": []
+    "antagonists": ["joe-chill", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Filantropa da alta sociedade de Gotham, morta a tiros num beco ao sair do cinema com o marido e o filho pequeno. O colar de pérolas arrebentado no chão virou a imagem que define a cidade.",
     "palette": ["#eceff1", "#b71c1c", "#455a64"]
   }
 }

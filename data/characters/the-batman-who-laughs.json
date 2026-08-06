@@ -9,11 +9,11 @@
     "groups": ["dark-knights"],
     "occupations": ["detective", "criminal"],
     "powers": ["peak-human", "genius-intellect"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Multiverso Sombrio",
-    "description": "-",
+    "description": "Num universo sombrio, o palhaço morreu liberando um gás que transformou o próprio morcego naquilo que ele mais odiava. Ficou o método do detetive com a moral do bufão.",
     "palette": ["#1a1a1a", "#2e7d32", "#c62828"]
   }
 }

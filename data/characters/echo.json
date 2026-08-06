@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["criminal"],
     "powers": ["none"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "A outra metade da dupla de capangas do homem dos enigmas. Espelha a parceira em tudo, do uniforme ao jeito de bater.",
     "palette": ["#4a148c", "#2e7d32", "#eeeeee"]
   }
 }

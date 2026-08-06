@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["scientist", "criminal"],
     "powers": ["genius-intellect", "gadgets", "mental"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Especialista em neurotecnologia que fabrica chips de controle mental e os esconde em chapéus. Vive dentro de um livro infantil que leu vezes demais e sequestra garotas para completar uma mesa de chá.",
     "palette": ["#2e7d32", "#6a1b9a", "#fdd835"]
   }
 }

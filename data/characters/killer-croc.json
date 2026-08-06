@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["suicide-squad"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["criminal"],
     "powers": ["super-strength"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Esgotos de Gotham",
-    "description": "-",
+    "description": "Nasceu com uma condição de pele que o cobriu de escamas e o empurrou para os esgotos ainda menino. A força e a mordida são reais; a crueldade foi ensinada por quem o tratou como monstro.",
     "palette": ["#33691e", "#827717", "#3e2723"]
   }
 }

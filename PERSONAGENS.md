@@ -72,6 +72,76 @@ Lista completa dos ids: `ls data/characters/`.
 
 ---
 
+## Lotes temáticos — antagonistas, grupos e descrições
+
+Terceiro passo do fluxo, rodado por **família** e não por episódio, porque as três coisas
+que faltam dependem de lore compartilhada: quem é inimigo de quem, quem pertence a qual
+time, e o que dizer sem entregar o nome. Cada lote fecha `groups`, `antagonists` e
+`hints.description` para a família inteira de uma vez.
+
+**Regra dos antagonistas — exatamente 2: um indivíduo e um grupo.** O `sinestro` é o
+modelo: `["hal-jordan", "green-lantern-corps"]`. Quem não tem nemesis individual no cânon
+(civis, entidades) fica **só com o grupo** — não invente rivalidade que não existe. Quem
+tinha listas longas foi cortado: o `the-flash` tinha oito, o `nekron` e o `black-hand`
+tinham sete grupos cada.
+
+**Descrições:** curtas, em PT, **sem citar o `name` nem nenhum dos `aliases`** do próprio
+personagem. A dica é liberada com 5 tentativas; entregar o nome a inutiliza. Rode o
+verificador antes de fechar o lote — ele já pegou 12 vazamentos, incluindo um `predator`
+cujo alias é "Entidade do Amor" descrito como *"Entidade violeta que encarna o amor"*.
+
+```sh
+# vazamento de nome/alias nas descrições
+python3 -c '
+import json,glob,re
+for f in sorted(glob.glob("data/characters/*.json")):
+    c=json.load(open(f)); d=c["hints"]["description"].lower()
+    if d.strip() in ("-",""): continue
+    for t in [c["name"]]+c["aliases"]:
+        for w in re.findall(r"\w{5,}", t):
+            if w.lower() in d: print(c["id"], "cita", repr(w))'
+```
+
+### Lotes feitos
+
+- [x] **Lanternas** (33) — as 9 cores do espectro. 24 saíram de `independent` para sua
+  corporação; `hard-light` virou `lantern` e as cores viraram poder (`will`, `fear`,
+  `rage`, `hope`, `greed`, `compassion`, `love`, `ultraviolet`, `black-lantern`).
+- [x] **Flash e Rogues** (15, +`the-top` novo) — grupo `flash-family` criado e usado nos
+  dois sentidos: afiliação do velocista e grupo antagonista dos inimigos da linhagem.
+
+### Lotes pendentes
+
+Ordem sugerida, do mais delimitado ao mais difuso. O número é quanto ainda falta no grupo.
+
+- [ ] **Bat-família** (8) — o `batman` é um dos 3 que ainda estouram a regra
+- [ ] **Titãs** (16) — já revisados nos demais campos no lote dos 17
+- [ ] **Liga da Justiça** (28) — o maior; talvez valha quebrar em dois
+- [ ] **Justice League Dark / magia** (9)
+- [ ] **Esquadrão Suicida** (9) · **Sirens de Gotham** (3) · **Legião do Mal** (5)
+- [ ] **Cavaleiros das Trevas** (6) · **Sindicato do Crime** (3) · **Legião do séc. 31** (4)
+- [ ] **Variantes** — `elseworld` (11), `bombshell` (4), `flashpoint` (4)
+- [ ] **Apokolips e Novos Deuses** — hoje quase todos em `independent`
+- [ ] **Amazonas e panteão grego** — idem
+- [ ] **Os 118 em `independent`** — é onde mora a maior parte do trabalho. Muitos vão
+  ganhar grupo de verdade nos lotes acima; o que sobrar é civil/NPC e fica só com o grupo
+  antagonista.
+
+### Placar
+
+Atualize a cada lote fechado.
+
+| | feito | total |
+| --- | --- | --- |
+| Antagonistas na regra (indivíduo + grupo) | 49 | 270 |
+| Descrições escritas | 73 | 270 |
+| Fora de `independent` como único grupo | 153 | 270 |
+
+Ainda com 3+ antagonistas, de revisões anteriores à regra: `batman`, `deathstroke`,
+`emerald-empress`.
+
+---
+
 ## Revisão de atributos
 
 Segundo passo do fluxo: depois de bulk-adicionar, revisar **um por um** contra o cânon

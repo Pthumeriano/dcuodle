@@ -9,11 +9,11 @@
     "groups": ["elseworld"],
     "occupations": ["warrior"],
     "powers": ["peak-human", "genius-intellect", "gadgets"],
-    "antagonists": ["ras-al-ghul"]
+    "antagonists": ["ras-al-ghul", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Nanda Parbat",
-    "description": "-",
+    "description": "ALERTA: Contém preparo",
     "palette": ["#1c1c22", "#7b241c", "#37474f"]
   }
 }

@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "female",
     "morality": "antihero",
-    "groups": ["independent"],
+    "groups": ["batman-family"],
     "occupations": ["vigilante"],
     "powers": ["peak-human", "marksmanship", "gadgets"],
-    "antagonists": []
+    "antagonists": ["penguin", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Filha de uma família da máfia, viu todos serem chacinados por um clã rival e sobrou sozinha. Caça o crime organizado com besta na mão e sem a relutância dos colegas em matar.",
     "palette": ["#4a148c", "#212121", "#eceff1"]
   }
 }

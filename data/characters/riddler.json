@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["criminal"],
     "powers": ["genius-intellect", "gadgets"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Compulsivo por enigmas a ponto de sabotar os próprios crimes: precisa que alguém decifre a charada, senão não teve graça. Deixa pistas porque não suporta a ideia de não ser o mais inteligente da sala.",
     "palette": ["#1b5e20", "#7b1fa2", "#c6ff00"]
   }
 }

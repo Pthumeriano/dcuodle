@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["scientist", "criminal"],
     "powers": ["genius-intellect", "munitions"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Cirurgião brilhante e amigo de infância do herdeiro dos Wayne, corroído pela inveja desde sempre. Enfaixa o rosto inteiro justamente porque pode ter qualquer um.",
     "palette": ["#eceff1", "#90a4ae", "#b71c1c"]
   }
 }

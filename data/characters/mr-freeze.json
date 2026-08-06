@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["scientist", "criminal"],
     "powers": ["ice", "genius-intellect"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Criogenista que congelou a esposa doente para ganhar tempo e ficou preso num traje a subzero depois de um acidente no laboratório. Cada roubo que comete é para financiar a cura dela.",
     "palette": ["#00bcd4", "#607d8b", "#e1f5fe"]
   }
 }

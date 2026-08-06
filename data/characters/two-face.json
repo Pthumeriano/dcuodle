@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["criminal"],
-    "powers": ["gadgets", "munitions","genius-intellect"],
-    "antagonists": ["batman"]
+    "powers": ["gadgets", "munitions", "genius-intellect"],
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Promotor público íntegro até ter metade do rosto queimada por ácido em pleno tribunal. Desde então decide tudo — inclusive quem vive — no cara ou coroa de uma moeda de duas caras, uma delas riscada.",
     "palette": ["#212121", "#eceff1", "#b71c1c"]
   }
 }

@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": [],
     "powers": ["super-strength", "immortality"],
-    "antagonists": ["batman"]
+    "antagonists": ["alan-scott", "batman-family"]
   },
   "hints": {
     "habitation": "Pântano do Matadouro",
-    "description": "-",
+    "description": "Comerciante assassinado e jogado num pântano no século 19, devolvido pela água podre como um gigante branco sem memória. Morre e volta indefinidamente, cada vez um pouco diferente, recitando a mesma cantiga infantil.",
     "palette": ["#455a64", "#212121", "#795548"]
   }
 }

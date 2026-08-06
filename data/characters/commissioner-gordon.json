@@ -9,11 +9,11 @@
     "groups": ["batman-family"],
     "occupations": ["detective"],
     "powers": ["none"],
-    "antagonists": ["joker"]
+    "antagonists": ["joker", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Alma mais honesta de Gotham City",
     "palette": ["#263238", "#455a64", "#fdd835"]
   }
 }

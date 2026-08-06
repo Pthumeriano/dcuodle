@@ -9,11 +9,11 @@
     "groups": ["elseworld"],
     "occupations": ["warrior"],
     "powers": ["peak-human", "genius-intellect", "gadgets"],
-    "antagonists": ["joker"]
+    "antagonists": ["joker", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Era Pré-Histórica",
-    "description": "-",
+    "description": "ALERTA: Contém preparo",
     "palette": ["#3e2723", "#8d6e63", "#d7ccc8"]
   }
 }

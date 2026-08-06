@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["criminal", "ceo"],
     "powers": ["gadgets"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Baixinho de nariz adunco humilhado a vida inteira pela alta sociedade, comprou um clube noturno e virou o banqueiro do crime. Esconde armas dentro de guarda-chuvas e mantém as mãos limpas.",
     "palette": ["#0d0d0d", "#4a148c", "#eceff1"]
   }
 }

@@ -9,11 +9,11 @@
     "groups": ["flashpoint"],
     "occupations": ["vigilante", "ceo"],
     "powers": ["peak-human", "genius-intellect", "gadgets"],
-    "antagonists": ["joker"]
+    "antagonists": ["joker", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "ALERTA: Contém preparo",
     "palette": ["#1a1a1a", "#7b241c", "#37474f"]
   }
 }

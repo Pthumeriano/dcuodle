@@ -9,11 +9,11 @@
     "groups": ["independent"],
     "occupations": ["journalist"],
     "powers": ["none"],
-    "antagonists": []
+    "antagonists": ["goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Apresentador de TV sensacionalista e provocador, especializado em constranger convidados ao vivo. Um acidente com produtos químicos deixou nele algo bem mais instável que a persona de tela.",
     "palette": ["#fdd835", "#b71c1c", "#2e7d32"]
   }
 }

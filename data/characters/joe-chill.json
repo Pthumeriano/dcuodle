@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["criminal"],
     "powers": ["none"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Assaltante de rua que numa noite escolheu o casal errado num beco de Gotham e criou, com dois tiros, o inimigo que passaria a vida caçando gente como ele.",
     "palette": ["#212121", "#5d4037", "#455a64"]
   }
 }

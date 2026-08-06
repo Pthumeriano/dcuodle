@@ -9,7 +9,7 @@
     "groups": ["batman-family", "teen-titans"],
     "occupations": ["vigilante", "detective"],
     "powers": ["peak-human", "genius-intellect", "gadgets"],
-    "antagonists": ["joker"]
+    "antagonists": ["joker", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",

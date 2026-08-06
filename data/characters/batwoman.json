@@ -9,11 +9,11 @@
     "groups": ["batman-family"],
     "occupations": ["vigilante"],
     "powers": ["peak-human", "genius-intellect", "gadgets"],
-    "antagonists": ["penguin"]
+    "antagonists": ["penguin", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "ALERTA: Contém preparo",
     "palette": ["#1c1c22", "#c1121f", "#f2f2f2"]
   }
 }

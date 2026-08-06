@@ -9,11 +9,11 @@
     "groups": ["justice-league", "batman-family"],
     "occupations": ["vigilante", "detective", "ceo"],
     "powers": ["peak-human", "genius-intellect", "gadgets"],
-    "antagonists": ["joker", "penguin", "ras-al-ghul"]
+    "antagonists": ["joker", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "ALERTA: Contém preparo",
     "palette": ["#1c1c22", "#3a3f5c", "#f2c94c"]
   }
 }

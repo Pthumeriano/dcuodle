@@ -9,11 +9,11 @@
     "groups": ["suicide-squad", "gotham-city-sirens"],
     "occupations": ["criminal", "psychiatrist"],
     "powers": ["peak-human", "genius-intellect"],
-    "antagonists": ["batman", "joker"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Psiquiatra do manicômio que se apaixonou pelo próprio paciente e largou o diploma para segui-lo de martelo na mão. Passou anos entendendo que aquilo não era amor.",
     "palette": ["#c2185b", "#1565c0", "#eeeeee"]
   }
 }

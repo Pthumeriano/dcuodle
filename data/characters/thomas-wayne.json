@@ -9,11 +9,11 @@
     "groups": ["independent"],
     "occupations": ["ceo"],
     "powers": ["none"],
-    "antagonists": []
+    "antagonists": ["joe-chill", "goons-of-gotham"]
   },
   "hints": {
     "habitation": "Gotham City",
-    "description": "-",
+    "description": "Médico e herdeiro da maior fortuna da cidade, morto ao lado da esposa num assalto de rua. Deixou o filho de oito anos vivo e sozinho entre os dois corpos.",
     "palette": ["#1a1a22", "#eceff1", "#8d6e63"]
   }
 }

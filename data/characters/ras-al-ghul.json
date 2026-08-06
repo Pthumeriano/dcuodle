@@ -6,14 +6,14 @@
   "attributes": {
     "gender": "male",
     "morality": "villain",
-    "groups": ["independent"],
+    "groups": ["goons-of-gotham"],
     "occupations": ["warrior"],
     "powers": ["immortality", "peak-human", "gadgets"],
-    "antagonists": ["batman"]
+    "antagonists": ["batman", "batman-family"]
   },
   "hints": {
     "habitation": "Nanda Parbat",
-    "description": "-",
+    "description": "Lidera uma ordem de assassinos há séculos, rejuvenescendo em poços químicos sempre que o corpo falha. Quer purgar a humanidade para salvar o planeta e considera o morcego o genro ideal.",
     "palette": ["#1b5e20", "#004d40", "#212121"]
   }
 }
