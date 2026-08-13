@@ -3,7 +3,12 @@ import { compare } from "game/compare"
 import confetti from "canvas-confetti"
 
 const ATTRS = ["gender", "morality", "groups", "occupations", "powers", "antagonists"]
-const HINTS = [[3, "habitation", "Habitação"], [5, "description", "Descrição"], [7, "palette", "Paleta"]]
+const HINTS = [[3, "palette", "Paleta"], [5, "habitation", "Habitação"], [7, "description", "Descrição"]]
+
+// O traço só aparece com o <details> fechado — quem esconde/mostra é o CSS.
+const EYE = `<svg class="eye" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+  <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/>
+  <line class="slash" x1="3" y1="21" x2="21" y2="3"/></svg>`
 
 export default class extends Controller {
   static targets = ["input", "options", "rows", "hints", "status"]
@@ -71,11 +76,15 @@ export default class extends Controller {
       .reverse()
       .join("")
 
+    // Dica nasce fechada. render() reconstrói a lista a cada palpite, então guarda as abertas.
+    const shown = [...this.hintsTarget.querySelectorAll("details[open]")].map((d) => d.dataset.key)
+
     this.hintsTarget.innerHTML = HINTS.map(([at, key, label]) => {
       if (this.guesses.length < at) {
         return `<li class="locked">${label} — em ${at - this.guesses.length} tentativa(s)</li>`
       }
-      return `<li><b>${label}:</b> ${this.hint(key)}</li>`
+      return `<li><details data-key="${key}" ${shown.includes(key) ? "open" : ""}>
+        <summary>${EYE}<b>${label}</b></summary>${this.hint(key)}</details></li>`
     }).join("")
 
     if (this.won) {

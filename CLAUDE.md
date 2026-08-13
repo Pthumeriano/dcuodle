@@ -60,9 +60,9 @@ Dicas liberadas por número de tentativas:
 
 | Tentativas | Dica              |
 | ---------- | ----------------- |
-| 3          | habitação         |
-| 5          | descrição         |
-| 7          | paleta de cores   |
+| 3          | paleta de cores   |
+| 5          | habitação         |
+| 7          | descrição         |
 
 ## 4. Arquitetura — a fronteira front/back
 

@@ -94,6 +94,29 @@ h1 {
   font-weight: 600;
 }
 
+.hints summary {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  list-style: none;
+  cursor: pointer;
+}
+
+.hints summary::-webkit-details-marker {
+  display: none;
+}
+
+.hints .eye {
+  width: 1.1rem;
+  height: 1.1rem;
+  flex-shrink: 0;
+  color: #9e9eb0;
+}
+
+.hints details[open] .slash {
+  display: none;
+}
+
 .hints {
   list-style: none;
   padding: 0;
